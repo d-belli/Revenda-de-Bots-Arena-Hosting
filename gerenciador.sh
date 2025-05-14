@@ -25,7 +25,7 @@ NC='\033[0m'  # Sem cor
 
 # === CONFIGURAÇÕES ===
 API="ARENAHOSTING"  # Chave API para validação
-GERENCIADORES=("manager_en.sh" "manager_es.sh" "manager_pt.sh")
+GERENCIADORES=("gerenciador_en.sh" "gerenciador_es.sh" "gerenciador_pt.sh")
 LINGUA_FILE=".lingua_escolhida"  # Arquivo que salva a escolha da língua
 
 # === VERIFICAÇÃO DO ARQUIVO DE LÍNGUA ===
@@ -38,15 +38,15 @@ if [ -f "$LINGUA_FILE" ]; then
     echo -e "${CYAN}==============================================${NC}"
     case $LINGUA in
         "ENGLISH")
-            ./manager_en.sh "$API"
+            ./gerenciador_en.sh "$API"
             exit 0
             ;;
         "ESPAÑOL")
-            ./manager_es.sh "$API"
+            ./gerenciador_es.sh "$API"
             exit 0
             ;;
         "PORTUGUÊS")
-            ./manager_pt.sh "$API"
+            ./gerenciador_pt.sh "$API"
             exit 0
             ;;
         *)
@@ -99,15 +99,15 @@ escolher_lingua() {
     case $LINGUA_ESCOLHIDA in
         1)
             echo "ENGLISH" > "$LINGUA_FILE"
-            ./manager_en.sh "$API"
+            ./gerenciador_en.sh "$API"
             ;;
         2)
             echo "ESPAÑOL" > "$LINGUA_FILE"
-            ./manager_es.sh "$API"
+            ./gerenciador_es.sh "$API"
             ;;
         3)
             echo "PORTUGUÊS" > "$LINGUA_FILE"
-            ./manager_pt.sh "$API"
+            ./gerenciador_pt.sh "$API"
             ;;
         *)
             echo -e "${RED}OPÇÃO INVÁLIDA. TENTE NOVAMENTE.${NC}"
