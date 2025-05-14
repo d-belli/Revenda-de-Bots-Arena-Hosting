@@ -49,7 +49,7 @@ WHITELIST_HOSTNAMES=("arenahosting.com.br")
 WHITELIST_IPS=("166.0.189.163")
 VALIDATED=false
 # === CONFIGURAÇÕES DE VERSÃO ===
-VERSAO_LOCAL="1.0.2"  # Versão atual do script
+VERSAO_LOCAL="1.0.3"  # Versão atual do script
 URL_SCRIPT="https://raw.githubusercontent.com/d-belli/Multi_Bot-Plano01/refs/heads/main/gerenciador_pt.sh"  # Link para o conteúdo do script no GitHub
 
 # Obtém o nome do script atual (ex.: gerenciador.sh)
@@ -92,15 +92,14 @@ exibir_outdoor_3D() {
 
     # Arte 3D do texto principal
     local outdoor_text=(
-
-"           _____  ______ _   _            _    _  ____   _____ _______ _____ _   _  _____ "
-"     /\   |  __ \|  ____| \ | |   /\     | |  | |/ __ \ / ____|__   __|_   _| \ | |/ ____|"
-"    /  \  | |__) | |__  |  \| |  /  \    | |__| | |  | | (___    | |    | | |  \| | |  __ "
-"   / /\ \ |  _  /|  __| | . ` | / /\ \   |  __  | |  | |\___ \   | |    | | | . ` | | |_ |"
-"  / ____ \| | \ \| |____| |\  |/ ____ \  | |  | | |__| |____) |  | |   _| |_| |\  | |__| |"
- "/_/    \_\_|  \_\______|_| \_/_/    \_\ |_|  |_|\____/|_____/   |_|  |_____|_| \_|\_____|"                                                                                  
-
-    )  
+" _______  ______    _______  __    _  _______    __   __  _______  _______  _______  ___   __    _  _______ "
+"|   _   ||    _ |  |       ||  |  | ||   _   |  |  | |  ||       ||       ||       ||   | |  |  | ||       |"
+"|  |_|  ||   | ||  |    ___||   |_| ||  |_|  |  |  |_|  ||   _   ||  _____||_     _||   | |   |_| ||    ___|"
+"|       ||   |_||_ |   |___ |       ||       |  |       ||  | |  || |_____   |   |  |   | |       ||   | __ "
+"|       ||    __  ||    ___||  _    ||       |  |       ||  |_|  ||_____  |  |   |  |   | |  _    ||   ||  |"
+"|   _   ||   |  | ||   |___ | | |   ||   _   |  |   _   ||       | _____| |  |   |  |   | | | |   ||   |_| |"
+"|__| |__||___|  |_||_______||_|  |__||__| |__|  |__| |__||_______||_______|  |___|  |___| |_|  |__||_______|"                                                                                  
+ )  
 
     # Exibe o texto 3D centralizado
     for i in "${!outdoor_text[@]}"; do
