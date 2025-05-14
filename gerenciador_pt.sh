@@ -49,7 +49,7 @@ WHITELIST_HOSTNAMES=("arenahosting.com.br")
 WHITELIST_IPS=("166.0.189.163")
 VALIDATED=false
 # === CONFIGURAÇÕES DE VERSÃO ===
-VERSAO_LOCAL="1.0.1"  # Versão atual do script
+VERSAO_LOCAL="1.0.2"  # Versão atual do script
 URL_SCRIPT="https://raw.githubusercontent.com/d-belli/Multi_Bot-Plano01/refs/heads/main/gerenciador_pt.sh?token=GHSAT0AAAAAADCRJYHQQTRJBXIP2QZR4WHA2BD6Q7Q"  # Link para o conteúdo do script no GitHub
 
 # Obtém o nome do script atual (ex.: gerenciador.sh)
@@ -92,13 +92,14 @@ exibir_outdoor_3D() {
 
     # Arte 3D do texto principal
     local outdoor_text=(
-"  ____  ____     ___  ____    ____ "
-" /    ||    \   /  _]|    \  /    |"
-"|  o  ||  D  ) /  [_ |  _  ||  o  |"
-"|     ||    / |    _]|  |  ||     |"
-"|  _  ||    \ |   [_ |  |  ||  _  |"
-"|  |  ||  .  \|     ||  |  ||  |  |"
-"|__|__||__|\_||_____||__|__||__|__|"
+
+"           _____  ______ _   _            _    _  ____   _____ _______ _____ _   _  _____ "
+"     /\   |  __ \|  ____| \ | |   /\     | |  | |/ __ \ / ____|__   __|_   _| \ | |/ ____|"
+"    /  \  | |__) | |__  |  \| |  /  \    | |__| | |  | | (___    | |    | | |  \| | |  __ "
+"   / /\ \ |  _  /|  __| | . ` | / /\ \   |  __  | |  | |\___ \   | |    | | | . ` | | |_ |"
+"  / ____ \| | \ \| |____| |\  |/ ____ \  | |  | | |__| |____) |  | |   _| |_| |\  | |__| |"
+ "/_/    \_\_|  \_\______|_| \_/_/    \_\ |_|  |_|\____/|_____/   |_|  |_____|_| \_|\_____|"                                                                                  
+
     )  
 
     # Exibe o texto 3D centralizado
