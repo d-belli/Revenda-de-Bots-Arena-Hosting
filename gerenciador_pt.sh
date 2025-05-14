@@ -49,7 +49,7 @@ WHITELIST_HOSTNAMES=("arenahosting.com.br")
 WHITELIST_IPS=("166.0.189.163")
 VALIDATED=false
 # === CONFIGURAÇÕES DE VERSÃO ===
-VERSAO_LOCAL="1.0.0"  # Versão atual do script
+VERSAO_LOCAL="1.0.1"  # Versão atual do script
 URL_SCRIPT="https://raw.githubusercontent.com/d-belli/Multi_Bot-Plano01/refs/heads/main/gerenciador_pt.sh"  # Link para o conteúdo do script no GitHub
 
 # Obtém o nome do script atual (ex.: gerenciador.sh)
@@ -112,7 +112,7 @@ exibir_outdoor_3D() {
     tput cup $((start_line + ${#outdoor_text[@]} + 1)) $(( (width - ${#footer}) / 2 ))
     echo -e "${YELLOW}${footer}${NC}"
 
-    local links="vortexus.com.br & vortexuscloud.com"
+    local links="arenahosting.com.br"
     tput cup $((start_line + ${#outdoor_text[@]} + 2)) $(( (width - ${#links}) / 2 ))
     echo -e "${GREEN}${links}${NC}"
 
@@ -147,7 +147,7 @@ exibir_termos() {
     exibir_outdoor_3D
     sleep 1
 
-    echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Vortexus Cloud.${NC}"
+    echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Arena Hosting.${NC}"
     echo -e "${CYAN}==============================================${NC}"
 
     if [ ! -f "$TERMS_FILE" ]; then
@@ -359,7 +359,7 @@ gerenciar_ambiente() {
     echo -e "${CYAN}--------------------------------------${NC}"
 
     # Opções do menu
-    echo -e "${YELLOW}1 - ESCOLHER BOT PRONTO DA VORTEXUS${NC}"
+    echo -e "${YELLOW}1 - ESCOLHER BOT PRONTO DA ARENA HOSTING${NC}"
     echo -e "${YELLOW}2 - INICIAR O BOT ${INDICADOR_STATUS}${NC}"
     echo -e "${YELLOW}3 - PARAR O BOT - SERÁ ATUALIZADO EM BREVE${NC}"
     echo -e "${YELLOW}4 - REINICIAR O BOT - SERÁ ATUALIZADO EM BREVE${NC}"
@@ -2232,7 +2232,7 @@ execucao_inicial() {
         # Apenas verifica se os termos já foram aceitos (obrigatório)
         if [ ! -f "$TERMS_FILE" ]; then
             cabecalho
-            echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Vortexus Cloud.${NC}"
+            echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Arena Hosting.${NC}"
             echo -e "${CYAN}==============================================${NC}"
             
             while true; do
