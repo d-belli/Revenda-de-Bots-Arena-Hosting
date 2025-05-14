@@ -49,7 +49,7 @@ WHITELIST_HOSTNAMES=("arenahosting.com.br")
 WHITELIST_IPS=("166.0.189.163")
 VALIDATED=false
 # === CONFIGURAÇÕES DE VERSÃO ===
-VERSAO_LOCAL="1.0.4"  # Versão atual do script
+VERSAO_LOCAL="1.0.5"  # Versão atual do script
 URL_SCRIPT="https://raw.githubusercontent.com/MauroSupera/manager/refs/heads/main/gerenciador_pt.sh"  # Link para o conteúdo do script no GitHub
 
 # Obtém o nome do script atual (ex.: gerenciador.sh)
@@ -92,13 +92,14 @@ exibir_outdoor_3D() {
 
     # Arte 3D do texto principal
     local outdoor_text=(
-        " _   _  ___________ _____ _______   ___   _ _____ "
-        "| | | ||  _  | ___ \\_   _|  ___\\ \\ / / | | /  ___|"
-        "| | | || | | | |_/ / | | | |__  \\ V /| | | \\ --. "
-        "| | | || | | |    /  | | |  __| /   \\| | | |--. \\"
-        "\\ \\_/ /\\ \\_/ / |\\ \\  | | | |___/ /^\\ \\ |_| /\\__/ /"
-        " \\___/  \\___/\\_| \\_| \\_/ \\____/\\/   \\/\\___/\\____/ "
-    )
+"  ____  ____     ___  ____    ____ "
+" /    ||    \   /  _]|    \  /    |"
+"|  o  ||  D  ) /  [_ |  _  ||  o  |"
+"|     ||    / |    _]|  |  ||     |"
+"|  _  ||    \ |   [_ |  |  ||  _  |"
+"|  |  ||  .  \|     ||  |  ||  |  |"
+"|__|__||__|\_||_____||__|__||__|__|"
+    )  
 
     # Exibe o texto 3D centralizado
     for i in "${!outdoor_text[@]}"; do
