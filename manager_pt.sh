@@ -18,6 +18,25 @@ ARROW='➡️'
 CIRCLE_ON='◉'  # Círculo verde para ON
 CIRCLE_OFF='○' # Círculo vazio para OFF
 
+# === CONFIGURACIÓN ===
+# Configuración de la API esperada. Esta es la clave utilizada para validar la conexión con el gestor principal.
+API_ESPERADA="ARENAHOSTING"
+
+# === FUNCIÓN PARA VALIDAR LA API ===
+# Esta función verifica si la API proporcionada por el gestor principal corresponde con la clave esperada.
+# Si no coincide, el script muestra un mensaje de error y se cierra.
+# El usuario no debe modificar esta función a menos que comprenda cómo funciona la validación.
+validar_api() {
+    API_RECIBIDA=$1
+    if [ "$API_RECIBIDA" != "$API_ESPERADA" ]; then
+        echo -e "${RED}LA API NO PUEDE CONECTARSE AL ARCHIVO MANAGER.SH.${NC}"
+        echo -e "${YELLOW}POR FAVOR, PROPORCIONE EL ARCHIVO DE CONFIGURACIÓN PARA EJECUTAR ESTE ARCHIVO.${NC}"
+        echo -e "${YELLOW}SI NO SABE, CONTACTE CON NUESTRO SOPORTE:${NC}"
+        echo -e "${CYAN}https://arenahosting.com.br${NC}"
+        exit 1
+    fi
+}
+
 # === CONFIGURAÇÕES PRINCIPAIS ===
 BASE_DIR="/home/container"  # Diretório base onde os ambientes serão criados.
 NUM_AMBIENTES=5 # Número de ambientes que serão configurados.
