@@ -50,7 +50,7 @@ WHITELIST_IPS=("166.0.189.163")
 VALIDATED=false
 # === CONFIGURAÇÕES DE VERSÃO ===
 VERSAO_LOCAL="1.0.5"  # Versão atual do script
-URL_SCRIPT="https://raw.githubusercontent.com/MauroSupera/manager/refs/heads/main/gerenciador_pt.sh"  # Link para o conteúdo do script no GitHub
+URL_SCRIPT="https://raw.githubusercontent.com/d-belli/Multi_Bot-Plano01/refs/heads/main/manager_pt.sh"  # Link para o conteúdo do script no GitHub
 
 # Obtém o nome do script atual (ex.: gerenciador.sh)
 SCRIPT_NOME=$(basename "$0")
