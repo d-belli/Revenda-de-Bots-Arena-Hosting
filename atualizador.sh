@@ -10,12 +10,6 @@ verificar_atualizacoes() {
     echo -e "       VERIFICANDO ATUALIZAÇÕES"
     echo -e "${CYAN}======================================${NC}"
 
-    VERSAO_REMOTA=$(curl -s --max-time 5 "$URL_VERSION")
-    if [ -z "$VERSAO_REMOTA" ]; then
-        echo -e "${YELLOW}Não foi possível verificar atualizações. Tente novamente mais tarde.${NC}"
-        return
-    fi
-
     echo -e "${CYAN}Versão Atual: ${GREEN}${VERSAO_LOCAL}${NC}"
     echo -e "${CYAN}Versão Disponível: ${GREEN}${VERSAO_REMOTA}${NC}"
 
