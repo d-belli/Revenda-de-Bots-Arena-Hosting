@@ -5,7 +5,7 @@
 
 verificar_atualizacoes() {
     VERSAO_LOCAL="1.0.1"
-    $VERSAO_REMOTA="${URL_SCRIPT}"
+    VERSAO_REMOTA="${URL_SCRIPT}"
 
     echo -e "${CYAN}======================================${NC}"
     echo -e "       VERIFICANDO ATUALIZAÇÕES"
