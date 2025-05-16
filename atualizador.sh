@@ -4,13 +4,13 @@
 # BASE_DIR, URL_SCRIPT, SCRIPT_PATH
 
 verificar_atualizacoes() {
-    VERSAO_LOCAL=$(cat "${BASE_DIR}/version" 2>/dev/null || echo "0.0.0")
+    VERSAO_LOCAL="1.0.0"
 
     echo -e "${CYAN}======================================${NC}"
     echo -e "       VERIFICANDO ATUALIZAÇÕES"
     echo -e "${CYAN}======================================${NC}"
 
-    VERSAO_REMOTA=$(curl -s --max-time 5 "${URL_SCRIPT_VERSION:-$URL_SCRIPT/version}")
+    VERSAO_REMOTA=$(curl -s --max-time 5 "$URL_VERSION")
     if [ -z "$VERSAO_REMOTA" ]; then
         echo -e "${YELLOW}Não foi possível verificar atualizações. Tente novamente mais tarde.${NC}"
         return
