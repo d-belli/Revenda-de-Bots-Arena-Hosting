@@ -4,7 +4,7 @@
 # BASE_DIR, URL_SCRIPT, SCRIPT_PATH
 
 verificar_atualizacoes() {
-    VERSAO_LOCAL="1.0.0"
+    VERSAO_LOCAL="1.0.1"
 
     echo -e "${CYAN}======================================${NC}"
     echo -e "       VERIFICANDO ATUALIZAÇÕES"
