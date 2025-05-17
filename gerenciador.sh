@@ -1,3 +1,2380 @@
-z="
-";AKz='isit';KABz='if c';Zlz='ário';krz='l 2>';rWz='p $C';tKz='io';Upz='os${';Jaz=' CPU';Cyz='RMIN';Vuz='es p';Erz='CIAR';FDz='ome_';cwz=': $P';qkz='OS';Xnz='IO !';Idz='_pri';Ynz='= ht';UZz=' Uso';Uxz='sso.';HDz='ente';hUz='F"';HNz='p 0.';eBBz='[0-9';sFz='PUBL';lGz='RESO';kbz='- SE';lpz='ll 2';akz='a op';IFz='ICO}';Tgz='TE -';ghz='_ESC';Orz=' ARQ';vLz='nteú';dvz='ao m';PKz=' {';lKBz='lse';iHBz='TA}$';foz='URL=';gBBz=']] &';KHBz='A=$(';Fgz='$LIN';Tlz='yarn';Hnz='e${N';Dkz='que ';Zaz='{NOM';UPz='oor_';Foz='ique';wIBz='a co';woz=' sua';GUz='TUS=';Xpz='LONE';Iz='m'\''';KCz='NC}"';Hgz='espa';FTz=''\'' OU';Oqz='eja ';ebz='- VI';tbz='LETA';tfz='A-BO';Fiz='RIO"';hfz='teki';faz='ÃO 2';VWz=' "$P';pIz='xter';Epz=' Ten';taz='}${R';aEz='"';kBz='if !';SOz='"|  ';bPz='${#f';ydz='ots(';RCBz='alva';Ypz='POS_';jRz='LE" ';jMz='a_te';CGz='====';VUz='EEN}';psz='prim';dEBz=' fun';mFz='ico"';duz='_INV';aCz='S_FI';wDBz='g" |';Gsz='o di';kEz='.org';JSz='_MAR';vkz='do m';Pqz='iar ';Gkz='tent';rwz='nici';Cmz='" -m';Bsz='oi p';dBz='ENTE';YIz='TORI';Ttz='(sep';kWz='icia';ABz='ara ';Raz='"$NO';UOz='   _';KZz='L - ';VGz='o';Afz='"MIK';SVz='cand';jBBz=' -le';Tkz='dulo';Tqz='adrã';wwz='W}O ';jIBz='r a ';bCz='LE="';GYz='"/pr';ygz='21/N';sKz='p 5';BNz='i++)';SFz='$ ]]';ysz='S ES';Bjz='ED}R';Yaz='OW}$';WPz=' + 1';udz='ues"';jz='WARN';DIz='om s';UBBz='N}(N';YTz='as d';oEz='t/pl';Enz='vado';JGz='."';Mtz='n ad';Xwz='crip';fRz='Host';jVz='O" ]';nqz='s es';cEz='ICOS';rFBz='$OPC';RWz=': $O';Gmz='xec ';ZDz='m_am';NCBz='VO_N';cYz='/($2';mdz='AO_B';aIBz=' a n';Rkz='ules';dHz='ções';iQz='prin';bTz=' "$N';Unz='RL_R';Gtz=' $GE';RFBz='W}N$';Vcz='CAO ';wpz='ge.j';iyz='ada ';EFBz='A UM';pZz='MB} ';Jrz=' sta';FYz='1)';nnz=' Git';jFz='er o';jGz='TNAM';kPz='nks=';irz='D_PI';rRz='OS D';nEBz='fora';hcz='inic';vrz='/.pi';ITz='S JÁ';SGBz='" ]]';CHBz='açõe';Qvz='R" =';LZz='USAG';AHBz='ssív';oKz='daçõ';hez='"BLA';gHBz='{VER';nCz='rqui';fEz='fig.';ftz=' PAC';JZz='USED';Cwz='ASE_';PMz='pt a';QPz='Aren';pABz='}3${';Fez='SPON';SDz='BACK';nrz=' -15';oWz='ckgr';RGz='a o ';ACBz=' != ';pXz='}.${';Emz='pth ';Gpz='e_me';ZGBz='O!${';mrz='| tr';yLz='ript';Xkz='ot.$';tMz='W}"';tNz='heig';mjz=' suc';Ubz='SERÁ';WJz='s au';fFz='foi ';aVz=')${N';XZz='orce';dZz='SED ';UBz=' amb';vCBz='irec';kqz='utar';TEz=' | a';Vtz='os p';xgz='elde';Iez='${LI';Bwz='o_es';BLz='ion.';QIz='clea';Qmz='ovid';bKz='fals';qEBz='nada';Muz='w "$';JYz=' ] &';jnz='rnec';Smz='HAMA';nyz='ETAR';uRz='O? (';fxz='ndo:';aWz='DO" ';cyz='tail';dcz='TE_P';EKBz='}/an';hMz='{NC}';wJBz=' (At';XKBz='as c';iDBz='CONT';Ikz='vame';HLBz='wall';hYz='intf';XFBz='R AN';plz='ual?';Hvz='çar ';swz='serv';SXz='enco';cfz='ot.g';Ipz='"O Q';Oxz='pkil';SCBz='r co';yHz=' Amb';UEBz='ot I';pDz='MES=';EKz='ps:/';Ehz='vid-';ROz='__ "';sQz='.${N';tJBz='sati';MLBz='DA"';cDBz='UM =';Sjz='o a ';UDBz='TEMP';INz='02';aoz='-p "';WHz='o us';hTz='{i}"';yIBz='car ';PVz='●${N';cCBz='ar" ';nCBz='RENO';WSz='S. P';VCz='ão c';yOz=' $((';roz='-d/ ';xfz='- ht';rz='CIRC';eXz='tá c';jsz='uçõe';qpz='o!${';qxz='art)';Zsz='bot.';mJz='"💡 ';Zjz='git ';bDz='tes_';yCz='S_AR';KCBz='me e';Swz='R}/.';Eyz='W}Um';nvz='oad_';sOz='door';SUz='o am';hwz='rçan';Jlz='sso!';YRz='tido';gHz='ITEL';kLz='fs/h';xqz='d) [';GKz='naho';gGz='HITE';Sqz='izaç';pPz='}) /';mCBz='e() ';Buz='(ech';NLBz='s_si';Ilz='suce';Lxz='o fi';sDz='aren';JBz='="/h';olz='ver ';TOz=' _  ';giz='A';KBz='ome/';tjz='rro ';Zrz='VO"';tTz='} Pa';vYz=''\''{pr';Ksz=';';eHz='[ " ';rDz='ero.';gEz='me" ';rSz='RMOS';pyz='SÃO"';FZz='nfo ';BJBz='lter';GPz='${ou';Wyz='mpo ';CPz='ne +';Zwz='$PID';nmz='ance';tDBz='"[^\';HQz='ano';mHBz='_LOC';Ciz='stal';cKBz='idas';Urz='sh ]';yuz='CMD ';WIz='E NÃ';saz=' RAM';sKBz='OES_';Nvz='CAR';PHBz='oP '\''';Gcz='UAL$';oVz='ssão';llz='esej';vuz='es..';MHz='"IP ';RABz=' ".a';xyz='u se';Jtz='R in';TNz='zand';Pgz='ataB';ZHz='visa';txz='ão (';Ykz='W}Es';Qjz='O" .';Auz='TE=$';BEBz='=${C';iXz='nhum';ILz=')  #';Okz='es()';DJz='oriz';mUz='xto ';fTz='R}/a';oYz='L=$(';Hmz='rm -';GHz='ome ';hNz='l he';xSz=' OPÇ';qLz='r.sh';dMz='ADOR';Bvz='&1; ';Lnz='CLON';Fuz='rgs)';lrz='&1 |';HXz='rada';Pyz='}/no';Bz=''\''\03';YFz='done';xMz=' ${#';nGBz='rl -';IPz=']}${';FQz='gund';DFz='ax-t';RMz='cabe';SEz='e -I';YPz='(( (';cPz='oote';TFz='; th';ynz=' clo';Yez='://g';goz='"htt';Axz=' não';Bez='UA=$';FUz='_STA';MGz='0m"';jZz='e KB';Kfz='om/m';uSz='NTIN';CRz='\n"';yez='obot';dbz='W}5 ';nABz='- Re';Jcz='ONAR';Faz='iste';oCBz='MEAR';cHz='orma';ohz='e 1 ';SIBz='(${V';EEz='3")';Wrz='$ARQ';rBBz='á po';wABz='rinc';rJBz=' ini';GNz='}"';Yiz='a in';YJBz='tes"';DBz='○'\'' #';MBBz=' - A';XBz='erão';Puz='} -g';gBz='_AMB';Noz='itHu';arz='_esp';huz='tinu';FHz='33mN';wDz='.br"';khz='OT_E';yEBz='US: ';PCBz=' edi';tQz='p $d';Pxz='l -f';LFz='[ $I';RDBz='ita.';hGBz='TE.$';JRz='a um';Yjz='EN}$';aTz='eq 1';Vsz='- Co';Tez='O CO';cLz='com/';SJBz='pt.$';rqz='ivar';Cpz=' Opç';yfz='//gi';Ghz='n/Me';gFz='poss';ibz='ERMI';XEBz='s 5 ';tdz='rtug';Mwz='CRIP';Hfz='s://';Xyz='real';fBz='{NUM';vez=' BOT';wuz='do $';boz='> " ';wBBz='omeá';Rnz=' URL';rjz='odul';rKBz='IMAC';JFBz='HA E';LXz='W_PI';bRz='na p';brz='icos';hqz='}3 -';hWz='onti';EBz=' vaz';OJz='t at';IABz='ARQU';xuz='if $';HBBz=' (1-';mxz='D)..';kaz='5 fo';lbz='RÁ A';nVz='o se';NOz='_  _';PFBz='M AM';LWz='IVO]';Gez='ÍVEI';WHBz='el e';yvz='r_at';OPz=' Bot';Efz='CY V';oLz='renc';mDBz='VO")';gWz='|| c';cCz='${BA';PABz='=$(j';DDBz='REMO';alz='s já';NTz='TE. ';WJBz='IGUR';Paz='calc';qWz='nohu';mgz='TY B';iiz='ESPO';CVz='ar_s';fnz='tifi';ENz='exto';rYz='mTot';uDz='ting';uCBz=' Red';Nwz='T"';eEBz='çōes';nsz='xecu';xFz='() {';Nbz='DOR_';Wkz='te b';IIz='indo';lCBz='do.$';KLBz='I_ES';DWz='ill ';cVz='NDO=';Dwz='DIR}';vABz='nu p';RJz='ostn';Lez=' "$L';BABz='efei';UUz='${GR';Qpz='- Ex';KSz='K} T';xDBz=' sed';Rz=';36m';DXz='}[SU';lFBz='&& [';yGz='sort';qNz='l st';ymz=' rep';kHz='" =~';Dpz='ida.';hJz='Ps a';hSz=' ]; ';eKz='em-v';Waz=' $1 ';lIBz='t.${';iJz='utor';EVz='s "$';Iwz='"ATU';WWz='ROCE';ppz='s co';lMz=') {';XFz='fi';Fnz='r ao';Rfz='ancy';qJz='r um';eGBz='ÁLID';Uyz='gs e';Uoz='o (m';ksz='|| r';vGBz='DO_R';phz='] &&';ngz='Azam';pCz='ue i';Ayz='ZAR ';KBBz='i)';cxz='""';bHz=' inf';eZz='/ 10';yrz='|| {';HDBz='em n';VLz=':-ht';AJz='rvid';Pdz='a.${';wz='culo';Psz='" "O';JLz=' Ver';Sxz='vido';fBBz=']+$ ';oGBz='s --';Ioz=' ten';hkz='tall';Qz='33[0';mPz=' + 2';qfz='"TAI';XRz=' é p';Hwz='ded"';BGBz='= "C';msz=' # E';bVz='COMA';xtz='{PAC';SZz='M_TO';cpz='R MÓ';Htz='RENC';ZBz='ados';BBBz='ar_n';GKBz='on"';xOz=' cup';CKBz=' in';mSz='ARK}';sJz='cenç';Xtz='írgu';Gbz='NG${';hiz=' "$R';gRz='ing.';yz='de p';GDz='ambi';xrz='ll |';qCz='ndic';OLz='ion';exz='coma';uGz=' '\''{p';yDBz=' "s/';PXz='mand';WYz='at |';LSz='s ac';IWz=' 2>&';Xsz='NDO$';Nlz='los ';TFBz='R AM';Zyz='Ctrl';idz='OL"';AQz='d=$1';HABz='MES_';Vjz='o bo';bWz='= fa';bjz='/dev';Ljz='=$(b';ZKBz='odas';VYz='c/st';jdz='} - ';WTz='ndo ';fOz='||_ ';HUz='$2';sFBz='"$OP';REz='tnam';HJBz='plic';nFBz='_PRI';UCBz='stá?';Wuz='es n';syz='tada';rTz='} cr';dez='a/mo';Vlz='os o';ODz='os n';JCBz='W}No';wBz='echo';Dbz=' ARE';Vmz='ICAR';sRz='E SE';xjz='repo';qiz='=tru';BMz='GitH';pez='era/';TJBz='W}Ap';IIBz='ao a';dKz='36mB';AHz=' -u)';dUz='"${A';LEz='s() ';dmz='ed '\''';FMz='"$0"';buz='lido';mABz='e"';hIBz='ao b';Diz='acao';stz='INVA';laz='i at';fQz=' $(s';wgz='lreb';btz=' exp';Dnz=' pri';oRz='Ê AC';uNz='ht /';xz=' ver';JDBz='me, ';HGz='O AM';ZJz='s: $';atz='plo:';qIBz='chmo';AOz='th -';JEBz='},"';vDBz='",//';pNz='inal';uGBz='IPT"';kJz='os: ';Soz='o to';qyz='p.ou';tRz='RVIÇ';uvz='hama';LGz='===\';sjz='es "';WGz='read';Lfz='auro';qJBz='- Pu';IGz='TE..';Ulz='}Tod';vbz='SSÃO';MMz='abso';ZZz='em';Woz='nha-';Hhz='gumi';tGz=' awk';flz='W}Bo';QWz='(PID';Fkz='L e ';XGz=' -r ';Evz='r $P';nFz=' "$I';lHz=' " $';ljz=' com';pcz='rein';DOz=' )) ';oFz='P_PR';yJz='🌐 V';EEBz='\}}';rfz='GA B';Alz='pm..';BYz='=$(o';uez='HINO';eGz=' in ';eOz='  |_';dHBz='ão D';vZz='ivos';WBBz='E_ES';CJz=' aut';Vhz='/The';Ocz=' - V';Naz='ode ';EFz='ime ';xhz='-1))';yWz='&1 &';twz='idor';UHz='ermi';Xlz='s ne';tBz=' ]];';EHBz='amen';GTz=' '\''NÃ';Xgz='BotL';Vnz='EPOS';mOz='__| ';tKBz='ATIV';Zgz='MD.g';Imz='rf {';rHBz='ão m';waz='- ES';lhz='SCOL';wqz='roun';nez='Maur';Qyz='W}Vi';MYz='/pro';FBz='io p';Nez='A" =';ddz='RTUG';xJBz='AO_A';fyz='e lo';Lbz='BOT ';ULz='RIPT';nfz='IS B';pEBz='icio';mbz='TUAL';PJBz='te d';XPz=')) $';ERz='_run';Tnz='[ $U';TMz='o() ';yqz='SOFR';tGBz='_SCR';Ziz='ar o';uoz='riva';pOz='__|"';dFz='" ];';igz='hiBo';Qxz='W}Ar';Qkz='_mod';VABz=' ""';kKz='do! ';SMz='calh';Kxz='tand';Apz='ciai';owz=' fin';yjz='sitó';xGBz='W}Nã';kgz='"CUR';qQz='egan';jLz='1/re';rrz='rue';EHz='DOS)';EOz=' # C';MDBz='nenh';eIz=' Est';gLz='i_Bo';JEz='obte';vDz='.com';dwz='so a';bfz='ukib';ADBz='vo n';yJBz='NIMA';Gdz='0)';wVz='}/.p';Abz='OT P';HEBz='UDO"';hxz='O${N';jUz='fica';YWz='JA_R';dnz='ida!';eRz='a Ar';Ryz='sual';Wdz='T PR';Bmz='find';pEz='ain"';UTz='stas';dRz='form';aSz='..${';LKz='p 10';SHBz=']+'\'')';okz='AO_M';XCBz='/sal';lmz=' bot';TEBz='ar B';Wiz='ot e';IVz=' "ON';epz='S"';Xxz='iva ';Lmz='ev/n';JPz='l fo';yMz='text';MGBz=' == ';BFz='l -s';rDBz='/\"a';CLBz='us":';PDBz='raçã';LRz='refa';tUz='ACKG';rLz='}"  ';gJz='"✅ I';fHBz='níve';Hoz='RL e';cTz='"); ';BKBz='ANIM';srz='rm "';HPz='xt[i';wWz='.out';fABz='"'\'' -';aFz='"$IP';fkz='}1 -';BPz='t_li';AUz='liza';Pez='"MOR';Gxz='W}Ne';oBz='BIEN';agz='"KAT';BOz=' 60)';eMz=' DE ';rkz='MODU';Ijz='pal.';OJBz='ecen';oHz='ADO}';wbz=' - S';BRz='}   ';xLz='o sc';LLBz='PERA';WEz='nt $';wQz='N}[✔';eDBz='\"" ';gQz='eq 0';mGz='LVID';CXz='ID" ';jXz=' arq';ZFz=' -z ';fSz=' = "';UFBz='W}A$';sXz='CONC';bxz='NICI';tz='N='\''◉';Yuz=' enc';noz=' $UR';cdz='M PO';sABz='me d';YBz=' cri';tmz='"CLO';JIz='...\';cABz=']*\"';PSz='ate)';yhz=']#*-';GOz='aliz';mEz='pech';CNz='); d';Spz='- In';Rlz='&& y';TGz='esso';Vxz='ma s';qjz='de_m';FRz='ning';BVz='uper';kKBz='D=fa';YCBz='var)';kGBz='_REM';tlz=' CON';IYz='tat"';VXz='o ar';joz='AME}';cGBz='OLHA';hHBz='SAO_';Quz='t 0 ';YIBz='um_a';QFBz='TE"';ijz=' $NO';jHz='@]} ';Cez='2';iez='CK B';pKz='ubse';EJz=' é e';ZKz='ATED';nhz='" -g';RDz='es';kIz='icen';iGz='_HOS';xpz='son.';uJBz='- Li';BFBz='(${S';fVz='.ses';oPz='inks';fWz='TH" ';QHz='ico ';OGBz='apli';EXz='CESS';BIz='lida';Xmz='TALA';Yhz='!BOT';Mjz='asen';QMz='tual';Kgz='A BO';Nhz='g/Se';PTz='SEGU';Hjz='inci';tCz='taçã';LPz='="Re';Xz='NC='\''';KTz=' ANT';Syz='do o';tiz='inst';uQz='elay';DQz='oces';Luz=' sho';IDBz='m no';egz='iFuk';liz='CHAM';nGz='OS=$';aPz='h - ';hlz='tect';Oiz='ot i';pwz='ado.';cJz='ST_H';GFBz='}1-$';vtz='TE i';SYz='rep ';NDz='ena ';Blz='&& n';Dgz='thab';DDz='E_DI';MIz='whil';gOz='|___';eTz='H="$';URz='D';qDz='("pt';iZz='vert';CZz=''\'' /p';WNz='${NC';LBz='cont';vIz='tema';QCBz='ou s';Mmz='ull';cvz='tar ';Cuz='o "$';lGBz='OTO=';KLz='são ';oz='ARRO';HIBz='ca';Djz='nand';THz=' # P';Bxz='á ma';LJBz='á us';iGBz='zaco';RRz='$!';Vz='BOLD';qmz='enhu';yGBz='i po';PLBz='ioso';aJBz='IG i';QBBz='(Sem';gaz=' Ini';tIz='este';QTz='INDO';dgz='tash';klz='ED}D';Snz='_REP';OOz='_   ';Crz='ÃO]$';fiz='POST';uuz='ada.';Trz='= *.';FEz='VALI';wcz='TH"';Rmz='m su';gJBz='ON"';fXz='s OF';Thz='oSob';tsz='W}Pr';inz='e fo';Ohz='nkoB';fdz='}2${';aGBz=' 0';dsz=' QR ';Ndz='pção';qHz='] ||';ccz='"$AM';RGBz='manu';SPz='g"';Jnz='LONA';JNz=' "${';Owz='carr';RBBz=' nom';haz='ciar';sgz='-MD.';rOz='!out';Acz='M BR';cFBz='NTAI';NNz='or_3';hgz='atas';vjz='lona';UVz='{i}.';lSz='SS_M';DGz='="';oQz=' ${C';Nkz=')"';hHz='IST_';wEz=']}";';lwz='"$PI';ssz='no';FGBz='= "A';Kyz='a. F';Ihz='n-Bo';Ydz='}1${';cRz='lata';kCBz='váli';DKBz='F" >';xxz='"VIS';ZBBz='LHID';gEBz='es, ';Pfz='saAs';FHBz='te m';sHBz='rece';vEBz='| ST';LDBz='sim ';jKz='riza';xTz='exis';iz='❌'\''';imz='M"';Grz=' $IN';AZz=''\''Mem';Qgz='ot-M';Sez='VO A';Njz='ame ';sGz='E" |';jyz=' o t';kkz='n in';rxz=' Usa';cz='CHEC';FDBz=' DO ';wdz='panh';ARz='ído!';GGBz='a" ]';Pvz='ORCA';OBz='# Di';NGBz='"am"';ahz='i+1)';Lcz='OSIT';sEz='in "';EABz='me_a';Hxz=' PID';gvz=' VOL';jIz='tá l';lHBz='MOTA';IFBz=' - E';Ntz='d"';GEz='DATE';xvz='nu.$';Sz=''\''';Znz='/* ]';gYz=' {pr';jEBz='e Re';nJz='Para';Nfz='fix/';vGz='rint';Cgz='/aga';qz='️'\''';bJz='TELI';Mlz='módu';MVz='ATUS';bGBz=' ESC';JIBz='izar';IGBz='imac';ZABz='NUM\';DFBz='W}ES';Wpz='OS_C';SDBz='=$2';kfz='THBO';lUz='ssoe';nKBz='S_AT';TIBz='O_LO';YJz='zado';uZz=' Os ';tJz='a ou';Biz='r_in';PBz='retó';LIBz='l ($';HVz='S" =';oUz='FICA';dCBz='novo';gVz='sion';wGz=' $1}';CIz='do c';Eqz='Veri';LVz='R_ST';Zpz='E in';SSz='LE"';Guz='Remo';lABz='mear';TQz='er';tOz='_tex';jmz='ao r';PFz=' ^[0';Roz='E';Odz=' inv';FSz=' "si';WLz='tps:';Goz=' a U';Lsz=' "no';KPz='oter';qDBz='d "s';auz='invá';bBBz=' "0"';eQz='ll; ';dLz='d-be';HTz='O'\''.$';YOz='|  |';lWz='sess';BXz='EW_P';ZJBz='G';TYz=''\''^cp';efz='EATH';anz='ED}U';hABz='nome';Zkz='colh';Pnz='L do';ZUz='S}${';juz='mesm';Tz='BLUE';LUz='{AMB';eKBz='F" ]';Hpz='nu()';fz='✅'\''';mHz='{IP_';Ufz='"INA';gdz='M ES';nNz='# Al';cjz='/nul';sLz='# Li';elz='bot(';ILBz='zar_';BQz='ID d';rdz='ots ';CFz=' --m';IOz='tdoo';mnz='RL v';Iiz='ckag';ipz='all$';bpz='"INS';CCBz='rneç';gpz='ll${';xPz='ner(';FXz='O] S';Ccz='W}7 ';MJBz='o ma';MRz=' lon';ODBz='alte';OVz='RED}';JVz='INDI';uIz=' sis';Jpz='UE V';UABz='OME"';HZz='k '\''{';AGBz='n" ]';aBBz='O" =';gcz='2)';JOz='r_te';Mnz='AR i';eqz='u st';wTz=' já ';ybz='DO E';pVz=' par';wOz='tput';moz='}@$(';cIBz='curl';LHz='e)"';Tuz=' seg';dJBz='oes(';Kiz='W}Já';rez='kbot';PGBz='car_';dkz='tala';tqz='plan';oGz='(get';shz='"${#';tuz='ncel';MABz='nd -';Niz='um b';Btz='FICO';UNz='o si';lCz='nho ';QGz='imul';hhz='OLHI';tBBz='}$NO';kpz=' /de';AFBz='US} ';paz='Ambi';xIBz='pt p';CMz='ub';VJz='dore';sxz='padr';hnz='se d';rPz='"${G';FWz='$OLD';bKBz='rão ';OKBz='o, o';ioz='SERN';QJz=' $(h';Vrz='"sh ';xNz='$(( ';thz='REPO';Ooz='b:${';wIz=' for';vRz='SIM/';Xqz=' Esp';QKBz='irá ';vSz='UAR.';fNz='do t';PDz='omes';gABz='f4)';AIBz='va a';xQz='] Co';Svz=' a i';KDz=' # A';miz='ADA_';fDz='vo p';AVz='(rec';Fjz=' men';jWz='W}In';lTz='r -p';YKBz='o, t';Qfz='cend';ekz='ção:';Caz='veis';glz='t de';RIz='r';edz='UÊS"';BSz='ITE';LKBz='xima';caz='ATUA';GWz='_PID';Uqz='o - ';ehz='$i]%';umz='NAR ';OGz='p 2 ';Lrz='W}Di';hFBz='O_PR';Fqz='fiqu';xRz=' -p ';UDz='UM_A';hsz='as i';ifz='ll/E';rHz='" ${';NVz='N}●$';HCBz='O_NO';KYz='& [ ';Bgz='roSu';Igz='nhol';GIBz='mati';hCz='ccep';Iaz='o de';pSz='AR O';iuz='ar a';eez='rybo';Dyz='AL"';gSz='não"';jrz='D" >';eyz='a vi';vMz='= 0;';Bdz='clon';uEz='RVIC';rGz='$HOS';iLz='ano0';spz='m np';cUz=' -f ';sbz='- DE';Ez='GREE';xdz='ol"';cmz=' | s';Jkz='| se';cSz=' [ "';XNz='p 1';Vvz='e > ';jiz='STA"';Whz='Myst';tDz='ahos';lFz='públ';Kez='^^}"';SCz='ntes';dpz='DULO';OUz='stat';Koz='ovam';qIz='no."';oSz='VE A';iCz='ted.';wJz='peda';fsz=' ou ';vPz='C}"';Kmz='2>/d';lsz='etur';GHBz='ais ';HOz='l ou';Etz='es:$';qlz=' (si';xnz=' Err';WCBz='itar';vnz='so!$';uOz='t[@]';Euz='| xa';eHBz='ispo';pWz='ound';Prz='UIVO';BBz='ON';kGz='ES[@';SNz='iali';quz='ED}I';jABz='AR A';Udz='"ESC';TTz='r_pa';Ifz='gith';HHBz='tard';WKBz='s at';nYz='TOTA';kmz='emov';RPz='a Ho';yHBz='L" ]';Pz='='\''\0';uiz='alar';hJBz='/ani';Ztz='Exem';NHz='priv';rKz='tes.';qvz='pt m';UWz='true';Aqz='ull ';Usz='PID ';ICBz='ME';lJBz='US_A';kz='ING=';Zmz=' = f';vCz='s te';bbz='INIC';TBz='e os';amz='alse';lZz='RAM_';fCz='term';CGBz='c" ]';aez='b.co';UGBz='TAIN';jYz='0f%%';NZz='(MEM';vHBz='ipt.';SQz='pinn';Tcz='case';Wvz='rce.';puz='" !=';ELBz='ip"}';eVz='t "$';dABz=' cut';QKz='36mR';Bcz='EVE$';fbz='SUAL';kSz='{CRO';Pmz='")" ';aqz=' (ex';kjz='OT i';Isz='}";';QXz='o va';dhz='OTS[';aNz='$(tp';fHz='${WH';WDz='NTES';jvz='tado';RHz='CO"';SABz='O" 2';uFz='}';Eez='S DI';kuz='o as';nHz='PRIV';JHz='atua';Sgz='T LI';gsz='outr';frz='kill';fZz='24))';JWz='1; t';asz='.. A';ZEz='CO="';Cvz='}✅ $';dxz='W}En';pHz=' " ]';HCz='ro v';bdz='TS E';MEBz='}" >';aMz='AN} ';jgz='t-MD';poz='O | ';FABz='nte(';nBBz='er_n';DTz='ITE ';dQz='v/nu';DCBz='e pa';muz='TINU';cQz='>/de';Knz='R';wYz='int ';CYz='bter';dIz='"⚠️ ';pQz='Carr';Jgz='"GAT';dYz='+$4+';vHz=' ${I';Ycz='lher';pvz='ed"';OQz=' Car';mKBz='ACOE';opz='os i';QVz='W}Ve';Fdz='io "';bsz='guar';BTz='IDA.';sBBz='ssui';kYz='", u';Moz='do G';uKz='VERS';aXz='IGNO';Rvz='Forç';LYz='-f "';Zez='ithu';wPz='spin';LCBz='scol';Voz='ante';LCz='exit';TPz='outd';lPz='"are';HKBz='K} A';luz='sim?';UKBz='l.${';Aiz=' }"';MBz='aine';Aaz=' dis';TDBz=' "{}';baz='ED} ';Mz='[0;3';cbz='IAR ';mIz='o pa';IJBz=' man';nOz='||_|';Jiz='e.js';dKBz='_ani';rNz='art_';Fvz='ACOT';ryz='}Ses';dXz='} es';Dlz='ll';GBz='OFF';kNz='put ';hKz='ema ';sCBz='e ai';Vez='TOES';VEBz='ot d';QHBz='="\K';HLz='0.0"';htz='IFS=';IQz='l de';UFz='en';fjz='-eq ';Ofz='Mika';Hez='S - ';JKBz='W}Na';CDBz='N}$N';ufz='T3.g';coz='TOKE';xIz='a do';DZz='roc/';Dtz='acot';blz=' est';FNz=':i:1';Esz='aces';HBz='BASE';Vqz='npm ';oJBz='al d';dyz='Sain';wHz='O} "';Nrz=' o n';iPz='er}$';uYz='awk ';oCz='vo q';oJz=' adq';NUz='TH}/';maz='uali';Cdz='ar_r';jhz=' "$B';Yqz='ecif';VDBz='_FIL';Aez='LING';IHBz='e.${';yFBz='== "';gKz='sist';CABz='to.$';xiz='H" "';sz='LE_O';mZz='E}% ';sfz='TAIG';pFBz='-ge ';CFBz='S})$';Ugz='Gata';Akz='do b';uBBz='ME_A';Hkz='e no';ZOz='  _ ';qPz=' 2 )';RCz='mbie';HHz='do h';Wmz='_INS';aCBz='O';ntz='$PAC';sHz='S[@]';eWz='$AMB';IRz='p 5 ';eSz='ITE"';jPz='l li';Tpz='ar m';BIBz='l! (';Iuz='spaç';Ixz=' reg';nZz='(${M';Chz='UMIN';xCBz='ear.';svz='róxi';tFz='ICO"';hDz='o nú';RHBz=']+\.';Uhz='rino';Yz='[0m'\''';CBz='FF='\''';rcz='ver_';ECBz='ra o';Dhz='m/Da';gwz=', fo';Adz='8)';NBBz='$i $';Rsz=' ati';ivz='r_es';MWz=' Ses';gjz='0 ];';Ctz='dor ';Anz='ório';Liz=' exi';lnz='ma U';MFBz='ES} ';Glz='dos ';hQz=' 3);';slz='o)${';evz='enu ';kFBz=' ]] ';VNz='a...';Hbz='W}2 ';YQz='e ki';yNz='(wid';Cz='3[0;';YABz='te$A';iWz='nue';aJz='{WHI';bgz='ASHI';Qez='Y BO';Wqz='t${N';YUz='TATU';GLBz='fire';GIz='Pros';Frz='_OPC';mcz='r_bo';jlz='e am';Aoz='nar ';iYz=' "%.';ubz='R SE';vQz='\r${';vVz='e';WOz='|   ';WVz=': ${';JGBz='oes';BCBz='W}Fo';MDz='rmaz';BUz='r_st';GRz='_tas';hVz='"$CO';ELz='null';NYz='c/me';UQz='l ch';DNz='"${t';aYz='+$4)';POz=' ___';tyz='W}Po';Ogz='Li/G';UGz='daçã';qez='blac';uKBz='ADAS';dVz='$(ca';gqz='sh)$';MKz='secu';Iqz='age.';CCz=' NUM';jCz='txt"';Tsz='D: $';jQz='tf "';Shz='Brun';UMz='"${C';hLz='t-Pl';Xbz='ADO ';nLz='n/ge';EQz='m se';mhz='HIDO';wZz=' /pr';dWz='cd "';ez='RK='\''';mRz='ING}';VZz='RAM ';jCBz='e in';Saz='ME" ';JJz='bido';bABz='[^\"';ZCBz=' ACA';OXz='VISO';iMz='anim';pz='W='\''➡';wmz='- Cl';jbz='NAL ';gPz='W}${';koz=':${T';Az='RED=';Uuz='uint';ucz='tar_';KNz='exib';Pkz='node';Fsz='sar ';qwz=' Rei';Stz='ja i';hyz='aída';HFBz='ES}$';lXz=' .se';cNz='ols)';LMz='$0")';Rhz='IC B';Suz='️ Os';sUz='EM B';ZXz='ED}[';DJBz='aura';qgz='osit';vvz='da d';THBz='"$VE';Baz='poní';dTz='_PAT';bwz='nali';JBBz='TES}';mpz='>&1';qFz='O" "';Ujz='ão d';QNz='FO} ';PRz='k &';dlz='s.${';mz='INFO';YDBz='jq "';NIBz=' é m';pBz='TES"';bMz=' GER';OFBz='AR U';oez='oSup';lkz='l${N';nkz='r${N';cGz='HOST';IXz='}. (';oqz='pecí';oaz='W}St';LJz=' Nom';HWz='" >/';FFBz='A OP';eIBz='o.sh';dCz='SE_D';OIBz='enor';kVz='W}Re';JKz='m.br';fhz='% -*';vsz='Ente';AEBz='//g"';XUz='VO_S';hFz='ível';TVz='te $';Taz='GERE';GMz='PT_N';Zbz='W}4 ';mBz='"$NU';Rbz='RAR ';MPz='vend';tPz='}${l';sVz='ESSO';Utz='arad';vUz='D"';ytz='AY[@';cBz='AMBI';Omz='s -A';jTz='H" ]';EZz='memi';xmz='onar';qqz='- At';qoz='cut ';EIz='uces';jSz='ED}$';gKBz='as (';vdz=' "es';YGBz='M SU';Ekz='a UR';otz='s da';Wjz='t: $';Toz='ken ';wKBz=' 1 ]';Yrz='e $A';qUz='SESS';KEBz='}\"a';xbz='ERÁ ';uFBz='CIPA';Kcz=' REP';iEz='64.i';IKBz='vada';mBBz='(obt';oTz='K} P';Boz='posi';Zvz='o fo';yBBz='RMA"';lEz='" "i';bZz='$((M';Jhz='"YAE';iIz='o es';nQz=':1}]';rVz='PROC';Ojz='"$RE';Huz='ve e';EGBz='igur';EPz=' $st';isz='nstr';Nyz='os l';TXz='ntra';rGBz=' 5 "';PQz='acte';hGz='LIST';VKz='m"';kEBz='r An';jkz=' yar';tgz='git"';ZRz=' ape';ooz='L_RE';UCz=' ser';VGBz='ER R';sIz='so d';sPz='REEN';Gnz='u do';smz='t en';Otz=' os ';QEz='(hos';XXz='o .s';fKz=' ao ';Arz='EU A';eJBz='l ST';NJz=' hos';SJz='ame)';unz='io c';Cbz='O DA';yFz='"\03';bGz='s)"';fvz='nte?';jtz=' -ra';uEBz='{i} ';Qbz='- PA';WRz='Este';cJBz='te';Nnz='Forn';osz='ta o';ACz='ED}E';dGBz=' INV';wHBz='$VER';DHz='OLVI';Wez=' - h';mWz='ão e';fPz='))';Mez='INGU';suz='o ca';YDz='}/nu';SGz='proc';pfz='sbot';Lhz='m/Of';qXz='--${';xBBz='-lo?';ZNz='dth=';Ymz='CAO"';sJBz=' (De';kxz='al (';xHz='32m✔';WFBz='GURA';rFz='$IP_';AABz='dar ';mYz='MEM_';NGz='slee';afz='nats';eNz='ura ';KVz='CADO';lRz='hen';hoz='/${U';Kbz='R O ';ocz='4)';AKBz='CAO';nDz='T_HO';lz=''\''⚠️'\''';USz='S AC';OWz='stá ';ZFBz='ÕES"';PCz='ero ';qaz='PU_I';Wsz='o: $';EGz='"   ';Ucz=' $OP';uyz='r fa';Ruz='ED}⚠';YSz='EGUI';Xez='ttps';nxz='drão';obz='O EM';QUz='Stat';JUz='STAT';DLz='dev/';csz='de o';Gjz='u pr';ECz='ão é';dz='K_MA';Ecz='R BO';PYz='o" ]';onz='Hub.';xUz='essi';TZz='TAL)';KIBz=': A ';KGz='"===';DEBz='UDO%';Tyz='s lo';dDBz=' \"$';vWz='ohup';Ltz='"yar';Hrz='R_OP';jDz=' de ';BDBz='lhid';kwz=' -9 ';xsz='ra v';drz='ivan';rZz='="N/';mLz='/mai';dFBz='NER"';rIz=' O u';uHBz=' scr';ZMz='${CY';hDBz='mv "';rXz='ÇÃO ';ePz='/ 2 ';ANz='o}; ';ZGz='O <<';Bbz='RONT';kMz='xto(';ASz=' ACE';ySz='ÃO I';OCz=' Núm';ADz='QUIV';yTz='te.$';wjz='r o ';ZQz='ll -';Skz='W}Mó';piz='ACAO';aKz='" = ';BJz='ores';prz='>&1 ';OKz='io()';Lqz='lha ';FJBz='uraç';RJBz='sso ';VFBz=' - C';cEBz='ovas';uHz='=~ "';WBz='es s';uMz='((i ';SIz='31m=';bQz='id 2';Ysz='o o ';aFBz='REIN';mGBz='$(cu';CEz='0.18';Zfz='ra/i';WZz='em p';Ylz='cess';xEBz='} | ';uUz='ROUN';uz=''\''  #';xZz='oc n';AMz=' no ';NEz='IP_P';Tdz='nto(';pbz=' BRE';Osz='1 &';gfz='lien';DIBz='OTA}';OABz=' >/d';dtz=',lod';Fxz='ão.$';TCz=' que';VKBz='n"';OZz='_USE';bEBz='O: N';vmz='SITÓ';Jdz='ncip';Xoz='guro';kez=' htt';nMz='l te';dEz='=("i';XYz=' '\''{u';HYz='oc/s';trz='${AM';gDBz='P_FI';ewz='inda';whz='$((B';Ywz='"PAR';jJz='izad';wez='a/yo';vFBz='L" =';skz='LOS ';yEz='CO=$';EUz='NOVO';Khz='MORI';WIBz='ca()';xcz='7)';Qiz='lado';ZEBz='} AT';GJBz='ões.';kHBz='O_RE';mXz='ssio';oIBz=' o s';TLz='L_SC';KRz='a ta';MKBz=' exe';AIz='e va';WDBz='mkte';Kwz=' EST';kBBz='_ATU';bqz=': in';upz=' o a';Llz='lar ';Lkz='/amb';ICz='álid';aQz='0 $p';Nmz='"$(l';lLz='eads';RNz='Inic';orz=' "$O';FFz='5 "h';TKBz='cipa';uBz=' the';tYz='o | ';iBz='ES:-';cnz='nvál';Nz='3m'\''';aEBz='ZAÇÃ';CJBz='rest';nuz='ONTI';nz='='\''ℹ️';FVz='H")';ypz='> /d';iqz=' Ins';Mkz='e//'\''';uTz='sta ';uLz='o co';pqz='fico';Wtz='or v';bcz='nto ';Qsz='N"';Juz='os e';Rtz='dese';GCz='núme';VHBz='OTA"';EMz='ATH=';XJz='tori';vJz='s de';hRz=' ! -';pBBz='AL" ';Kvz='--fo';JDz='on" ';ukz='alan';ckz=' ins';Pbz='W}3 ';Ncz='ED}0';kRz=']; t';aDz='bien';Yyz='. Pr';SKz='idan';Ytz='la):';usz='one ';GGz='DAND';vKz='AO_L';CKz='1;34';OIz='ue; ';Xcz='esco';xBz=' -e ';Rxz=' ses';LBBz='}$i$';yiz='$REP';NFz='BLIC';KFz='if [';fwz='ução';rQz='do..';XHBz='ir a';Slz='arn';sIBz='T_PA';IEBz='"{" ';JQz='lay=';Gfz='http';Ibz='- IN';qOz='i in';tEBz='TE $';GEBz='O"';vpz='acka';Srz='VO =';WXz='quiv';Hz='0;32';iIBz='aixa';Ptz='paco';vOz='}"; ';qtz='PACO';Coz='tóri';wvz='o me';DHBz='s. T';OTz='PROS';gDz='up d';IUz='OVO_';DSz='CEIT';Kz='OW='\''';pDBz='NTEU';Rdz='$1"';Xhz='ic-B';qSz='S TE';wUz='}/.s';wsz='r pa';yXz='te()';Egz='otne';Kdz='al';YLz='w.gi';Joz='te n';Miz='ste ';rABz='r no';bFz='_PUB';KXz=' $NE';HKz='stin';ycz='remo';jez='OT -';gz='CROS';Pwz='do e';ONz='D() ';Mfz='gash';NLz='ivo ';QOz='  __';CQz='o pr';mTz='NTE_';vz=' Cír';lxz=' $PI';Eiz='" "$';HSz='}${C';Bkz='ot $';JCz='o.${';AWz='PID=';RBz='base';pGz='ent ';bCBz='edit';qBz=' =~ ';bFBz='R CO';adz='- BO';mMz='loca';Mcz='ÓRIO';NABz='v jq';lDz='WHIT';ulz='FIRM';KOz='xt=(';ORz='iand';xKBz='f "f';Agz='/Mau';RSz='> "$';RLz='PT="';ilz='nest';mQz='n:$i';Xaz='- ${';cez='uroS';wiz='o_bo';naz='zada';oKBz='AS=$';Maz='ão p';EJBz='nfig';CDz='{BAS';vlz='AR';SBz=' ond';Fbz='OSTI';Zcz='_bot';XSz='ROSS';Uaz='NCIA';Mhz='cKin';mEBz='ões ';Ffz='3 - ';Fcz='T AT';rCz='a a ';lvz=' > "';ALz='vers';jOz='"|__';Fz='N='\''\';hpz='arn ';DABz='tar.';Ybz='REVE';kDz='s';Wfz='I BO';lqz='ot${';Qqz='t:${';Vbz=' ATU';JLBz='"$AP';HMz='OME=';fIBz='PT"';vwz='r ef';Vkz='o in';Icz='- CL';bNz='ut c';bEz='SERV';vBBz=' ren';Dez='"BOT';wyz='e se';HEz='D=tr';jfz='SDEA';sqz=' em ';vXz='gere';vfz='"AGA';Dfz='NDAN';QLz='SCRI';Msz='hup.';uaz='AM_I';PIz='do';UHBz='RSAO';wCBz='iona';Xjz='{GRE';EIBz='omat';jxz=' atu';xEz=' do';iNz='ight';sCz='acei';HJz='nte ';BGz='36m=';Duz='TE" ';yABz='AO_N';STz='cria';PGz=' # S';qCBz='ossu';gkz=' npm';ffz='m/Sa';XDz='="${';Qhz='MYST';Asz='ão f';tCBz='nda.';rpz='r mó';UEz='wk '\''';wkz='ódul';fpz='ar c';mfz='"CHR';rbz='W}6 ';Ktz='CMD=';FLBz=''\'' > ';pHBz='tá u';XABz='\"am';PBBz='LOW}';aiz=' nov';aHz='r as';qFBz='1 ] ';QEBz='MENT';XMz='"${B';oNz='tura';IEz='ue';Klz='ao i';xXz='r_am';iJBz='maca';lOz='_||_';dJz='OSTN';Oyz='ogs.';pCBz='E"';eFBz='RINC';PKBz='ipt ';iaz=' dep';XLz='//ra';TBBz='{CYA';LIz='rn 0';IHz='ost ';Cqz='m ya';ykz='om n';TRz='ermo';Rpz='ecut';Wnz='ITOR';MXz='D)${';hEz='"api';lNz='line';oZz='SED_';VJBz='CONF';bnz='RL i';nbz='IZAD';PHz='DO"';lVz='stau';Uz=';34m';rBz='^[0-';AEz='S=("';RKz='eval';mJBz='_sta';KDBz='send';az='Sem ';KJz='"➡️ ';fgz='ushi';BEz='166.';jJBz='o_st';fGBz='A. T';Sdz='esac';Amz='"sim';LDz='ue a';mFBz='PCAO';sZz='W}AV';jpz='ll >';eFz='Não ';DPz=' i))';kvz=' "1"';MFz='P_PU';rMz='"${Y';Dqz='rn. ';FBBz='AR N';QDBz='i fe';Umz='ERIF';fJz='[*]}';MCz=' 1';ZSz='NDO.';Xiz='xist';eABz=' -d'\''';Bfz='ASA ';OLBz='lenc';mDz='ELIS';YEBz='da"';GDBz='ão t';apz='nu "';yyz='or p';aRz='nas ';fKBz='Anim';bz='cor';VBz='ient';fMz='BOTS';yZz='stão';GSz='m" ]';xJz='gem:';YXz='on d';oxz=' (np';Inz='AO_C';ZCz='TERM';lyz='ao()';HFz='//${';Clz='pm i';Lyz='izan';lEBz='imaç';Hlz='com ';kTz='mkdi';ZIz='ZADO';QRz='ner ';QFz='-9]+';HGBz='r_an';Qoz='RNAM';Haz='W}Us';yVz='OLD_';njz=' $AM';qVz='}...';Bqz='2>&1';ttz='LIDO';ihz='DO';oHBz='ê es';CIBz='${VE';XEz='1}'\'')';HIz='segu';Awz='zaca';Nsz='out"';rmz='m bo';tLz='nk p';Bpz='s e ';kyz='nal.';RQz='do s';ncz='H"';Ivz='ação';EDz='R}/n';nSz='Ê DE';wEBz='OME}';chz=' ${B';Mdz='ED}O';djz='l';gtz='OTES';ywz='PID)';dOz=' |_|';odz='CAO_';CUz='atus';wFz='dar_';fDBz='$TEM';jwz='ão..';XCz='gura';riz='=fal';WUz='${NO';Sbz='O BO';snz='}✅ R';yUz='US=$';abz='- RE';Rwz='s am';QBz='rio ';NKz='ndar';soz='-f3-';wXz='ncia';PUz='us"';nUz='VERI';rhz='-le ';gNz='nal';Mgz='ataN';ndz='OT';yKz='at "';Rez='T NO';XKz=' "$V';Poz=' USE';CEBz='ONTE';Ukz='s nã';Lz='\033';Lpz='DESE';qcz='5)';vNz=' 3))';wlz=' "$C';kIBz='nova';scz='6)';oIz='so e';qZz='MB)"';Ouz='COTE';XDBz='mp)';NPz='a de';pJBz='nima';Piz='nsta';DKz='mhtt';Vdz='OLHE';VSz='EITO';LEBz='ME\"';ZYz='=($2';cDz='back';BHBz='el v';QZz='100 ';Ftz='n${N';Hdz='menu';Tmz='DA_V';sBz='9]+$';knz='er u';NRz='ga';dqz='js o';vIBz='icad';GCBz=' NOV';JMz='sena';wLz='do d';npz='}✅ M';ALBz='all.';Hcz='W}8 ';Bnz=' púb';vgz='om/e';CBBz='ovo_';lJz='*]}"';Xuz='oram';yIz='s se';WCz='onfi';cXz='] O ';DCz='ES n';ojz='ATH!';Txz='FF"';hdz='PANH';yBz='"${R';jEz='pify';QJBz='o no';XTz='past';FKBz='ao_s';Wgz='-Li/';oBBz='z "$';FCz=' um ';SKBz=' o m';eCBz='e:${';MQz='in='\''';lBBz='AL=$';iwz='do f';Ckz='. Ve';utz='S=()';vFz='vali';Cfz='ASCE';qKz='quen';aIz='"---';mqz='}4 -';Gaz='ma.$';iBBz='IDO"';gGBz='AMEN';OYz='minf';gIBz='-ne ';aLz='user';KJBz='ê já';LHBz='UDO_';UIBz='CAL}';yYz='FREE';bSz='elif';KQz='0.1';XJBz='- Ad';pUz='NDO ';raz='NFO}';wfz='THA ';ABBz='OMEA';doz='N';xwz=' (PI';cZz='EM_U';vxz=' rei';BZz='Free';hOz='_  |';MZz='E=$(';tSz='A CO';EBBz='_amb';RZz='/ ME';Fpz='pos_';rUz='ÕES ';NFBz='PARA';ggz='ma/K';RKBz='dire';Drz=' INI';GXz='essã';aaz='E}${';MEz='{';Kpz='OCÊ ';jqz='exec';wNz='col=';Myz=' vis';Gqz='e o ';qBBz='te j';rgz='yBot';jaz='ois ';kiz='sim"';UKz='..\0';gbz='IZAR';WQz='idth';Zqz='icar';ovz='need';iOz=' | |';Jbz='ICIA';hBBz='TE_E';Viz=' o b';Qtz='tes ';TKz='nte.';RTz='...$';kQz='\r[$';ikz='}2 -';Gz='033[';kFz=' IP ';tnz='itór';LTz='ERIO';etz='ash$';kdz='VOLT';GBBz='OVO ';HRz='k() ';ZIBz='Baix';AGz='3[1;';SWz='LD_P';Wcz='in';Irz='"npm';ylz='RMAR';MOz='____';Vaz=' $1$';Scz='AO';Ldz='*)';ecz='ATH"';KKz='[0m"';lKz='Prep';KGBz='M" |';voz='ivad';xlz='ONFI';nXz='n en';Pjz='POSI';lQz='{spi';uxz='t)..';KMz='me "';yCBz='me a';Kjz='_BOT';xFBz='" ||';enz=' Cer';Nqz=' des';kABz='- No';mkz='olta';kUz='r_se';FCBz='O:${';qTz=' ${i';eEz='fcon';Qwz='stad';yRz='"> "';wtz='n "$';COz=' / 2';Nxz='pelo';ptz='ção.';mmz='emoç';Tfz='it"';cFz='LICO';WMz='==${';ltz='AY <';pMz='"$1"';Wxz='o at';JJBz='uais';Giz='= "0';AFz='(cur';Ppz='RA?"';sdz=' "po';XIBz='up_n';rJz='a li';Vgz='Nina';gMz='   $';hKBz='ão)';oMz='xto=';TABz='ll)';WEBz='epoi';Eaz='te s';hIz='a nã';qhz='$BOT';OEz='RIVA';bOz='|_| ';oOz='_| |';wGBz='EMOT';myz='"DEL';pxz='m st';dPz='r}) ';nWz='m ba';bUz='pera';JTz='ITOS';awz='W}Fi';vhz='RIO=';Ewz='/.re';uVz='RODA';hXz='] Ne';gyz='gs..';TCBz='mo e';lez='/git';xkz='os c';fuz=' $PA';Vpz='AO_P';Dsz='vel ';xCz='NOME';tcz='dele';cKz='e ];';Rjz='git)';XIz='O AU';TIz='"❌ E';VRz='LUE}';LLz=' do ';pTz='asta';MTz='RMEN';BDz='O="$';VEz='{pri';CHz='$RES';sez='.git';LQz='l sp';jcz='bot ';LFBz=' 1-$';fEBz=': No';Jjz='t() ';NDBz='uma ';gxz=' $CO';cqz='dex.';gez='t"';Kuz='xtra';Mvz=' FOR';kCz='Cami';xKz='=$(c';IBBz='${NU';pIBz='ual.';Rcz=' OPC';crz='W}At';OHz='ado ';Ajz='ORIO';uPz='}${N';Tjz='alaç';JHBz='AO_R';LNz='ir_o';IDz='s.js';OFz='O =~';Itz='IADO';rEBz='s no';WFz='k';tIBz='}Atu';vyz='vor,';NMz='luto';OMz='scri';Qlz='arn.';VIBz=').${';NBz='r"  ';uWz='H}/n';NSz='s em';LOz='" __';hrz='"$OL';pdz='list';Vwz='eede';dBBz='=~ ^';NQz='-\|/';YNz='l wi';nRz=' VOC';Tvz='" --';Lgz='om/G';QDz=' dos';iRz='f "$';ujz='ao c';JFz='")';sMz='ELLO';kDBz='$NOM';Jez='NGUA';GZz='| aw';gnz='que-';hjz='}Bot';gUz=' "OF';RFz='\.[0';cgz='m/Ka';Hyz='oi e';Atz='PECÍ';acz='_pro';Eoz='erif';Hsz='rio.';bXz='RADO';pnz='rn';oEBz='m ad';qrz='|| t';tFBz='PRIN';Yxz='da p';qHBz='sand';Xrz='"nod';hZz=' Con';xWz='" 2>';ESz='E" =';SFBz=' - N';hCBz='ME"';Gvz='E.${';Mqz='como';VHz='te a';Kaz=' e R';bYz='*100';vBz='n';BLBz=' '\''{"';fez='t.gi';bez='m/Ma';eYz='$5)}';xYz='$2}'\''';wMz=' i <';eJz='AMES';mlz='a re';KEz='r_ip';NXz='W}[A';SRz='ir_t';KWz='}[AT';Byz='O TE';rsz=' pla';KHz='l: $';cWz='lse ';ctz='ress';IJz='proi';qYz=' '\''Me';YGz='DO I';jjz='ME_B';PJz='ual:';byz='volt';Jmz='} + ';Uvz='forc';pkz='ODUL';RUz='us d';wCz='rmos';MLz='arqu';sNz='=$((';vJBz='gar ';REBz='O DE';SBBz='e)${';DBBz='reno';kZz='a MB';IBz='_DIR';bvz=' vol';qEz='for ';DGBz='conf';xHBz='LOCA';jFBz='PAL"';MSz='eito';emz='s/am';KKBz=' pró';mNz='s)  ';FJz='stri';tHz='} " ';qGz='ts "';xABz='ipal';eUz='}/st';mtz='<< "';aDBz='e$AM';lBz=' [[ ';YMz='OLD}';Nuz='"$PA';Gwz='_nee';cBBz='[ "$';qABz='move';yoz='eden';Wlz='s mó';nIz='ra u';RIBz='ual ';JABz='IVO"';Laz='AM n';Xdz='ONTO';ldz='AR"';PNz='${IN';Hqz='pack';Twz='relo';ouz='NUAR';bhz='C} -';bBz='NUM_';VFz='brea';sTz='iada';JXz='PID:';YFBz='IMAÇ';eCz='IR}/';Ssz='W}PI';APz='star';gZz='   #';tVz='_JA_';Oz='CYAN';Ejz='o ao';jNz='=$(t';ISz='HECK';Daz=' nes';Uez='M BO';dSz='$ACE';ejz=' $? ';QCz='de a';VIz=' AMB';wKz='OCAL';fmz='te//';sYz='al'\'' ';SLz='${UR';Cxz='is e';oXz='rado';KIz='retu';aHBz='Vers';EWz='-0 "';tvz='ma c';fqz='art.';QYz='CPU_';kXz='uivo';Kkz='d '\''s';yDz='T_IP';grz=' -0 ';NEBz='OMES';Yoz='):${';qMz=' -n ';eBz='S="$';eiz=' RES';GLz=' "0.';iFz=' obt';gIz='stem';iDz='mero';Doz='o. V';FIBz='icam';mVz='rand';jHBz='ERSA';wnz='ED}❌';GVz=' "$S';pLz='iado';Lvz='rce?';Hiz='}/pa';Phz='"THE';OSz=' $(d';XWz='SSO_';Npz='AZER';Qnz=':${N';Jwz='ANDO';CWz='if k';siz='se';sSz=' PAR';ktz='_ARR';bIBz='ova ';nPz='${#l';vqz='ackg';nDBz='=$(e';pgz='Curi';Fhz='Chia';Xfz='om/M';wRz='NÃO)';tZz='ISO:';Rgz='D.gi';oiz='STAL';Sfz='v3.g';gTz='nte$';ZWz='ODAN';PPz='s - ';Ovz=' "$F';yQz='nclu';lIz='ciad';ayz='+C p';PZz='D * ';urz='ATH}';dIBz='pt_a';Ebz='NA H';TJz='"✅ S';ZHBz='emot';SEBz=' - I';Wwz='}Est';YBBz='ESCO';lfz='T.gi';Zoz=' -s ';hPz='foot';PEBz='al()';vTz='${i}';uqz='o (b';Fmz='1 -e';rEz='ICO ';mCz='do a';Wz='33[1';vEz='OS[@';FLz=' || ';Zuz='ontr';OEBz='_ARQ';bHBz='ão A';wxz='PID$';Jyz='trad';tpz='m. V';YVz='{STA';Qdz='te "';nIBz='titu';nTz='PATH';Jvz=' usa';Bhz='"MEG';ixz='W}Pa';iCBz='K} N';Fyz='a se';avz='rçar';iTz='d "$';Riz='W}De';euz='ED}-';fLz='Mult';TUz='ra: ';Tiz=' rem';uhz='SITO';BCz='rro:';VBBz='ar"';Qaz='ulad';Olz='npm.';axz='"REI';cHBz='N}${';iHz='IPS[';DLBz=' "sk';WKz='p 2';aOz='  |"';UXz='do n';aZz='_MB=';Iyz='ncon';mez='hub.';XBBz='IDO';YZz='ntag';Dcz='MOVE';xez='shin';cuz='s:${';Cnz='lico';xDz=')';UIz='RRO:';fCBz='salv';nJBz='tus.';uIBz=' apl';ogz='iJs/';Zdz='NC} ';daz='LIZA';AXz='NEW_';ZVz='TUS}';DUz='H=$1';UJz='ervi';dGz='NAME';iSz='then';fcz=';;';XQz='=1';VOz=' |  ';Cjz='etor';VDz='MBIE';Xvz=' Fal';esz='Code';sWz='OMAN';bJBz='adic';icz='iar_';uXz='A"';pYz='grep';qsz='eiro';QGBz='cao_';bLz='ent.';ruz='laçã';hbz=' O T';eaz='ÇÃO:';Zz='  # ';nHBz='}Voc';DYz='_nom';vcz='ao "';pmz='ED}N';mKz='aran';wSz='else';NHBz='| gr';Ahz='ovaB';sGBz='$URL';iFBz='INCI';CLz=' 2>/';viz='_nov';xoz='s cr';Uwz='ad_n';Zhz='}$((';gCz='os_a';Kqz='Esco';SHz='p 3 ';rvz='arca';Lwz='DO S';oABz='nte"';aBz='.';iABz='ar_a';hEBz='Adic';pJz='uiri';PEz='DO=$';aUz='recu';mwz='&1';Mbz='DICA';pKBz='?';pjz='r_no';DMz='PT_P';NIz='e tr';yxz='UALI';tez='"YOS';XVz='} ($';YHBz='vo r';Opz=' AGO';kJBz='.jso';Elz='}Mód';jBz='3}"';Onz='eça ';Vyz='m te';gFBz='OPCA';hvz='TAR';fJBz='AL="';FKz='/are';mIBz='Subs';Ggz='GUA"';RYz='=$(g';YEz='UBLI';sEBz='W}AM';ofz='chri';GJz='tame';bDBz='TE_N';Yvz='ha a';uCz='o do';DRz='long';YCz='dos.';Jz='YELL';niz='R_IN';Fwz='load';lDBz='ES_A';XOz='||  ';xGz=''\'' | ';NCz='fi #';PIBz=' a v';AJBz='as a';nKz='do p';nBz='M_AM';VQz='ar_w';eoz='GIT_';Mrz='gite';Krz='rt"';rlz='m/nã';NKBz='cuçã';GQz='o pl';CSz=' "$A';yPz='l pi';pFz='IVAD';qRz=' OS ';toz='URL"';Ygz='ite-';yKBz='irew';Qcz='R${N';QSz='C}" ';iVz='MAND';fYz=' END';Jsz='rn 1';YYz='sage';oDz='STNA';qGBz='time';Avz='" > ';NWz='já e';ajz='e "$';TWz='ID).';VPz='[@]}';vKBz=' -eq';QQz='res ';FIz='so! ';GABz='=$1';DEz='9.16';hBz='IENT';sDBz='\":\';TGBz='}CON';uABz='Volt';MCBz='hido';qnz='Clon';xaz='COLH';kcz='3)';Dvz='!${N';gmz=''\'')';dNz='Larg';ZPz='widt';Exz='ecuç';IKz='g.co';diz='não)';fUz='cat ';pRz='EITA';OHBz='ep -';PLz='URL_';Jfz='ub.c';omz='lada';vaz='W}1 ';IMz='$(ba';ETz=''\''SIM';dfz='"ESD';Jqz='json';Flz='ulos';bmz='_NUM';qbz='VE${';lgz='IOSI';FPz='col';rCBz='i um';Qrz='[ $A';pGBz='max-';Dxz='m ex';guz=' con';gCBz='$NOV';uDBz='"]*\';aABz='":\"';Dmz='inde';Rrz='RQUI';cIz='---"';Loz='Usuá';BWz='.pid';BKz='e: \';FGz='    ';qdz='ar_b';Uiz='over';Brz='IZAÇ';OCBz='OME$';uJz='viço';ZDBz='.amb';PWz='roda';WGBz='EINI';bIz='----';rIBz='d +x';Zxz='r.${';UYz='u '\'' ';MIBz='TA})';tXz='LUÍD';WABz='-o "';iEBz='r Am';FEBz='}}" ';loz='OKEN';Plz='om y';Vfz='TSUK';GFz='ttp:';Edz='itor';VMz='YAN}';clz='ão i';wFBz='= "N';KUz='US" ';jGBz='ÇÕES';AYz='1"';eDz='xt" ';IZz='t $2';EYz='e_am';MJz='e do';DVz='tatu';yaz='ER B';fGz='"${W';eLz='lli/';ZTz='os a';iKBz='ucao';CTz=' DIG';ugz='"NOV';iUz='veri';UJBz='lica';TDz='UP_N';cMz='ENCI';RVz='rifi';ZLz='thub';nEz='o.ne';MNz='utdo';RXz='zio ';rnz='ando';dDz='up.t';wrz='d" 2';Tbz='T - ';tHBz='osso';KFBz='NTRE';tWz='DO >';Mpz='JA F';tkz='Inst';hz='S_MA';Wbz='ALIZ';uwz='a da';oyz=' SES';Gyz='va f';Yfz='Supe';Ngz='ina-';biz='o? (';jDBz='EUDO';VTz='Cria';MHBz='TO" ';Dz='31m'\''';MUz='E_PA';oFBz='NCIP';bkz='ção ';Oez='=(';TSz='ERMO';nlz='alme';XGBz='CIAD';Csz='ossí';YKz='ALID';lYz='}'\'')';Ddz='epos';fFBz='IPAL';YHz='o re';kOz='| |_';NJBz='is r';LGBz='| "$';erz='ano.';Siz='seja';xVz='id" ';Mxz='zar ';rtz='TES_';nwz='}Pro';QABz='q -r';jKBz='_ini';Jxz='istr';lcz='para';tABz='te"';ATz='NVÁL';ciz='sim/';Rqz='cial';aKBz=' as ';EDBz='VER ';aGz='<"$(';oDBz='cho ';iKz='auto';VCBz=' (ed';mvz='.rel';Pcz='OLTA';itz=''\'','\'' ';XHz='uári';qKBz=' $AN';VVz='us a';tEz='${SE';OBBz='{YEL';LABz='omma';BHz='S+=(';cOz='  | ';Obz='US}$';QIBz='ersã';fIz='e si';hmz='E_NU';FOz='entr';Oaz='ser ';gXz='F.${';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Pz$Qz$Uz$Sz$z$Vz$Pz$Wz$Iz$z$Xz$Lz$Yz$Zz$az$bz$z$cz$dz$ez$fz$z$gz$hz$ez$iz$z$jz$kz$lz$z$mz$nz$Sz$z$oz$pz$qz$z$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$rz$sz$CBz$DBz$vz$wz$EBz$FBz$ABz$GBz$z$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$z$wBz$xBz$yBz$ACz$BCz$CCz$gBz$hBz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$z$LCz$MCz$z$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$z$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$Zz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$aBz$z$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$nCz$oCz$LDz$MDz$NDz$ODz$PDz$QDz$UBz$VBz$RDz$z$SDz$TDz$UDz$VDz$WDz$XDz$HBz$IBz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$KDz$nCz$fDz$ABz$cDz$gDz$hDz$iDz$jDz$GDz$HDz$kDz$z$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$z$lDz$mDz$yDz$AEz$BEz$CEz$DEz$EEz$z$FEz$GEz$HEz$IEz$z$JEz$KEz$LEz$MEz$z$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$z$NEz$YEz$ZEz$aEz$z$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$xDz$z$qEz$bEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$z$NEz$YEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$bEz$IFz$JFz$z$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$QFz$RFz$QFz$RFz$QFz$SFz$TFz$UFz$z$VFz$WFz$z$XFz$z$YFz$z$KFz$ZFz$aFz$bFz$cFz$dFz$uBz$vBz$z$NEz$YEz$ZEz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$z$XFz$z$wBz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$z$uFz$z$vFz$wFz$GDz$HDz$xFz$z$wBz$xBz$yFz$AGz$BGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$DGz$z$wBz$xBz$EGz$FGz$FEz$GGz$HGz$oBz$IGz$JGz$z$wBz$xBz$KGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$LGz$Gz$MGz$z$NGz$OGz$PGz$QGz$RGz$SGz$TGz$jDz$vFz$UGz$VGz$z$WGz$XGz$NEz$OEz$YGz$MFz$NFz$ZGz$aGz$JEz$KEz$bGz$z$qEz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$wEz$xEz$z$lGz$mGz$nGz$oGz$pGz$tDz$qGz$rGz$jGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$z$lDz$mDz$yDz$BHz$CHz$DHz$EHz$z$YFz$z$wBz$xBz$yFz$AGz$FHz$GHz$HHz$IHz$JHz$KHz$QEz$REz$LHz$z$wBz$xBz$MHz$NHz$OHz$JHz$KHz$NEz$OEz$PHz$z$wBz$xBz$MHz$lFz$QHz$JHz$KHz$NEz$YEz$RHz$z$wBz$xBz$KGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$LGz$Gz$MGz$z$NGz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$z$KFz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$lBz$rHz$lDz$mDz$yDz$sHz$tHz$uHz$vHz$MFz$NFz$wHz$tBz$uBz$vBz$z$wBz$xBz$yFz$AGz$xHz$yHz$VBz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$Gz$MGz$z$FEz$GEz$HEz$IEz$z$KIz$LIz$z$XFz$z$MIz$NIz$OIz$PIz$z$QIz$RIz$z$wBz$xBz$yFz$AGz$SIz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$DGz$z$wBz$xBz$TIz$UIz$VIz$hBz$WIz$XIz$YIz$ZIz$aEz$z$wBz$xBz$aIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$cIz$z$wBz$xBz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$pIz$qIz$z$wBz$xBz$dIz$rIz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$AJz$BJz$CJz$DJz$ZBz$EJz$FJz$GJz$HJz$IJz$JJz$JGz$z$wBz$xBz$aIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$cIz$z$wBz$xBz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$aEz$z$wBz$xBz$KJz$kFz$NHz$OHz$JHz$KHz$NEz$OEz$PHz$z$wBz$xBz$KJz$kFz$lFz$QHz$JHz$KHz$NEz$YEz$RHz$z$wBz$xBz$aIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$cIz$z$wBz$xBz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$fJz$aEz$z$wBz$xBz$gJz$hJz$iJz$jJz$kJz$fHz$gHz$hHz$iHz$lJz$z$wBz$xBz$aIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$cIz$z$wBz$xBz$mJz$nJz$oJz$pJz$qJz$rJz$sJz$tJz$UCz$uJz$vJz$NJz$wJz$xJz$aEz$z$wBz$xBz$EGz$yJz$AKz$BKz$Gz$CKz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$Lz$KKz$z$wBz$xBz$KGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$LGz$Gz$MGz$z$NGz$LKz$z$YFz$z$uFz$z$vFz$wFz$MKz$NKz$OKz$PKz$z$wBz$xBz$yFz$AGz$QKz$RKz$SKz$mCz$RCz$TKz$UKz$Qz$VKz$z$NGz$WKz$z$vFz$wFz$GDz$HDz$z$uFz$z$KFz$XKz$YKz$ZKz$aKz$bKz$cKz$uBz$vBz$z$vFz$wFz$GDz$HDz$z$XFz$z$wBz$xBz$yFz$AGz$dKz$eKz$IIz$fKz$gKz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$ABz$vFz$oKz$WBz$pKz$qKz$rKz$UKz$Qz$VKz$z$NGz$sKz$z$vFz$wFz$MKz$NKz$tKz$z$uKz$vKz$wKz$xKz$yKz$cCz$dCz$eCz$ALz$BLz$jCz$CLz$DLz$ELz$FLz$wBz$GLz$HLz$ILz$JLz$KLz$BIz$LLz$MLz$NLz$ALz$OLz$z$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$ZLz$aLz$LBz$bLz$cLz$dLz$eLz$fLz$gLz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$ABz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$z$QLz$DMz$EMz$FMz$z$QLz$GMz$HMz$IMz$JMz$KMz$LMz$z$QLz$DMz$EMz$FMz$Zz$kCz$lCz$MMz$NMz$LLz$OMz$PMz$QMz$z$RMz$SMz$TMz$MEz$z$QIz$RIz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$XMz$YMz$ZMz$aMz$FGz$FGz$bMz$cMz$dMz$eMz$fMz$FGz$FGz$gMz$hMz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$uFz$z$iMz$jMz$kMz$lMz$z$mMz$nMz$oMz$pMz$z$wBz$qMz$rMz$sMz$tMz$z$qEz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$VGz$z$wBz$qMz$DNz$ENz$FNz$GNz$z$NGz$HNz$INz$z$YFz$z$wBz$JNz$KCz$z$uFz$z$KNz$LNz$MNz$NNz$ONz$MEz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$PNz$QNz$RNz$SNz$TNz$UNz$gIz$VNz$WNz$GNz$z$NGz$XNz$z$mMz$YNz$ZNz$aNz$bNz$cNz$Zz$dNz$eNz$fNz$UHz$gNz$z$mMz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$LLz$fCz$pNz$z$mMz$qNz$rNz$lNz$sNz$tNz$uNz$vNz$z$mMz$qNz$rNz$wNz$xNz$yNz$AOz$BOz$COz$DOz$EOz$FOz$GOz$RGz$yMz$VGz$z$mMz$HOz$IOz$JOz$KOz$z$LOz$MOz$NOz$MOz$OOz$POz$MOz$QOz$FGz$NOz$MOz$ROz$z$SOz$TOz$FLz$UOz$VOz$WOz$FGz$XOz$YOz$FLz$ZOz$aOz$z$SOz$bOz$FLz$cOz$XOz$WOz$POz$XOz$dOz$FLz$dOz$aOz$z$SOz$FGz$FLz$eOz$fOz$WOz$gOz$VOz$FGz$FLz$FGz$aOz$z$SOz$FGz$FLz$UOz$hOz$WOz$POz$XOz$OOz$FLz$FGz$aOz$z$SOz$TOz$FLz$cOz$iOz$WOz$gOz$iOz$VOz$FLz$ZOz$aOz$z$jOz$kOz$lOz$mOz$dOz$gOz$MOz$nOz$eOz$lOz$oOz$pOz$z$xDz$z$qEz$qOz$JNz$rOz$sOz$tOz$uOz$vOz$PIz$z$wOz$xOz$yOz$APz$BPz$CPz$DPz$EPz$rNz$FPz$z$wBz$xBz$UMz$VMz$GPz$IOz$JOz$HPz$IPz$KCz$z$YFz$z$mMz$JPz$KPz$LPz$MPz$NPz$OPz$PPz$QPz$RPz$HKz$SPz$z$wOz$xOz$yOz$APz$BPz$CPz$xMz$TPz$UPz$yMz$VPz$WPz$XPz$YPz$ZPz$aPz$bPz$cPz$dPz$ePz$fPz$z$wBz$xBz$rMz$sMz$gPz$hPz$iPz$hMz$aEz$z$mMz$jPz$kPz$lPz$GKz$HKz$IKz$JKz$aEz$z$wOz$xOz$yOz$APz$BPz$CPz$xMz$TPz$UPz$yMz$VPz$mPz$XPz$YPz$ZPz$aPz$nPz$oPz$pPz$qPz$xDz$z$wBz$xBz$rPz$sPz$tPz$oPz$uPz$vPz$z$wPz$xPz$lMz$z$mMz$yPz$AQz$Zz$BQz$CQz$DQz$oIz$EQz$FQz$GQz$HQz$z$mMz$IQz$JQz$KQz$z$mMz$LQz$MQz$NQz$uz$OQz$PQz$QQz$RQz$SQz$TQz$z$mMz$UQz$VQz$WQz$XQz$z$MIz$YQz$ZQz$aQz$bQz$cQz$dQz$eQz$PIz$z$qEz$qOz$fQz$gQz$hQz$xEz$z$iQz$jQz$kQz$lQz$mQz$nQz$oQz$VMz$pQz$qQz$rQz$sQz$vPz$z$NGz$tQz$uQz$z$YFz$z$YFz$z$iQz$jQz$vQz$Ez$wQz$xQz$yQz$ARz$WNz$BRz$FGz$CRz$z$uFz$z$DRz$ERz$FRz$GRz$HRz$MEz$z$NGz$IRz$PGz$QGz$JRz$KRz$LRz$MRz$NRz$z$uFz$z$wBz$xBz$UMz$VMz$RNz$ORz$UNz$gIz$VNz$WNz$GNz$z$DRz$ERz$FRz$GRz$PRz$z$wPz$QRz$RRz$z$uFz$z$KNz$SRz$TRz$LEz$MEz$z$KNz$LNz$MNz$NNz$URz$z$NGz$XNz$z$wBz$xBz$XMz$VRz$PNz$QNz$WRz$uIz$vIz$XRz$UHz$YRz$ZRz$aRz$bRz$cRz$dRz$eRz$NDz$fRz$gRz$WNz$GNz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$hRz$iRz$ZCz$aCz$jRz$kRz$lRz$z$MIz$NIz$OIz$PIz$z$wBz$xBz$rMz$sMz$gPz$jz$mRz$nRz$oRz$pRz$qRz$ZCz$rRz$sRz$tRz$uRz$vRz$wRz$WNz$GNz$z$WGz$xRz$yRz$ASz$BSz$z$KFz$CSz$DSz$ESz$FSz$GSz$TFz$UFz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$KSz$TRz$LSz$MSz$NSz$OSz$PSz$sQz$QSz$RSz$ZCz$aCz$SSz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$KSz$TSz$USz$VSz$WSz$XSz$YSz$ZSz$aSz$KCz$z$VFz$WFz$z$bSz$cSz$dSz$eSz$fSz$gSz$hSz$iSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$nRz$nSz$oSz$DSz$pSz$qSz$rSz$sSz$tSz$uSz$vSz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$xSz$ySz$ATz$BTz$CTz$DTz$ETz$FTz$GTz$HTz$hMz$aEz$z$XFz$z$YFz$z$wSz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$KSz$TSz$ITz$ASz$JTz$KTz$LTz$MTz$NTz$OTz$PTz$QTz$RTz$hMz$aEz$z$XFz$z$uFz$z$STz$TTz$UTz$xFz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$PNz$QNz$VTz$WTz$XTz$YTz$ZTz$RCz$SCz$RTz$hMz$aEz$z$NGz$XNz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$hTz$z$KFz$hRz$iTz$cBz$dBz$dTz$jTz$TFz$UFz$z$kTz$lTz$CSz$VDz$mTz$nTz$aEz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$oTz$pTz$LLz$GDz$HDz$qTz$rTz$sTz$sQz$vPz$z$wSz$z$wBz$xBz$rMz$sMz$gPz$mz$tTz$uTz$mCz$RCz$HJz$vTz$wTz$xTz$yTz$hMz$aEz$z$XFz$z$YFz$z$uFz$z$JHz$AUz$BUz$CUz$xFz$z$cBz$dBz$dTz$DUz$z$EUz$FUz$GUz$HUz$z$wBz$bTz$IUz$JUz$KUz$RSz$LUz$hBz$MUz$NUz$OUz$PUz$z$wBz$xBz$UMz$VMz$PNz$QNz$QUz$RUz$SUz$aDz$VHz$QMz$jJz$mIz$TUz$UUz$VUz$WUz$XUz$YUz$ZUz$KCz$z$uFz$z$aUz$bUz$BUz$CUz$xFz$z$cBz$dBz$dTz$DUz$z$KFz$cUz$dUz$VDz$mTz$nTz$eUz$CUz$dFz$uBz$vBz$z$fUz$dUz$VDz$mTz$nTz$eUz$CUz$aEz$z$wSz$z$wBz$gUz$hUz$z$XFz$z$uFz$z$iUz$jUz$kUz$lUz$LEz$MEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$nUz$oUz$pUz$qUz$rUz$sUz$tUz$uUz$vUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$hTz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$JUz$yUz$AVz$BVz$CVz$DVz$EVz$cBz$dBz$dTz$FVz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$JVz$KVz$LVz$MVz$XDz$Ez$NVz$hMz$aEz$z$wSz$z$JVz$KVz$LVz$MVz$XDz$OVz$PVz$vPz$z$XFz$z$wBz$xBz$rMz$sMz$QVz$RVz$SVz$SUz$aDz$TVz$UVz$aSz$KCz$z$wBz$xBz$UMz$VMz$QUz$VVz$QMz$WVz$JVz$KVz$LVz$MVz$XVz$YVz$ZVz$aVz$vPz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$KFz$qMz$hVz$iVz$jVz$TFz$UFz$z$wBz$xBz$rMz$sMz$kVz$lVz$mVz$nVz$oVz$pVz$RGz$GDz$HDz$qTz$qVz$WNz$GNz$z$rVz$sVz$tVz$uVz$cVz$bKz$vVz$z$KFz$cUz$dUz$VDz$mTz$nTz$wVz$xVz$kRz$lRz$z$yVz$AWz$dVz$eVz$LUz$hBz$MUz$NUz$BWz$JFz$z$CWz$DWz$EWz$FWz$GWz$HWz$DLz$ELz$IWz$JWz$lRz$z$wBz$xBz$rPz$sPz$KWz$LWz$MWz$KLz$NWz$OWz$PWz$WTz$QWz$RWz$SWz$TWz$WNz$GNz$z$rVz$sVz$tVz$uVz$cVz$UWz$z$XFz$z$XFz$z$KFz$VWz$WWz$XWz$YWz$ZWz$aWz$bWz$cWz$kRz$lRz$z$dWz$eWz$hBz$MUz$fWz$gWz$hWz$iWz$z$wBz$xBz$rMz$sMz$jWz$kWz$WTz$lWz$mWz$nWz$oWz$pWz$RTz$hMz$aEz$z$qWz$rWz$sWz$tWz$JNz$cBz$dBz$dTz$uWz$vWz$wWz$xWz$yWz$z$AXz$AWz$RRz$z$wBz$bTz$BXz$CXz$RSz$LUz$hBz$MUz$NUz$BWz$aEz$z$wBz$xBz$rPz$sPz$DXz$EXz$FXz$GXz$YHz$lVz$HXz$pVz$RGz$GDz$HDz$qTz$IXz$JXz$KXz$LXz$MXz$KCz$z$XFz$z$wSz$z$wBz$xBz$rMz$sMz$NXz$OXz$xQz$PXz$QXz$RXz$SXz$TXz$UXz$VXz$WXz$XXz$xUz$YXz$SUz$aDz$TVz$UVz$WNz$GNz$z$XFz$z$wSz$z$wBz$xBz$yBz$ZXz$aXz$bXz$cXz$GDz$HDz$qTz$dXz$eXz$DIz$DVz$fXz$gXz$KCz$z$XFz$z$wSz$z$wBz$xBz$yBz$ZXz$aXz$bXz$hXz$iXz$jXz$kXz$lXz$mXz$nXz$LBz$oXz$AMz$GDz$HDz$qTz$pXz$KCz$z$XFz$z$wBz$xBz$UMz$VMz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$qXz$KCz$z$YFz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$nUz$oUz$rXz$sXz$tXz$uXz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$uFz$z$vXz$wXz$xXz$aDz$yXz$PKz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$AYz$z$JUz$yUz$AVz$BVz$CVz$DVz$EVz$cBz$dBz$dTz$FVz$z$xCz$BYz$CYz$DYz$EYz$aDz$TVz$FYz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$JVz$KVz$LVz$MVz$XDz$Ez$NVz$hMz$aEz$z$wSz$z$JVz$KVz$LVz$MVz$XDz$OVz$PVz$vPz$z$XFz$z$KFz$cUz$GYz$HYz$IYz$JYz$KYz$LYz$MYz$NYz$OYz$PYz$TFz$UFz$z$QYz$mz$RYz$SYz$TYz$UYz$MYz$VYz$WYz$tGz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$fYz$gYz$hYz$iYz$jYz$kYz$YYz$lYz$z$mYz$nYz$oYz$pYz$qYz$rYz$sYz$MYz$NYz$OYz$tYz$uYz$vYz$wYz$xYz$xDz$z$mYz$yYz$RYz$SYz$AZz$BZz$CZz$DZz$EZz$FZz$GZz$HZz$iQz$IZz$lYz$z$mYz$JZz$sNz$mYz$nYz$KZz$mYz$yYz$fPz$z$mYz$LZz$MZz$NZz$OZz$PZz$QZz$RZz$SZz$TZz$ILz$UZz$jDz$VZz$WZz$XZz$YZz$ZZz$z$mYz$JZz$aZz$bZz$cZz$dZz$eZz$fZz$FGz$FGz$gZz$hZz$iZz$jZz$pVz$kZz$z$lZz$mz$XDz$mYz$LZz$mZz$nZz$cZz$oZz$pZz$qZz$z$wSz$z$QYz$mz$rZz$uXz$z$lZz$mz$rZz$uXz$z$wBz$xBz$rMz$sMz$sZz$tZz$uZz$MLz$vZz$wZz$xZz$mWz$yZz$Aaz$Baz$Caz$Daz$Eaz$Faz$Gaz$hMz$aEz$z$wBz$xBz$rMz$sMz$Haz$Iaz$Jaz$Kaz$Laz$Maz$Naz$Oaz$Paz$Qaz$JCz$KCz$z$XFz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$xBz$UMz$VMz$Taz$Uaz$pUz$cBz$dBz$Vaz$hMz$aEz$z$wSz$z$wBz$xBz$UMz$VMz$Taz$Uaz$pUz$cBz$dBz$Waz$Xaz$Jz$Yaz$Zaz$aaz$KCz$z$XFz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$yBz$baz$caz$daz$eaz$xSz$faz$gaz$haz$OPz$iaz$jaz$kaz$laz$maz$naz$aEz$z$wBz$xBz$rMz$sMz$oaz$CUz$LLz$paz$HDz$WVz$JVz$KVz$LVz$MVz$XVz$YVz$ZVz$aVz$vPz$z$wBz$xBz$rMz$sMz$Haz$Iaz$Jaz$WVz$Oz$HSz$qaz$raz$WNz$GNz$z$wBz$xBz$rMz$sMz$Haz$Iaz$saz$WVz$Oz$taz$uaz$raz$WNz$GNz$z$wBz$xBz$UMz$VMz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$qXz$KCz$z$wBz$xBz$rMz$sMz$vaz$waz$xaz$yaz$Abz$Bbz$Cbz$Dbz$Ebz$Fbz$Gbz$KCz$z$wBz$xBz$rMz$sMz$Hbz$Ibz$Jbz$Kbz$Lbz$PNz$Mbz$Nbz$JUz$Obz$hMz$aEz$z$wBz$xBz$rMz$sMz$Pbz$Qbz$Rbz$Sbz$Tbz$Ubz$Vbz$Wbz$Xbz$sUz$Ybz$WNz$GNz$z$wBz$xBz$rMz$sMz$Zbz$abz$bbz$cbz$Sbz$Tbz$Ubz$Vbz$Wbz$Xbz$sUz$Ybz$WNz$GNz$z$wBz$xBz$rMz$sMz$dbz$ebz$fbz$gbz$hbz$ibz$jbz$kbz$lbz$mbz$nbz$obz$pbz$qbz$KCz$z$wBz$xBz$rMz$sMz$rbz$sbz$tbz$ubz$vbz$wbz$xbz$caz$daz$ybz$Acz$Bcz$hMz$aEz$z$wBz$xBz$rMz$sMz$Ccz$abz$Dcz$Ecz$Fcz$Gcz$hMz$aEz$z$wBz$xBz$rMz$sMz$Hcz$Icz$Jcz$Kcz$Lcz$Mcz$WNz$GNz$z$wBz$xBz$yBz$Ncz$Ocz$Pcz$Qcz$vPz$z$WGz$xRz$yRz$Rcz$Scz$z$Tcz$Ucz$Vcz$Wcz$z$FYz$z$Xcz$Ycz$Zcz$acz$bcz$ccz$oBz$dcz$ecz$z$fcz$z$gcz$z$hcz$icz$jcz$ccz$oBz$dcz$ecz$z$fcz$z$kcz$z$lcz$mcz$eVz$cBz$dBz$dTz$ncz$z$fcz$z$ocz$z$pcz$kWz$mcz$eVz$cBz$dBz$dTz$ncz$z$fcz$z$qcz$z$rcz$fCz$pNz$CSz$VDz$mTz$nTz$aEz$z$fcz$z$scz$z$tcz$ucz$lWz$vcz$eWz$hBz$MUz$wcz$z$fcz$z$xcz$z$ycz$rcz$jcz$ccz$oBz$dcz$ecz$z$fcz$z$Adz$z$Bdz$Cdz$Ddz$Edz$Fdz$eWz$hBz$MUz$wcz$z$fcz$z$Gdz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Ldz$z$wBz$xBz$yBz$Mdz$Ndz$Odz$ICz$Pdz$KCz$z$vXz$wXz$xXz$aDz$Qdz$Rdz$z$fcz$z$Sdz$z$uFz$z$Xcz$Ycz$Zcz$acz$Tdz$lMz$z$cBz$dBz$dTz$DUz$z$RMz$SMz$VGz$z$iMz$jMz$mUz$Udz$Vdz$Ecz$Wdz$Xdz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rPz$sPz$Ydz$Zdz$adz$bdz$cdz$ddz$edz$z$wBz$xBz$rPz$sPz$fdz$Zdz$adz$bdz$gdz$hdz$idz$z$wBz$xBz$yBz$Ncz$WNz$jdz$kdz$ldz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$WGz$xRz$yRz$Rcz$mdz$ndz$z$Tcz$Ucz$odz$Lbz$Wcz$z$FYz$z$pdz$qdz$rdz$ccz$oBz$dcz$ecz$sdz$tdz$udz$z$fcz$z$gcz$z$pdz$qdz$rdz$ccz$oBz$dcz$ecz$vdz$wdz$xdz$z$fcz$z$Gdz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Ldz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$xSz$ySz$ATz$BTz$WNz$GNz$z$NGz$WKz$z$Xcz$Ycz$Zcz$acz$bcz$ccz$oBz$dcz$ecz$z$fcz$z$Sdz$z$uFz$z$pdz$qdz$ydz$lMz$z$cBz$dBz$dTz$DUz$z$Aez$Bez$Cez$z$RMz$SMz$VGz$z$iMz$jMz$mUz$Dez$Eez$Fez$Gez$Hez$Iez$Jez$Kez$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$Lez$Mez$Nez$sdz$tdz$udz$hSz$iSz$z$fMz$Oez$z$Pez$Qez$Rez$Sez$mbz$nbz$Tez$Uez$Vez$Wez$Xez$Yez$Zez$aez$bez$cez$BVz$dez$eez$fez$gez$z$hez$iez$jez$kez$EKz$lez$mez$cLz$nez$oez$pez$qez$rez$sez$aEz$z$tez$uez$vez$Wez$Xez$Yez$Zez$aez$bez$cez$BVz$wez$xez$yez$sez$aEz$z$Afz$Bfz$Cfz$Dfz$Efz$Ffz$Gfz$Hfz$Ifz$Jfz$Kfz$Lfz$Mfz$Nfz$Ofz$Pfz$Qfz$Rfz$Sfz$Tfz$z$Ufz$Vfz$Wfz$Tbz$Gfz$Hfz$Ifz$Jfz$Xfz$Lfz$Yfz$Zfz$afz$bfz$cfz$Tfz$z$dfz$efz$vez$Wez$Xez$Yez$Zez$aez$ffz$gfz$hfz$ifz$jfz$kfz$lfz$gez$z$mfz$nfz$jez$kez$EKz$lez$mez$cLz$nez$oez$pez$ofz$pfz$sez$aEz$z$qfz$rfz$jez$kez$EKz$lez$mez$cLz$nez$oez$pez$sfz$tfz$ufz$Tfz$z$vfz$wfz$Lbz$xfz$WLz$yfz$ZLz$vDz$Agz$Bgz$bUz$Cgz$Dgz$Egz$YLz$gez$z$xDz$z$bSz$cSz$Fgz$Ggz$fSz$Hgz$Igz$dFz$uBz$vBz$z$fMz$Oez$z$Jgz$Kgz$Tbz$Gfz$Hfz$Ifz$Jfz$Lgz$Mgz$Ngz$Ogz$Pgz$Qgz$Rgz$gez$z$Jgz$Kgz$Sgz$Tgz$kez$EKz$lez$mez$cLz$Ugz$Vgz$Wgz$Ugz$Xgz$Ygz$Zgz$Tfz$z$agz$bgz$vez$Wez$Xez$Yez$Zez$aez$cgz$dgz$egz$fgz$ggz$hgz$igz$jgz$sez$aEz$z$kgz$lgz$mgz$jez$kez$EKz$lez$mez$cLz$ngz$ogz$pgz$qgz$rgz$sgz$tgz$z$ugz$Kgz$Tbz$Gfz$Hfz$Ifz$Jfz$vgz$wgz$xgz$ygz$Ahz$Qgz$Rgz$gez$z$Bhz$Chz$vez$Wez$Xez$Yez$Zez$aez$Dhz$Ehz$Fhz$Ghz$Hhz$Ihz$jgz$aEz$z$Jhz$Khz$vez$Wez$Xez$Yez$Zez$aez$Lhz$Mhz$Nhz$Ohz$Qgz$vUz$z$Phz$Qhz$Rhz$jez$kez$EKz$lez$mez$cLz$Shz$Thz$Uhz$Vhz$Whz$Xhz$Qgz$Rgz$gez$z$xDz$z$XFz$z$qEz$qOz$JNz$Yhz$sHz$vOz$PIz$z$wBz$xBz$rPz$sPz$Zhz$ahz$aVz$bhz$chz$dhz$ehz$fhz$GNz$z$YFz$z$wBz$xBz$yBz$Ncz$WNz$jdz$kdz$ldz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$WGz$xRz$yRz$vez$ghz$hhz$ihz$z$KFz$jhz$khz$lhz$mhz$nhz$ohz$phz$cSz$qhz$ghz$hhz$aWz$rhz$shz$fMz$VPz$dFz$uBz$vBz$z$thz$uhz$vhz$XMz$dhz$whz$khz$lhz$mhz$xhz$yhz$Aiz$z$iUz$jUz$Biz$Ciz$Diz$Zcz$CSz$VDz$mTz$nTz$Eiz$thz$uhz$Fiz$z$bSz$cSz$qhz$ghz$hhz$aWz$Giz$dFz$uBz$vBz$z$Xcz$Ycz$Zcz$acz$bcz$ccz$oBz$dcz$ecz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$xSz$ySz$ATz$BTz$WNz$GNz$z$NGz$WKz$z$pdz$qdz$rdz$ccz$oBz$dcz$ecz$Lez$Mez$uXz$z$XFz$z$uFz$z$iUz$jUz$Biz$Ciz$Diz$Zcz$xFz$z$cBz$dBz$dTz$DUz$z$thz$uhz$vhz$HUz$z$KFz$cUz$dUz$VDz$mTz$nTz$Hiz$Iiz$Jiz$JDz$kRz$lRz$z$wBz$xBz$rMz$sMz$Kiz$Liz$Miz$Niz$Oiz$Piz$Qiz$Daz$VHz$RCz$TKz$WNz$GNz$z$wBz$xBz$rMz$sMz$Riz$Siz$Tiz$Uiz$Viz$Wiz$Xiz$HDz$pVz$Yiz$Ciz$Ziz$aiz$biz$ciz$diz$WNz$GNz$z$WGz$xRz$yRz$eiz$fiz$giz$z$KFz$hiz$iiz$jiz$fSz$kiz$hSz$iSz$z$liz$miz$nUz$oUz$niz$oiz$piz$qiz$vVz$z$ycz$rcz$jcz$ccz$oBz$dcz$ecz$z$liz$miz$nUz$oUz$niz$oiz$piz$riz$siz$z$tiz$uiz$viz$wiz$eVz$cBz$dBz$dTz$xiz$yiz$Lcz$Ajz$aEz$z$wSz$z$wBz$xBz$yBz$Bjz$Cjz$Djz$Ejz$Fjz$Gjz$Hjz$Ijz$aSz$KCz$z$Hdz$Idz$Jdz$Kdz$z$XFz$z$wSz$z$tiz$uiz$viz$wiz$eVz$cBz$dBz$dTz$xiz$yiz$Lcz$Ajz$aEz$z$XFz$z$uFz$z$tiz$uiz$viz$wiz$Jjz$MEz$z$cBz$dBz$dTz$DUz$z$thz$uhz$vhz$HUz$z$xCz$Kjz$Ljz$Mjz$Njz$Ojz$Pjz$YIz$Qjz$Rjz$z$wBz$xBz$UMz$VMz$RNz$ORz$Sjz$tiz$Tjz$Ujz$Vjz$Wjz$Xjz$Yjz$xCz$Kjz$WNz$qVz$aEz$z$Zjz$Bdz$ajz$thz$uhz$Fiz$CSz$VDz$mTz$nTz$xWz$bjz$cjz$djz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$hjz$ijz$jjz$kjz$Piz$Qiz$ljz$mjz$TGz$AMz$GDz$HDz$njz$oBz$dcz$ojz$WNz$GNz$z$iUz$jUz$pjz$qjz$rjz$sjz$eWz$hBz$MUz$wcz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$ujz$vjz$wjz$xjz$yjz$QBz$Akz$Bkz$xCz$Kjz$Ckz$RVz$Dkz$Ekz$Fkz$Gkz$Hkz$Ikz$TKz$WNz$GNz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$XFz$z$uFz$z$iUz$jUz$pjz$qjz$rjz$Okz$PKz$z$cBz$dBz$dTz$DUz$z$KFz$hRz$iTz$LUz$hBz$MUz$NUz$Pkz$Qkz$Rkz$dFz$uBz$vBz$z$wBz$xBz$rMz$sMz$Skz$Tkz$Ukz$Vkz$Ciz$ZBz$Daz$Wkz$Xkz$hMz$aEz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$JRz$akz$bkz$lcz$ckz$dkz$ekz$WNz$GNz$z$wBz$xBz$rPz$sPz$fkz$gkz$ckz$hkz$WNz$GNz$z$wBz$xBz$rPz$sPz$ikz$jkz$kkz$Ciz$lkz$vPz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$nkz$vPz$z$WGz$xRz$yRz$Rcz$okz$pkz$qkz$z$Tcz$Ucz$odz$rkz$skz$Wcz$z$FYz$z$wBz$xBz$UMz$VMz$tkz$ukz$vkz$wkz$xkz$ykz$Alz$sQz$vPz$z$dWz$eWz$hBz$MUz$fWz$Blz$Clz$Piz$Dlz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$Elz$Flz$ckz$dkz$Glz$Hlz$Ilz$Jlz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$Klz$Piz$Llz$Mlz$Nlz$Hlz$Olz$WNz$GNz$z$XFz$z$fcz$z$gcz$z$wBz$xBz$UMz$VMz$tkz$ukz$vkz$wkz$xkz$Plz$Qlz$aSz$KCz$z$dWz$eWz$hBz$MUz$fWz$Rlz$Slz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$Elz$Flz$ckz$dkz$Glz$Hlz$Ilz$Jlz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$Klz$Piz$Llz$Mlz$Nlz$Hlz$Tlz$sQz$vPz$z$XFz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$fcz$z$Ldz$z$wBz$xBz$yBz$Mdz$Ndz$Odz$ICz$Pdz$KCz$z$iUz$jUz$pjz$qjz$rjz$sjz$eWz$hBz$MUz$wcz$z$fcz$z$Sdz$z$wSz$z$wBz$xBz$rPz$sPz$Ulz$Vlz$Wlz$Tkz$Xlz$Ylz$Zlz$alz$blz$clz$Piz$Qiz$dlz$KCz$z$XFz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$ycz$rcz$elz$lMz$z$cBz$dBz$dTz$DUz$z$KFz$cUz$dUz$VDz$mTz$nTz$Hiz$Iiz$Jiz$JDz$kRz$lRz$z$wBz$xBz$rMz$sMz$flz$glz$hlz$OHz$ilz$jlz$aDz$yTz$hMz$aEz$z$wBz$xBz$yBz$klz$llz$mlz$nlz$HJz$ycz$olz$Vjz$OJz$plz$qlz$rlz$slz$KCz$z$WGz$xRz$yRz$tlz$ulz$vlz$z$KFz$wlz$xlz$ylz$aKz$Amz$dFz$uBz$vBz$z$Bmz$CSz$VDz$mTz$nTz$Cmz$Dmz$Emz$Fmz$Gmz$Hmz$Imz$Jmz$Kmz$Lmz$Mmz$z$KFz$ZFz$Nmz$Omz$CSz$VDz$mTz$nTz$Pmz$kRz$lRz$z$wBz$xBz$rPz$sPz$hjz$Tiz$Qmz$uLz$Rmz$Ylz$JCz$KCz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$KFz$wlz$Smz$Tmz$Umz$Vmz$Wmz$Xmz$Ymz$Zmz$amz$hSz$iSz$z$cBz$dBz$bmz$Ljz$Mjz$Njz$ccz$oBz$dcz$ecz$cmz$dmz$emz$aDz$fmz$gmz$z$vXz$wXz$xXz$aDz$Qdz$eWz$hBz$hmz$imz$z$XFz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$jmz$kmz$jFz$lmz$sQz$vPz$z$XFz$z$wSz$z$wBz$xBz$yBz$Bjz$mmz$VCz$nmz$omz$sQz$vPz$z$XFz$z$wSz$z$wBz$xBz$yBz$pmz$qmz$rmz$smz$LBz$oXz$Daz$VHz$RCz$TKz$WNz$GNz$z$XFz$z$KFz$wlz$Smz$Tmz$Umz$Vmz$Wmz$Xmz$Ymz$Zmz$amz$hSz$iSz$z$cBz$dBz$bmz$Ljz$Mjz$Njz$ccz$oBz$dcz$ecz$cmz$dmz$emz$aDz$fmz$gmz$z$vXz$wXz$xXz$aDz$Qdz$eWz$hBz$hmz$imz$z$XFz$z$uFz$z$Bdz$Cdz$Ddz$Edz$OKz$PKz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$tmz$umz$thz$vmz$Fiz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$vaz$wmz$xmz$ymz$qgz$Anz$Bnz$Cnz$WNz$GNz$z$wBz$xBz$rMz$sMz$Hbz$wmz$xmz$ymz$qgz$Anz$Dnz$Enz$WNz$GNz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$Fnz$Fjz$Gnz$UBz$VBz$Hnz$vPz$z$WGz$xRz$yRz$Rcz$Inz$Jnz$Knz$z$Tcz$Ucz$odz$Lnz$Mnz$vBz$z$FYz$z$wBz$xBz$UMz$VMz$Nnz$Onz$Ekz$Pnz$ymz$qgz$Anz$Bnz$Cnz$Qnz$vPz$z$WGz$xRz$yRz$Rnz$Snz$Lcz$Ajz$z$KFz$Tnz$Unz$Vnz$Wnz$Xnz$Ynz$WLz$yfz$ZLz$vDz$Znz$kRz$lRz$z$wBz$xBz$yBz$anz$bnz$cnz$dnz$enz$fnz$gnz$hnz$inz$jnz$knz$lnz$mnz$ICz$xIz$nnz$onz$WNz$GNz$z$Bdz$Cdz$Ddz$Edz$Fdz$eWz$hBz$MUz$wcz$z$KIz$pnz$z$XFz$z$wBz$xBz$UMz$VMz$qnz$rnz$ymz$qgz$Anz$Bnz$Cnz$RTz$hMz$aEz$z$Zjz$Bdz$ajz$PLz$thz$uhz$Fiz$CSz$VDz$mTz$nTz$xWz$bjz$cjz$djz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$snz$Ddz$tnz$unz$vjz$CIz$DIz$EIz$vnz$hMz$aEz$z$wSz$z$wBz$xBz$yBz$wnz$xnz$Ejz$ynz$Aoz$YHz$Boz$Coz$Doz$Eoz$Foz$Goz$Hoz$Ioz$Joz$Koz$HDz$sQz$vPz$z$XFz$z$fcz$z$gcz$z$wBz$xBz$UMz$VMz$Nnz$Onz$Ekz$Pnz$ymz$qgz$Anz$Dnz$Enz$Qnz$vPz$z$WGz$xRz$yRz$Rnz$Snz$Lcz$Ajz$z$wBz$xBz$UMz$VMz$Loz$QBz$Moz$Noz$Ooz$KCz$z$WGz$xRz$yRz$Poz$Qoz$Roz$z$wBz$xBz$UMz$VMz$Nnz$Onz$Soz$Toz$QCz$Ylz$Uoz$Voz$Woz$nVz$Xoz$Yoz$KCz$z$WGz$Zoz$aoz$boz$coz$doz$z$wBz$z$eoz$foz$goz$EKz$hoz$ioz$joz$koz$loz$moz$wBz$noz$ooz$Pjz$YIz$poz$qoz$roz$soz$Nkz$z$wBz$xBz$UMz$VMz$qnz$rnz$ymz$qgz$Anz$Dnz$Enz$RTz$hMz$aEz$z$Zjz$Bdz$ajz$eoz$toz$CSz$VDz$mTz$nTz$xWz$bjz$cjz$djz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$snz$Ddz$tnz$FBz$uoz$CIz$vjz$CIz$DIz$EIz$vnz$hMz$aEz$z$wSz$z$wBz$xBz$yBz$wnz$xnz$Ejz$ynz$Aoz$YHz$Boz$Coz$CQz$voz$Doz$Eoz$Foz$woz$xoz$yoz$Apz$Bpz$Gkz$Hkz$Ikz$TKz$WNz$GNz$z$XFz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$fcz$z$Ldz$z$wBz$xBz$yBz$wnz$Cpz$clz$cnz$Dpz$Epz$Joz$Koz$HDz$sQz$vPz$z$Bdz$Cdz$Ddz$Edz$Fdz$eWz$hBz$MUz$wcz$z$fcz$z$Sdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$Fpz$Bdz$Gpz$Hpz$PKz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$Ipz$Jpz$Kpz$Lpz$Mpz$Npz$Opz$Ppz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$vaz$Qpz$Rpz$Ziz$lmz$WNz$GNz$z$wBz$xBz$rMz$sMz$Hbz$Spz$Ciz$Tpz$wkz$Upz$KCz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$Fnz$Fjz$Gnz$UBz$VBz$Hnz$vPz$z$WGz$xRz$yRz$Rcz$Vpz$Wpz$Xpz$z$Tcz$Ucz$odz$Ypz$Lnz$Zpz$z$FYz$z$hcz$icz$jcz$ccz$oBz$dcz$ecz$z$fcz$z$gcz$z$tiz$uiz$Qkz$Flz$CSz$VDz$mTz$nTz$aEz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$fcz$z$Ldz$z$wBz$xBz$yBz$wnz$Cpz$clz$cnz$Dpz$Epz$Joz$Koz$HDz$sQz$vPz$z$Fpz$Bdz$Gpz$apz$eWz$hBz$MUz$wcz$z$fcz$z$Sdz$z$uFz$z$tiz$uiz$Qkz$Flz$xFz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$bpz$Xmz$cpz$dpz$epz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$vaz$Spz$Ciz$fpz$ykz$Clz$Piz$gpz$KCz$z$wBz$xBz$rMz$sMz$Hbz$Spz$Ciz$fpz$Plz$hpz$tiz$ipz$hMz$aEz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$Fnz$Fjz$Gnz$UBz$VBz$Hnz$vPz$z$WGz$xRz$yRz$Rcz$okz$pkz$qkz$z$Tcz$Ucz$odz$rkz$skz$Wcz$z$FYz$z$wBz$xBz$UMz$VMz$tkz$ukz$vkz$wkz$xkz$ykz$Alz$sQz$vPz$z$dWz$eWz$hBz$MUz$fWz$Blz$Clz$Piz$jpz$kpz$dQz$lpz$mpz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$npz$wkz$opz$Piz$Qiz$ppz$Rmz$Ylz$qpz$KCz$z$wSz$z$wBz$xBz$yBz$wnz$xnz$Ejz$ckz$dkz$rpz$Tkz$ppz$spz$tpz$Eoz$Foz$upz$nCz$fDz$vpz$wpz$xpz$WNz$GNz$z$XFz$z$fcz$z$gcz$z$wBz$xBz$UMz$VMz$tkz$ukz$vkz$wkz$xkz$Plz$Qlz$aSz$KCz$z$dWz$eWz$hBz$MUz$fWz$Rlz$hpz$ypz$Lmz$Aqz$Bqz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$npz$wkz$opz$Piz$Qiz$ppz$Rmz$Ylz$qpz$KCz$z$wSz$z$wBz$xBz$yBz$wnz$xnz$Ejz$ckz$dkz$rpz$Tkz$ppz$Cqz$Dqz$Eqz$Fqz$Gqz$MLz$NLz$Hqz$Iqz$Jqz$sQz$vPz$z$XFz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$fcz$z$Ldz$z$wBz$xBz$yBz$wnz$Cpz$clz$cnz$Dpz$Epz$Joz$Koz$HDz$sQz$vPz$z$tiz$uiz$Qkz$Flz$CSz$VDz$mTz$nTz$aEz$z$fcz$z$Sdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$hcz$icz$elz$lMz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$Kqz$Lqz$Mqz$Nqz$Oqz$hcz$Pqz$Vjz$Qqz$KCz$z$wBz$xBz$rPz$sPz$fkz$gaz$Rqz$Sqz$Maz$Tqz$Uqz$Vqz$APz$Wqz$vPz$z$wBz$xBz$rPz$sPz$ikz$Xqz$Yqz$Zqz$jXz$kXz$aqz$bqz$cqz$dqz$eqz$fqz$gqz$hMz$aEz$z$wBz$xBz$rPz$sPz$hqz$iqz$dkz$rpz$Tkz$Bpz$jqz$kqz$Viz$lqz$KCz$z$wBz$xBz$rPz$sPz$mqz$iqz$dkz$rpz$Tkz$nqz$oqz$pqz$Bpz$jqz$kqz$Viz$lqz$KCz$z$wBz$xBz$rMz$sMz$dbz$qqz$rqz$lmz$sqz$HIz$WTz$tqz$uqz$vqz$wqz$xqz$yqz$Arz$mbz$Brz$Crz$hMz$aEz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$nkz$vPz$z$WGz$xRz$yRz$Drz$Erz$Frz$Scz$z$Tcz$Grz$Jbz$Hrz$Vcz$Wcz$z$FYz$z$bVz$cVz$Irz$Jrz$Krz$z$fcz$z$gcz$z$wBz$xBz$rMz$sMz$Lrz$Mrz$Nrz$GHz$mCz$nCz$fDz$ABz$jqz$kqz$Qnz$vPz$z$WGz$Orz$Prz$z$KFz$Qrz$Rrz$Srz$Trz$Urz$kRz$lRz$z$bVz$cVz$Vrz$Wrz$Prz$aEz$z$wSz$z$bVz$cVz$Xrz$Yrz$Rrz$Zrz$z$XFz$z$fcz$z$kcz$z$iUz$jUz$pjz$qjz$rjz$sjz$eWz$hBz$MUz$wcz$z$bVz$cVz$Irz$Jrz$Krz$z$fcz$z$ocz$z$tiz$uiz$Qkz$Flz$arz$Yqz$brz$CSz$VDz$mTz$nTz$aEz$z$bVz$cVz$Irz$Jrz$Krz$z$fcz$z$qcz$z$wBz$xBz$rMz$sMz$crz$drz$Akz$Wiz$EQz$FQz$GQz$erz$aSz$KCz$z$bVz$cVz$Irz$Jrz$Krz$z$wBz$wlz$sWz$aWz$RSz$LUz$hBz$MUz$NUz$fVz$gVz$aEz$z$KFz$cUz$dUz$VDz$mTz$nTz$wVz$xVz$kRz$lRz$z$yVz$AWz$dVz$eVz$LUz$hBz$MUz$NUz$BWz$JFz$z$frz$grz$hrz$irz$jrz$bjz$cjz$krz$lrz$mrz$IEz$z$frz$nrz$orz$SWz$CXz$cQz$dQz$lpz$prz$qrz$rrz$z$srz$trz$oBz$dcz$urz$vrz$wrz$cQz$dQz$xrz$mrz$IEz$z$XFz$z$dWz$eWz$hBz$MUz$fWz$yrz$z$wBz$xBz$yBz$pmz$Asz$Bsz$Csz$Dsz$Esz$Fsz$Gsz$PBz$Hsz$WNz$Isz$z$KIz$Jsz$Ksz$z$uFz$z$qWz$rWz$sWz$tWz$Lsz$Msz$Nsz$IWz$Osz$z$AWz$RRz$z$wBz$VWz$CXz$RSz$LUz$hBz$MUz$NUz$BWz$aEz$z$JHz$AUz$BUz$CUz$CSz$VDz$mTz$nTz$Psz$Qsz$z$wBz$xBz$rPz$sPz$hjz$Rsz$Enz$sqz$HIz$WTz$tqz$uLz$Rmz$Ylz$qpz$KCz$z$wBz$xBz$rMz$sMz$Ssz$Tsz$Usz$Vsz$PXz$Wsz$bVz$Xsz$hMz$aEz$z$NGz$WKz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$KIz$pnz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$KIz$pnz$z$fcz$z$Ldz$z$wBz$xBz$yBz$Mdz$Ndz$Odz$ICz$Pdz$KCz$z$hcz$icz$jcz$ccz$oBz$dcz$ecz$z$KIz$pnz$z$fcz$z$Sdz$z$wBz$xBz$UMz$VMz$RNz$ORz$Ysz$Zsz$asz$bsz$csz$dsz$esz$fsz$gsz$hsz$isz$jsz$dlz$KCz$z$dWz$eWz$hBz$MUz$fWz$ksz$lsz$vBz$z$RKz$wlz$sWz$aWz$msz$nsz$osz$lmz$sqz$psz$qsz$rsz$ssz$z$wBz$xBz$rMz$sMz$tsz$xUz$usz$vsz$wsz$xsz$mkz$Fnz$Fjz$Gjz$Hjz$Ijz$aSz$KCz$z$WGz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$tiz$uiz$Qkz$Flz$arz$Yqz$brz$xFz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$bpz$Xmz$cpz$dpz$ysz$Atz$Btz$epz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$RGz$vXz$wXz$Ctz$yz$Dtz$Etz$hMz$aEz$z$wBz$xBz$rPz$sPz$fkz$gkz$WNz$GNz$z$wBz$xBz$rPz$sPz$ikz$jkz$Ftz$vPz$z$wBz$xBz$yBz$Ncz$Ocz$mkz$nkz$vPz$z$WGz$xRz$yRz$bMz$cMz$dMz$z$Tcz$Gtz$Htz$Itz$Jtz$z$FYz$z$Taz$Uaz$Nbz$Ktz$Irz$ckz$hkz$aEz$z$fcz$z$gcz$z$Taz$Uaz$Nbz$Ktz$Ltz$Mtz$Ntz$z$fcz$z$Gdz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$KIz$pnz$z$fcz$z$Ldz$z$wBz$xBz$yBz$wnz$Cpz$clz$cnz$Dpz$WNz$GNz$z$tiz$uiz$Qkz$Flz$arz$Yqz$brz$CSz$VDz$mTz$nTz$aEz$z$KIz$pnz$z$fcz$z$Sdz$z$wBz$xBz$rMz$sMz$Lrz$Mrz$Otz$Ptz$Qtz$Dkz$Rtz$Stz$Piz$Llz$Ttz$Utz$Vtz$Wtz$Xtz$Ytz$WNz$GNz$z$wBz$xBz$UMz$VMz$Ztz$atz$btz$ctz$dtz$etz$hMz$aEz$z$WGz$ftz$gtz$z$htz$itz$WGz$jtz$ftz$gtz$ktz$ltz$mtz$ntz$gtz$aEz$z$wBz$xBz$UMz$VMz$Eqz$jUz$WTz$Ptz$Qtz$Voz$otz$ckz$dkz$ptz$aSz$KCz$z$qtz$rtz$stz$ttz$utz$z$qEz$qtz$vtz$wtz$xtz$gtz$ktz$ytz$wEz$xEz$z$qtz$Auz$Buz$Cuz$qtz$Duz$Euz$Fuz$Zz$Guz$Huz$Iuz$Juz$Kuz$kDz$z$kBz$gkz$Luz$Muz$qtz$Duz$ypz$Lmz$Aqz$Bqz$TFz$UFz$z$qtz$rtz$stz$ttz$BHz$Nuz$Ouz$JFz$z$XFz$z$YFz$z$KFz$xMz$qtz$rtz$stz$ttz$sHz$Puz$Quz$kRz$lRz$z$wBz$xBz$yBz$Ruz$Suz$Tuz$Uuz$Vuz$Dtz$Wuz$Asz$Xuz$Yuz$Zuz$ZBz$fsz$KLz$auz$buz$cuz$KCz$z$qEz$qtz$vtz$wtz$xtz$gtz$duz$YKz$vEz$wEz$xEz$z$wBz$xBz$yBz$euz$fuz$Ouz$WNz$GNz$z$YFz$z$wBz$xBz$rMz$sMz$Riz$Siz$guz$huz$iuz$ckz$dkz$bkz$juz$kuz$luz$qlz$rlz$slz$KCz$z$WGz$xRz$yRz$tlz$muz$vlz$z$KFz$wlz$nuz$ouz$puz$FSz$GSz$TFz$UFz$z$wBz$xBz$yBz$quz$Piz$ruz$suz$tuz$uuz$WNz$GNz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$KIz$pnz$z$XFz$z$XFz$z$wBz$xBz$UMz$VMz$tkz$ukz$nKz$Dtz$vuz$sQz$vPz$z$dWz$eWz$hBz$MUz$fWz$ksz$lsz$vBz$z$qEz$qtz$vtz$wtz$xtz$gtz$ktz$ytz$wEz$xEz$z$qtz$Auz$Buz$Cuz$qtz$Duz$Euz$Fuz$Zz$Guz$Huz$Iuz$Juz$Kuz$kDz$z$wBz$xBz$UMz$VMz$tkz$ukz$wuz$qtz$IGz$sQz$vPz$z$xuz$Taz$Uaz$Nbz$yuz$Nuz$Ouz$Avz$bjz$cjz$krz$Bvz$iSz$z$wBz$xBz$rPz$sPz$Cvz$qtz$vtz$Piz$Qiz$ljz$mjz$TGz$Dvz$vPz$z$wSz$z$wBz$xBz$yBz$wnz$xnz$Ejz$ckz$dkz$Evz$Fvz$Gvz$KCz$z$wBz$xBz$rMz$sMz$Riz$Siz$wIz$Hvz$Yiz$Ciz$Ivz$Jvz$WTz$Kvz$Lvz$qlz$rlz$slz$KCz$z$WGz$xRz$yRz$Mvz$Nvz$z$KFz$Ovz$Pvz$Qvz$FSz$GSz$TFz$UFz$z$wBz$xBz$UMz$VMz$Rvz$rnz$Svz$Piz$ruz$Iaz$fuz$Ouz$RTz$hMz$aEz$z$xuz$Taz$Uaz$Nbz$yuz$Nuz$Ouz$Tvz$Uvz$Vvz$bjz$cjz$krz$Bvz$iSz$z$wBz$xBz$rPz$sPz$Cvz$qtz$vtz$Piz$Qiz$ljz$mjz$TGz$Jvz$WTz$Kvz$Wvz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$wnz$Xvz$Yvz$Zvz$avz$Svz$Piz$ruz$Iaz$fuz$Ouz$sQz$vPz$z$XFz$z$XFz$z$XFz$z$YFz$z$wBz$xBz$rMz$sMz$Riz$Siz$bvz$cvz$dvz$evz$mCz$RCz$fvz$qlz$rlz$slz$KCz$z$WGz$xRz$yRz$gvz$hvz$z$KFz$XKz$Pcz$Qvz$FSz$GSz$TFz$UFz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$wSz$z$tiz$uiz$Qkz$Flz$arz$Yqz$brz$CSz$VDz$mTz$nTz$aEz$z$XFz$z$uFz$z$JHz$AUz$ivz$jvz$xFz$z$wBz$kvz$lvz$cCz$dCz$eCz$mvz$nvz$ovz$pvz$z$wBz$xBz$rMz$sMz$Ykz$jvz$LLz$OMz$qvz$rvz$nKz$ABz$JHz$AUz$bkz$bRz$svz$tvz$uvz$vvz$wvz$xvz$hMz$aEz$z$uFz$z$iUz$jUz$yvz$maz$Awz$Bwz$jvz$xFz$z$KFz$cUz$XMz$Cwz$Dwz$Ewz$Fwz$Gwz$Hwz$hSz$iSz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$Iwz$Wbz$Jwz$Kwz$Xbz$Lwz$Mwz$Nwz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$kVz$Owz$qQz$Pwz$Qwz$uCz$Rwz$aDz$rKz$aSz$KCz$z$Hmz$iRz$CDz$DDz$Swz$Twz$Uwz$Vwz$Ntz$z$iUz$jUz$kUz$lUz$kDz$z$wBz$xBz$rPz$sPz$Wwz$OHz$RQz$Xwz$OJz$maz$YJz$ljz$mjz$TGz$Dvz$vPz$z$NGz$XNz$z$XFz$z$uFz$z$lcz$mcz$Jjz$MEz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$Ywz$pSz$vez$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$KFz$cUz$dUz$VDz$mTz$nTz$wVz$xVz$kRz$lRz$z$AWz$dVz$eVz$LUz$hBz$MUz$NUz$BWz$JFz$z$CWz$DWz$EWz$Zwz$HWz$DLz$ELz$IWz$JWz$lRz$z$wBz$xBz$rMz$sMz$awz$bwz$TNz$Ysz$SGz$TGz$LLz$jcz$QWz$cwz$TWz$aSz$KCz$z$frz$nrz$VWz$CXz$cQz$dQz$lpz$mpz$z$NGz$WKz$z$CWz$DWz$EWz$Zwz$HWz$DLz$ELz$IWz$JWz$lRz$z$wBz$xBz$rMz$sMz$tsz$DQz$dwz$ewz$sqz$jqz$fwz$gwz$hwz$iwz$pNz$Sqz$jwz$sQz$vPz$z$frz$kwz$lwz$jrz$bjz$cjz$krz$mwz$z$XFz$z$wBz$xBz$rPz$sPz$nwz$Ylz$uCz$lmz$owz$GOz$pwz$qwz$rwz$Gqz$swz$twz$pVz$uwz$vwz$MSz$WNz$GNz$z$wSz$z$wBz$xBz$rMz$sMz$wwz$SGz$TGz$xwz$Tsz$ywz$Axz$blz$Bxz$Cxz$Dxz$Exz$Fxz$hMz$aEz$z$XFz$z$Hmz$iRz$LUz$hBz$MUz$NUz$BWz$aEz$z$wSz$z$wBz$xBz$rMz$sMz$Gxz$iXz$Hxz$Ixz$Jxz$pwz$Epz$Kxz$Lxz$bwz$Mxz$Nxz$ljz$rnz$RTz$hMz$aEz$z$Oxz$Pxz$wlz$sWz$aWz$Kmz$Lmz$Mmz$z$XFz$z$Hmz$iRz$LUz$hBz$MUz$NUz$fVz$gVz$aEz$z$wBz$xBz$rMz$sMz$Qxz$WXz$Iaz$Rxz$KLz$ycz$Sxz$sQz$vPz$z$JHz$AUz$BUz$CUz$CSz$VDz$mTz$nTz$Psz$Txz$z$JHz$AUz$ivz$jvz$z$wBz$xBz$rPz$sPz$hjz$pVz$OHz$Hlz$Ilz$Uxz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$pmz$qmz$Vxz$GXz$Wxz$Xxz$SXz$TXz$Yxz$ABz$lcz$Zxz$KCz$z$XFz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$pcz$kWz$mcz$Jjz$MEz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$axz$bxz$pSz$vez$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$bVz$cVz$cxz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$wBz$xBz$rMz$sMz$dxz$LBz$HXz$Rxz$KLz$Hlz$exz$fxz$gxz$iVz$hxz$vPz$z$KFz$cUz$dUz$VDz$mTz$nTz$wVz$xVz$kRz$lRz$z$AWz$dVz$eVz$LUz$hBz$MUz$NUz$BWz$JFz$z$CWz$DWz$EWz$Zwz$HWz$DLz$ELz$IWz$JWz$lRz$z$wBz$xBz$rMz$sMz$ixz$mVz$Ysz$SGz$TGz$jxz$kxz$JXz$lxz$mxz$sQz$vPz$z$frz$nrz$VWz$CXz$cQz$dQz$lpz$mpz$z$NGz$WKz$z$CWz$DWz$EWz$Zwz$HWz$DLz$ELz$IWz$JWz$lRz$z$wBz$xBz$rMz$sMz$tsz$DQz$dwz$ewz$sqz$jqz$fwz$gwz$hwz$iwz$pNz$Sqz$jwz$sQz$vPz$z$frz$kwz$lwz$jrz$bjz$cjz$krz$mwz$z$XFz$z$wBz$xBz$rPz$sPz$nwz$Ylz$mIz$oXz$ljz$mjz$TGz$sQz$vPz$z$wSz$z$wBz$xBz$rMz$sMz$wwz$SGz$TGz$xwz$Tsz$ywz$Axz$blz$Bxz$Cxz$Dxz$Exz$Fxz$hMz$aEz$z$XFz$z$Hmz$iRz$LUz$hBz$MUz$NUz$BWz$aEz$z$wSz$z$wBz$xBz$rMz$sMz$Gxz$iXz$Hxz$Ixz$Jxz$pwz$Epz$Kxz$Lxz$bwz$Mxz$Nxz$ljz$rnz$RTz$hMz$aEz$z$Oxz$Pxz$wlz$sWz$aWz$Kmz$Lmz$Mmz$z$XFz$z$wSz$z$wBz$xBz$yBz$pmz$qmz$Vxz$GXz$Wxz$Xxz$SXz$TXz$Yxz$ABz$pcz$kWz$Zxz$KCz$z$wBz$xBz$rMz$sMz$jWz$kWz$WTz$Hlz$uLz$PXz$mIz$nxz$oxz$pxz$qxz$RTz$hMz$aEz$z$bVz$cVz$Irz$Jrz$Krz$z$XFz$z$KFz$ZFz$hVz$iVz$jVz$TFz$UFz$z$wBz$xBz$rMz$sMz$Gxz$iXz$ljz$rnz$Yuz$Zuz$pwz$rxz$WTz$exz$WTz$sxz$txz$Vqz$APz$uxz$sQz$vPz$z$bVz$cVz$Irz$Jrz$Krz$z$XFz$z$dWz$eWz$hBz$MUz$fWz$yrz$z$wBz$xBz$yBz$pmz$Asz$Bsz$Csz$Dsz$Esz$Fsz$Gsz$PBz$Hsz$WNz$Isz$z$KIz$Jsz$Ksz$z$uFz$z$wBz$xBz$rMz$sMz$kVz$hcz$ORz$Ysz$jcz$Hlz$uLz$PXz$Wsz$bVz$Xsz$hMz$aEz$z$qWz$rWz$sWz$tWz$JNz$cBz$dBz$dTz$uWz$vWz$wWz$xWz$yWz$z$AXz$AWz$RRz$z$wBz$bTz$BXz$CXz$RSz$LUz$hBz$MUz$NUz$BWz$aEz$z$wBz$wlz$sWz$aWz$RSz$LUz$hBz$MUz$NUz$fVz$gVz$aEz$z$JHz$AUz$BUz$CUz$CSz$VDz$mTz$nTz$Psz$Qsz$z$wBz$xBz$rPz$sPz$hjz$vxz$rwz$OHz$Hlz$Ilz$Jlz$WNz$GNz$z$wBz$xBz$rMz$sMz$Ssz$Tsz$AXz$wxz$hMz$aEz$z$NGz$WKz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$rcz$fCz$pNz$xFz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$xxz$yxz$Ayz$Byz$Cyz$Dyz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$JUz$yUz$AVz$BVz$CVz$DVz$EVz$cBz$dBz$dTz$FVz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$wBz$xBz$rMz$sMz$Eyz$Fyz$oVz$Rsz$Gyz$Hyz$Iyz$Jyz$Kyz$pNz$Lyz$mCz$Rxz$KLz$Voz$vJz$Myz$maz$Mxz$Nyz$Oyz$aSz$KCz$z$Oxz$Pxz$wlz$sWz$aWz$Kmz$Lmz$Mmz$z$JHz$AUz$BUz$CUz$CSz$VDz$mTz$nTz$Psz$Txz$z$NGz$WKz$z$XFz$z$XFz$z$KFz$cUz$dUz$VDz$mTz$nTz$Pyz$Msz$Nsz$hSz$iSz$z$QIz$RIz$z$wBz$xBz$rMz$sMz$Qyz$Ryz$Lyz$Syz$Tyz$Uyz$Vyz$Wyz$Xyz$Yyz$xUz$usz$Zyz$ayz$ABz$byz$iuz$wvz$xvz$hMz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$cyz$cUz$dUz$VDz$mTz$nTz$Pyz$Msz$Nsz$z$wBz$xBz$UMz$VMz$dyz$wLz$eyz$Ryz$Sqz$Ujz$fyz$gyz$sQz$vPz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$wSz$z$wBz$xBz$yBz$pmz$qmz$Vxz$hyz$Yuz$Zuz$iyz$lcz$jyz$UHz$kyz$WNz$GNz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$XFz$z$uFz$z$tcz$ucz$lWz$lyz$PKz$z$cBz$dBz$dTz$DUz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$myz$nyz$oyz$pyz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$wBz$xBz$rMz$sMz$awz$bwz$TNz$Ysz$SGz$TGz$LLz$Zsz$aSz$KCz$z$Oxz$Pxz$wlz$sWz$aWz$Kmz$Lmz$Mmz$z$Hmz$iRz$LUz$hBz$MUz$NUz$fVz$gVz$aEz$z$Hmz$iRz$LUz$hBz$MUz$NUz$qWz$qyz$gez$z$JHz$AUz$BUz$CUz$CSz$VDz$mTz$nTz$Psz$Txz$z$wBz$xBz$rPz$sPz$ryz$KLz$tcz$syz$ljz$mjz$TGz$sQz$vPz$z$wBz$xBz$rMz$sMz$tyz$uyz$vyz$vxz$rwz$wyz$xyz$AJz$yyz$ABz$AABz$BABz$CABz$hMz$aEz$z$wSz$z$wBz$xBz$yBz$pmz$qmz$Vxz$GXz$Wxz$Xxz$SXz$TXz$Yxz$ABz$tcz$DABz$WNz$GNz$z$XFz$z$vXz$wXz$xXz$aDz$Qdz$IMz$JMz$KMz$eWz$hBz$MUz$fWz$Jkz$Kkz$Lkz$VBz$Mkz$Nkz$z$uFz$z$JEz$pjz$EABz$RCz$FABz$lMz$z$cBz$dBz$bmz$GABz$z$KFz$cUz$Raz$HABz$IABz$JABz$hSz$iSz$z$KABz$LABz$MABz$NABz$OABz$Lmz$Aqz$Bqz$TFz$UFz$z$xCz$PABz$QABz$RABz$RCz$gTz$cBz$dBz$bmz$Eiz$xCz$yCz$ADz$SABz$cQz$dQz$TABz$z$KFz$bTz$UABz$fSz$ELz$dFz$uBz$vBz$z$wBz$VABz$z$wSz$z$wBz$bTz$UABz$z$XFz$z$wSz$z$xCz$RYz$SYz$WABz$XABz$aDz$YABz$VDz$mTz$ZABz$aABz$bABz$cABz$Eiz$xCz$yCz$ADz$SABz$cQz$dQz$xrz$dABz$eABz$fABz$gABz$z$wBz$bTz$UABz$z$XFz$z$wSz$z$wBz$VABz$z$XFz$z$uFz$z$hABz$iABz$RCz$SCz$xFz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$xCz$jABz$VDz$WDz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$JRz$akz$ekz$WNz$GNz$z$wBz$xBz$rPz$sPz$Ydz$Zdz$kABz$lABz$UBz$VBz$mABz$z$wBz$xBz$rPz$sPz$fdz$Zdz$nABz$hABz$iuz$RCz$oABz$z$wBz$xBz$rPz$sPz$pABz$Zdz$nABz$qABz$rABz$sABz$SUz$aDz$tABz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$iuz$wvz$vABz$wABz$xABz$aEz$z$wBz$xBz$UMz$VMz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$qXz$KCz$z$WGz$xRz$yRz$Rcz$yABz$ABBz$Knz$z$Tcz$Ucz$odz$xCz$Mnz$vBz$z$FYz$z$hABz$BBBz$CBBz$GDz$HDz$z$fcz$z$gcz$z$DBBz$lABz$EBBz$VBz$vVz$z$fcz$z$kcz$z$ycz$rcz$hABz$EBBz$VBz$vVz$z$fcz$z$Gdz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Ldz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$Cpz$clz$cnz$Dpz$WNz$GNz$z$NGz$WKz$z$hABz$iABz$RCz$SCz$z$fcz$z$Sdz$z$uFz$z$hABz$BBBz$CBBz$GDz$HDz$xFz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$xCz$FBBz$GBBz$cBz$dBz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$RGz$GDz$HDz$HBBz$IBBz$nBz$oBz$JBBz$Yoz$KCz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$xCz$BYz$CYz$DYz$EYz$aDz$TVz$KBBz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$OBBz$PBBz$QBBz$RBBz$SBBz$KCz$z$wSz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$TBBz$UBBz$GHz$JHz$KHz$xCz$aVz$vPz$z$XFz$z$YFz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$VBBz$z$WGz$xRz$yRz$VIz$hBz$WBBz$xaz$XBBz$z$KFz$CSz$VDz$mTz$YBBz$ZBBz$aBBz$bBBz$hSz$iSz$z$hABz$iABz$RCz$SCz$z$KIz$pnz$z$XFz$z$KFz$cBBz$cBz$dBz$ghz$hhz$aWz$dBBz$eBBz$fBBz$gBBz$KYz$ccz$oBz$hBBz$lhz$mhz$nhz$ohz$phz$cSz$eWz$hBz$WBBz$xaz$iBBz$jBBz$bTz$UDz$VDz$WDz$dFz$uBz$vBz$z$xCz$kBBz$lBBz$mBBz$nBBz$FDz$GDz$HDz$njz$oBz$hBBz$lhz$mhz$xDz$z$KFz$hRz$oBBz$xCz$kBBz$pBBz$kRz$lRz$z$wBz$xBz$rMz$sMz$gPz$jz$mRz$eIz$jlz$aDz$qBBz$rBBz$sBBz$FCz$hABz$WVz$Oz$tBBz$uBBz$mbz$WNz$GNz$z$wBz$xBz$rMz$sMz$Riz$Siz$vBBz$wBBz$xBBz$qlz$rlz$slz$KCz$z$WGz$xRz$yRz$tlz$ulz$giz$z$KFz$wlz$xlz$yBBz$ACBz$Amz$dFz$uBz$vBz$z$hABz$iABz$RCz$SCz$z$KIz$pnz$z$XFz$z$XFz$z$wBz$xBz$rMz$sMz$BCBz$CCBz$JRz$RBBz$DCBz$ECBz$yHz$VBz$Yrz$VDz$mTz$YBBz$ZBBz$FCBz$KCz$z$WGz$xRz$yRz$GCBz$HCBz$ICBz$z$wBz$xBz$rMz$sMz$JCBz$KCBz$LCBz$MCBz$WVz$Oz$tBBz$NCBz$OCBz$hMz$aEz$z$wBz$xBz$rMz$sMz$Riz$Siz$PCBz$cvz$QCBz$RCBz$SCBz$TCBz$UCBz$VCBz$WCBz$XCBz$YCBz$WNz$GNz$z$WGz$xRz$yRz$ZCBz$aCBz$z$KFz$CSz$Ymz$fSz$bCBz$cCBz$kRz$lRz$z$wBz$xBz$rMz$sMz$BCBz$CCBz$RGz$dCBz$RBBz$eCBz$KCz$z$WGz$xRz$yRz$GCBz$HCBz$ICBz$z$XFz$z$fCBz$BBBz$FDz$GDz$HDz$CSz$VDz$mTz$YBBz$ZBBz$qFz$gCBz$HCBz$hCBz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$iCBz$GHz$mCz$RCz$HJz$fCBz$uLz$Rmz$Ylz$qpz$KCz$z$NGz$WKz$z$hABz$iABz$RCz$SCz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$yHz$VBz$jCBz$kCBz$lCBz$hMz$aEz$z$NGz$WKz$z$hABz$BBBz$CBBz$GDz$HDz$z$XFz$z$uFz$z$DBBz$lABz$EBBz$VBz$mCBz$MEz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$nCBz$oCBz$VIz$hBz$pCBz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$RGz$GDz$HDz$HBBz$IBBz$nBz$oBz$JBBz$Yoz$KCz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$xCz$BYz$CYz$DYz$EYz$aDz$TVz$KBBz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$OBBz$PBBz$QBBz$RBBz$SBBz$KCz$z$wSz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$TBBz$UBBz$GHz$JHz$KHz$xCz$aVz$vPz$z$XFz$z$YFz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$VBBz$z$WGz$xRz$yRz$VIz$hBz$WBBz$xaz$XBBz$z$KFz$CSz$VDz$mTz$YBBz$ZBBz$aBBz$bBBz$hSz$iSz$z$hABz$iABz$RCz$SCz$z$KIz$pnz$z$XFz$z$KFz$cBBz$cBz$dBz$ghz$hhz$aWz$dBBz$eBBz$fBBz$gBBz$KYz$ccz$oBz$hBBz$lhz$mhz$nhz$ohz$phz$cSz$eWz$hBz$WBBz$xaz$iBBz$jBBz$bTz$UDz$VDz$WDz$dFz$uBz$vBz$z$xCz$kBBz$lBBz$mBBz$nBBz$FDz$GDz$HDz$njz$oBz$hBBz$lhz$mhz$xDz$z$KFz$ZFz$Raz$uBBz$mbz$dFz$uBz$vBz$z$wBz$xBz$rMz$sMz$gPz$jz$mRz$eIz$jlz$aDz$Joz$Maz$qCBz$rCBz$RBBz$sCBz$tCBz$uCBz$vCBz$wCBz$WTz$lcz$RBBz$xCBz$aSz$KCz$z$NGz$WKz$z$hABz$BBBz$CBBz$GDz$HDz$z$KIz$pnz$z$XFz$z$wBz$xBz$rMz$sMz$JCBz$yCBz$QMz$WVz$Oz$tBBz$uBBz$mbz$WNz$GNz$z$wBz$xBz$rMz$sMz$BCBz$CCBz$RGz$dCBz$RBBz$DCBz$ECBz$yHz$VBz$Yrz$VDz$mTz$YBBz$ZBBz$FCBz$KCz$z$WGz$xRz$yRz$GCBz$HCBz$ICBz$z$wBz$xBz$rMz$sMz$JCBz$ADBz$GHz$Xcz$BDBz$Wsz$TBBz$CDBz$IUz$xCz$WNz$GNz$z$wBz$xBz$rMz$sMz$Riz$Siz$PCBz$cvz$QCBz$RCBz$SCBz$TCBz$UCBz$VCBz$WCBz$XCBz$YCBz$WNz$GNz$z$WGz$xRz$yRz$ZCBz$aCBz$z$KFz$CSz$Ymz$fSz$bCBz$cCBz$kRz$lRz$z$wBz$xBz$rMz$sMz$BCBz$CCBz$RGz$dCBz$RBBz$eCBz$KCz$z$WGz$xRz$yRz$GCBz$HCBz$ICBz$z$XFz$z$fCBz$BBBz$FDz$GDz$HDz$CSz$VDz$mTz$YBBz$ZBBz$qFz$gCBz$HCBz$hCBz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$iCBz$GHz$mCz$RCz$HJz$JHz$AUz$CIz$DIz$EIz$vnz$hMz$aEz$z$NGz$WKz$z$hABz$iABz$RCz$SCz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$yHz$VBz$jCBz$kCBz$lCBz$hMz$aEz$z$NGz$WKz$z$DBBz$lABz$EBBz$VBz$vVz$z$XFz$z$uFz$z$ycz$rcz$hABz$EBBz$VBz$mCBz$MEz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$DDBz$EDBz$xCz$FDBz$cBz$dBz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$RGz$GDz$HDz$HBBz$IBBz$nBz$oBz$JBBz$Yoz$KCz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$xCz$BYz$CYz$DYz$EYz$aDz$TVz$KBBz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$OBBz$PBBz$QBBz$RBBz$SBBz$KCz$z$wSz$z$wBz$xBz$rPz$sPz$LBBz$hMz$MBBz$RCz$HJz$NBBz$TBBz$UBBz$GHz$JHz$KHz$xCz$aVz$vPz$z$XFz$z$YFz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$VBBz$z$WGz$xRz$yRz$VIz$hBz$WBBz$xaz$XBBz$z$KFz$CSz$VDz$mTz$YBBz$ZBBz$aBBz$bBBz$hSz$iSz$z$hABz$iABz$RCz$SCz$z$KIz$pnz$z$XFz$z$KFz$cBBz$cBz$dBz$ghz$hhz$aWz$dBBz$eBBz$fBBz$gBBz$KYz$ccz$oBz$hBBz$lhz$mhz$nhz$ohz$phz$cSz$eWz$hBz$WBBz$xaz$iBBz$jBBz$bTz$UDz$VDz$WDz$dFz$uBz$vBz$z$xCz$kBBz$lBBz$mBBz$nBBz$FDz$GDz$HDz$njz$oBz$hBBz$lhz$mhz$xDz$z$KFz$ZFz$Raz$uBBz$mbz$dFz$uBz$vBz$z$wBz$xBz$rMz$sMz$gPz$jz$mRz$eIz$jlz$aDz$Joz$GDBz$HDBz$qmz$IDBz$JDBz$KDBz$kuz$LDBz$MDBz$NDBz$ODBz$PDBz$Zvz$QDBz$RDBz$WNz$GNz$z$NGz$WKz$z$hABz$iABz$RCz$SCz$z$KIz$pnz$z$XFz$z$fCBz$BBBz$FDz$GDz$HDz$CSz$VDz$mTz$YBBz$ZBBz$qFz$aEz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$iCBz$GHz$mCz$RCz$HJz$ycz$Sxz$ljz$mjz$TGz$Dvz$vPz$z$NGz$WKz$z$hABz$iABz$RCz$SCz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$yHz$VBz$jCBz$kCBz$lCBz$hMz$aEz$z$NGz$WKz$z$ycz$rcz$hABz$EBBz$VBz$vVz$z$XFz$z$uFz$z$fCBz$BBBz$FDz$GDz$HDz$xFz$z$cBz$dBz$bmz$GABz$z$xCz$SDBz$z$KFz$hRz$iRz$xCz$yCz$ADz$jVz$TFz$UFz$z$wBz$TDBz$Avz$Raz$HABz$IABz$JABz$z$XFz$z$KABz$LABz$MABz$NABz$OABz$Lmz$Aqz$Bqz$TFz$UFz$z$UDBz$VDBz$MZz$WDBz$XDBz$z$YDBz$ZDBz$VBz$aDBz$oBz$bDBz$cDBz$dDBz$xCz$eDBz$Raz$HABz$IABz$JABz$lvz$fDBz$gDBz$SSz$z$hDBz$fDBz$gDBz$jRz$Raz$HABz$IABz$JABz$z$wSz$z$iDBz$jDBz$xKz$yKz$kDBz$lDBz$Rrz$mDBz$z$iDBz$jDBz$nDBz$oDBz$hVz$pDBz$aWz$Jkz$qDBz$rDBz$RCz$gTz$cBz$dBz$bmz$sDBz$tDBz$uDBz$vDBz$wDBz$xDBz$yDBz$XABz$aDz$YABz$VDz$mTz$ZABz$aABz$bABz$cABz$AEBz$xDz$z$iDBz$jDBz$BEBz$CEBz$DEBz$EEBz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$JNz$iDBz$jDBz$FEBz$RSz$xCz$yCz$ADz$GEBz$z$wSz$z$KFz$wlz$CEBz$HEBz$ACBz$IEBz$kRz$lRz$z$iDBz$jDBz$XDz$iDBz$jDBz$JEBz$z$XFz$z$wBz$JNz$iDBz$jDBz$KEBz$RCz$gTz$cBz$dBz$bmz$sDBz$Raz$LEBz$MEBz$bTz$NEBz$OEBz$Prz$aEz$z$XFz$z$XFz$z$uFz$z$Hdz$Idz$Jdz$PEBz$PKz$z$RMz$SMz$VGz$z$iUz$jUz$kUz$lUz$kDz$z$iUz$jUz$yvz$maz$Awz$Bwz$jvz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$EGz$FGz$Taz$Uaz$QEBz$REBz$vez$epz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$yBz$baz$caz$daz$eaz$xSz$faz$SEBz$rwz$TEBz$UEBz$rwz$TEBz$VEBz$WEBz$XEBz$fFz$JHz$AUz$YEBz$z$wBz$xBz$rPz$sPz$ZEBz$yxz$aEBz$bEBz$cEBz$dEBz$eEBz$fEBz$lABz$yHz$VBz$gEBz$hEBz$wCBz$iEBz$aDz$Qtz$jEBz$qABz$kEBz$lEBz$mEBz$nEBz$oEBz$pEBz$qEBz$rEBz$Fjz$Gjz$Hjz$Ijz$aEz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$hTz$z$JUz$yUz$AVz$BVz$CVz$DVz$EVz$cBz$dBz$dTz$FVz$z$xCz$BYz$CYz$DYz$EYz$aDz$TVz$KBBz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$JVz$KVz$LVz$MVz$XDz$Ez$NVz$hMz$aEz$z$wSz$z$JVz$KVz$LVz$MVz$XDz$OVz$PVz$vPz$z$XFz$z$KFz$ZFz$Raz$Saz$kRz$lRz$z$wBz$xBz$rMz$sMz$sEBz$oBz$tEBz$uEBz$vEBz$MVz$WVz$JVz$KVz$LVz$MVz$XVz$YVz$ZVz$aVz$vPz$z$wSz$z$wBz$xBz$rMz$sMz$sEBz$oBz$tEBz$uEBz$Xaz$Oz$uPz$wEBz$WNz$xEBz$JUz$yEBz$PNz$Mbz$Nbz$JUz$AFBz$BFBz$YUz$CFBz$hMz$aEz$z$XFz$z$YFz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$DFBz$xaz$EFBz$FFBz$eaz$WNz$GNz$z$wBz$xBz$rPz$sPz$GFBz$fBz$gBz$hBz$HFBz$hMz$IFBz$lhz$JFBz$KFBz$LFBz$fBz$gBz$hBz$MFBz$NFBz$bMz$cMz$OFBz$PFBz$oBz$QFBz$z$wBz$xBz$rMz$sMz$RFBz$hMz$SFBz$ABBz$TFBz$oBz$pBz$z$wBz$xBz$rMz$sMz$UFBz$hMz$VFBz$xlz$WFBz$XFBz$YFBz$ZFBz$z$wBz$xBz$yBz$Ncz$WNz$jdz$aFBz$Jbz$bFBz$cFBz$dFBz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$WGz$xRz$yRz$Rcz$Vpz$eFBz$fFBz$z$KFz$cBBz$gFBz$hFBz$iFBz$jFBz$qBz$rBz$sBz$kFBz$lFBz$orz$mFBz$nFBz$oFBz$pBBz$pFBz$qFBz$lFBz$orz$mFBz$nFBz$oFBz$pBBz$rhz$mBz$nBz$oBz$pBz$hSz$iSz$z$vXz$wXz$xXz$aDz$Qdz$rFBz$Vpz$eFBz$fFBz$aEz$z$bSz$lBz$sFBz$odz$tFBz$uFBz$vFBz$wFBz$xFBz$orz$mFBz$nFBz$oFBz$pBBz$yFBz$AGBz$kRz$lRz$z$hABz$iABz$RCz$SCz$z$bSz$lBz$sFBz$odz$tFBz$uFBz$vFBz$BGBz$xFBz$orz$mFBz$nFBz$oFBz$pBBz$yFBz$CGBz$kRz$lRz$z$DGBz$EGBz$iABz$RCz$SCz$z$bSz$lBz$sFBz$odz$tFBz$uFBz$vFBz$FGBz$xFBz$orz$mFBz$nFBz$oFBz$pBBz$yFBz$GGBz$kRz$lRz$z$vXz$wXz$HGBz$IGBz$JGBz$z$bSz$lBz$sFBz$odz$tFBz$uFBz$vFBz$FGBz$KGBz$LGBz$gFBz$hFBz$iFBz$jFBz$MGBz$NGBz$tBz$uBz$vBz$z$OGBz$PGBz$JHz$AUz$QGBz$RGBz$Kdz$z$bSz$lBz$sFBz$odz$tFBz$uFBz$vFBz$Giz$SGBz$TFz$UFz$z$wBz$xBz$rPz$sPz$TGBz$UGBz$VGBz$WGBz$XGBz$Tez$YGBz$EXz$ZGBz$KCz$z$LCz$aGBz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$bGBz$cGBz$dGBz$eGBz$fGBz$dBz$GCBz$gGBz$hGBz$hMz$aEz$z$NGz$WKz$z$Hdz$Idz$Jdz$Kdz$z$XFz$z$uFz$z$iUz$jUz$yvz$maz$iGBz$Okz$PKz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$EGz$FGz$nUz$oUz$pUz$caz$daz$jGBz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iDBz$jDBz$kGBz$lGBz$mGBz$nGBz$oGBz$pGBz$qGBz$rGBz$sGBz$tGBz$uGBz$xDz$z$KFz$ZFz$hVz$pDBz$vGBz$wGBz$jVz$TFz$UFz$z$wBz$xBz$rMz$sMz$xGBz$Zvz$yGBz$AHBz$BHBz$Eoz$Zqz$jxz$GOz$CHBz$DHBz$HDz$aiz$EHBz$FHBz$GHBz$HHBz$IHBz$KCz$z$KIz$pnz$z$XFz$z$uKz$JHBz$wGBz$KHBz$wBz$wlz$CEBz$LHBz$DDBz$MHBz$NHBz$OHBz$PHBz$uKz$vKz$wKz$QHBz$eBBz$RHBz$eBBz$RHBz$eBBz$SHBz$z$KFz$ZFz$THBz$UHBz$kGBz$VHBz$hSz$iSz$z$wBz$xBz$rMz$sMz$xGBz$Zvz$yGBz$AHBz$WHBz$Kuz$XHBz$xz$KLz$mCz$nCz$YHBz$ZHBz$JCz$KCz$z$KIz$pnz$z$XFz$z$wBz$xBz$UMz$VMz$aHBz$bHBz$QMz$WVz$Ez$cHBz$uKz$vKz$wKz$uPz$vPz$z$wBz$xBz$UMz$VMz$aHBz$dHBz$eHBz$fHBz$KHz$Xjz$Yjz$gHBz$hHBz$DDBz$iHBz$hMz$aEz$z$KFz$XKz$jHBz$kHBz$lHBz$aKz$THBz$UHBz$mHBz$pBBz$kRz$lRz$z$wBz$xBz$rPz$sPz$nHBz$oHBz$pHBz$qHBz$Sjz$ALz$rHBz$GHBz$sHBz$HJz$UXz$tHBz$uHBz$vHBz$WNz$GNz$z$bSz$lBz$THBz$UHBz$kGBz$VHBz$lvz$wHBz$hHBz$xHBz$yHBz$kRz$lRz$z$wBz$xBz$rMz$sMz$JCBz$AIBz$QMz$Sqz$Ujz$eHBz$fHBz$BIBz$CIBz$UHBz$kGBz$DIBz$aVz$vPz$z$wBz$xBz$rMz$sMz$jWz$Ciz$rnz$jxz$GOz$Ivz$CJz$EIBz$FIBz$HDz$RTz$hMz$aEz$z$OGBz$PGBz$JHz$AUz$QGBz$iKz$GIBz$HIBz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$IIBz$QMz$JIBz$KIBz$ALz$Ujz$eHBz$fHBz$LIBz$gHBz$hHBz$DDBz$MIBz$NIBz$OIBz$TCz$PIBz$QIBz$Wxz$RIBz$SIBz$jHBz$TIBz$UIBz$VIBz$KCz$z$XFz$z$uFz$z$OGBz$PGBz$JHz$AUz$QGBz$iKz$GIBz$WIBz$PKz$z$cDz$XIBz$YIBz$RCz$SCz$z$wBz$xBz$UMz$VMz$ZIBz$rnz$aIBz$bIBz$ALz$Ujz$xLz$yLz$RTz$hMz$aEz$z$cIBz$Zoz$WABz$cCz$dCz$eCz$OMz$dIBz$QMz$jJz$eIBz$Eiz$PLz$QLz$fIBz$z$KFz$ejz$gIBz$gjz$uBz$vBz$z$wBz$xBz$yBz$ACz$tjz$hIBz$iIBz$jIBz$kIBz$xz$KLz$RQz$Xwz$lIBz$KCz$z$Hdz$Idz$Jdz$Kdz$z$KIz$pnz$z$XFz$z$wBz$xBz$UMz$VMz$mIBz$nIBz$IIz$oIBz$Xwz$OJz$pIBz$aSz$KCz$z$hDBz$cCz$dCz$eCz$OMz$dIBz$QMz$jJz$eIBz$Eiz$QLz$DMz$ecz$z$qIBz$rIBz$GVz$Mwz$sIBz$wcz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$tIBz$GOz$Ivz$uIBz$vIBz$wIBz$Rmz$Ylz$qpz$KCz$z$wBz$xBz$rMz$sMz$kVz$hcz$ORz$Ysz$OMz$xIBz$ABz$OGBz$yIBz$AJBz$BJBz$CHBz$Bpz$CJBz$DJBz$SCBz$EJBz$FJBz$GJBz$aSz$KCz$z$NGz$WKz$z$jqz$GVz$Mwz$sIBz$wcz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$IIBz$HJBz$iuz$jxz$GOz$Ivz$sQz$vPz$z$XFz$z$uFz$z$OGBz$PGBz$JHz$AUz$QGBz$RGBz$PEBz$PKz$z$wBz$xBz$UMz$VMz$Eqz$jUz$WTz$JHz$AUz$dHz$IJBz$JJBz$RTz$hMz$aEz$z$iDBz$jDBz$kGBz$lGBz$mGBz$nGBz$oGBz$pGBz$qGBz$rGBz$sGBz$tGBz$uGBz$xDz$z$KFz$ZFz$hVz$pDBz$vGBz$wGBz$jVz$TFz$UFz$z$wBz$xBz$rMz$sMz$xGBz$Zvz$yGBz$AHBz$BHBz$Eoz$Zqz$jxz$GOz$CHBz$DHBz$HDz$aiz$EHBz$FHBz$GHBz$HHBz$IHBz$KCz$z$KIz$pnz$z$XFz$z$uKz$JHBz$wGBz$KHBz$wBz$wlz$CEBz$LHBz$DDBz$MHBz$NHBz$OHBz$PHBz$uKz$vKz$wKz$QHBz$eBBz$RHBz$eBBz$RHBz$eBBz$SHBz$z$KFz$ZFz$THBz$UHBz$kGBz$VHBz$hSz$iSz$z$wBz$xBz$rMz$sMz$xGBz$Zvz$yGBz$AHBz$WHBz$Kuz$XHBz$xz$KLz$mCz$nCz$YHBz$ZHBz$JCz$KCz$z$KIz$pnz$z$XFz$z$wBz$xBz$UMz$VMz$aHBz$bHBz$QMz$WVz$Ez$cHBz$uKz$vKz$wKz$uPz$vPz$z$wBz$xBz$UMz$VMz$aHBz$dHBz$eHBz$fHBz$KHz$Xjz$Yjz$gHBz$hHBz$DDBz$iHBz$hMz$aEz$z$KFz$XKz$jHBz$kHBz$lHBz$aKz$THBz$UHBz$mHBz$pBBz$kRz$lRz$z$wBz$xBz$rPz$sPz$nHBz$KJBz$blz$LJBz$rnz$PIBz$QIBz$MJBz$NJBz$OJBz$PJBz$QJBz$RJBz$OMz$SJBz$hMz$aEz$z$Hdz$Idz$Jdz$Kdz$z$bSz$lBz$THBz$UHBz$kGBz$VHBz$lvz$wHBz$hHBz$xHBz$yHBz$kRz$lRz$z$wBz$xBz$rMz$sMz$JCBz$AIBz$QMz$Sqz$Ujz$eHBz$fHBz$BIBz$CIBz$UHBz$kGBz$DIBz$aVz$vPz$z$wBz$xBz$rMz$sMz$TJBz$UJBz$WTz$JHz$AUz$bkz$RGBz$nlz$TKz$aSz$KCz$z$cDz$XIBz$YIBz$RCz$SCz$z$wBz$xBz$UMz$VMz$ZIBz$rnz$aIBz$bIBz$ALz$Ujz$xLz$yLz$RTz$hMz$aEz$z$cIBz$Zoz$WABz$cCz$dCz$eCz$OMz$dIBz$QMz$jJz$eIBz$Eiz$PLz$QLz$fIBz$z$KFz$ejz$gIBz$gjz$uBz$vBz$z$wBz$xBz$yBz$ACz$tjz$hIBz$iIBz$jIBz$kIBz$xz$KLz$RQz$Xwz$lIBz$KCz$z$Hdz$Idz$Jdz$Kdz$z$KIz$pnz$z$XFz$z$wBz$xBz$UMz$VMz$mIBz$nIBz$IIz$oIBz$Xwz$OJz$pIBz$aSz$KCz$z$hDBz$cCz$dCz$eCz$OMz$dIBz$QMz$jJz$eIBz$Eiz$QLz$DMz$ecz$z$qIBz$rIBz$GVz$Mwz$sIBz$wcz$z$KFz$ejz$fjz$gjz$uBz$vBz$z$wBz$xBz$rPz$sPz$tIBz$GOz$Ivz$uIBz$vIBz$wIBz$Rmz$Ylz$qpz$KCz$z$wBz$xBz$rMz$sMz$kVz$hcz$ORz$Ysz$OMz$xIBz$ABz$OGBz$yIBz$AJBz$BJBz$CHBz$Bpz$CJBz$DJBz$SCBz$EJBz$FJBz$GJBz$aSz$KCz$z$NGz$WKz$z$jqz$GVz$Mwz$sIBz$wcz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$IIBz$HJBz$iuz$jxz$GOz$Ivz$sQz$vPz$z$XFz$z$wSz$z$wBz$xBz$yBz$ACz$tjz$IIBz$QMz$JIBz$KIBz$ALz$Ujz$eHBz$fHBz$LIBz$gHBz$hHBz$DDBz$MIBz$NIBz$OIBz$TCz$PIBz$QIBz$Wxz$RIBz$SIBz$jHBz$TIBz$UIBz$VIBz$KCz$z$Hdz$Idz$Jdz$Kdz$z$XFz$z$uFz$z$DGBz$EGBz$iABz$RCz$SCz$xFz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$VJBz$WJBz$jABz$VDz$WDz$aEz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$JRz$akz$ekz$WNz$GNz$z$wBz$xBz$rPz$sPz$Ydz$Zdz$XJBz$pEBz$Aoz$paz$HDz$aEz$z$wBz$xBz$rPz$sPz$fdz$Zdz$nABz$qABz$iEBz$aDz$YJBz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$iuz$wvz$vABz$wABz$xABz$aEz$z$wBz$xBz$UMz$VMz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$qXz$KCz$z$WGz$xRz$yRz$Rcz$Inz$xlz$ZJBz$z$Tcz$Ucz$odz$VJBz$aJBz$vBz$z$FYz$z$bJBz$wCBz$xXz$aDz$cJBz$z$fcz$z$gcz$z$ycz$rcz$GDz$HDz$kDz$z$fcz$z$Gdz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Ldz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$Cpz$clz$cnz$Dpz$WNz$GNz$z$NGz$WKz$z$DGBz$EGBz$iABz$RCz$SCz$z$fcz$z$Sdz$z$uFz$z$vXz$wXz$HGBz$IGBz$dJBz$lMz$z$RMz$SMz$VGz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$iMz$jMz$mUz$EGz$FGz$Taz$Uaz$XFBz$YFBz$ZFBz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$mMz$eJBz$MVz$kBBz$fJBz$gJBz$z$KFz$cUz$XMz$Cwz$Dwz$hJBz$iJBz$jJBz$CUz$kJBz$AGBz$TFz$UFz$z$JUz$lJBz$mbz$xKz$yKz$cCz$dCz$eCz$iMz$Diz$mJBz$nJBz$Jqz$JFz$z$XFz$z$wBz$xBz$rMz$sMz$oaz$CUz$jxz$oJBz$AJBz$pJBz$dHz$WVz$JUz$lJBz$mbz$uPz$vPz$z$wBz$xBz$UMz$VMz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$bIz$qXz$KCz$z$wBz$xBz$rMz$sMz$Ykz$Zkz$JRz$akz$ekz$WNz$GNz$z$wBz$xBz$rPz$sPz$Ydz$Zdz$qJBz$Llz$iMz$Ivz$rJBz$Rqz$sJBz$tJBz$YCBz$aEz$z$wBz$xBz$rPz$sPz$fdz$Zdz$uJBz$vJBz$iMz$Ivz$rJBz$Rqz$wJBz$rqz$Nkz$z$wBz$xBz$yBz$Ncz$WNz$jdz$uABz$iuz$wvz$vABz$wABz$xABz$aEz$z$WGz$xRz$yRz$Rcz$xJBz$yJBz$AKBz$z$Tcz$Ucz$odz$BKBz$piz$CKBz$z$FYz$z$wBz$gUz$DKBz$JNz$HBz$IBz$EKBz$IGBz$FKBz$DVz$IDz$GKBz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$HKBz$pJBz$dHz$rJBz$Apz$vJz$tJBz$IKBz$ppz$Rmz$Ylz$qpz$KCz$z$wBz$xBz$rMz$sMz$JKBz$KKBz$LKBz$MKBz$NKBz$OKBz$uHBz$PKBz$QKBz$RKBz$GJz$HJz$lcz$SKBz$evz$iQz$TKBz$UKBz$KCz$z$NGz$WKz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$gcz$z$wBz$IVz$Avz$XMz$Cwz$Dwz$hJBz$iJBz$jJBz$CUz$kJBz$VKBz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$HKBz$pJBz$dHz$rJBz$Apz$WKBz$voz$XKBz$DIz$EIz$vnz$hMz$aEz$z$wBz$xBz$rMz$sMz$JKBz$KKBz$LKBz$MKBz$NKBz$YKBz$ZKBz$aKBz$iMz$CHBz$yIz$bKBz$KNz$cKBz$sQz$vPz$z$NGz$WKz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Gdz$z$Hdz$Idz$Jdz$Kdz$z$fcz$z$Ldz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$Cpz$clz$cnz$Dpz$WNz$GNz$z$NGz$WKz$z$vXz$wXz$HGBz$IGBz$JGBz$z$fcz$z$Sdz$z$uFz$z$iUz$jUz$BUz$CUz$dKBz$iJBz$TMz$MEz$z$KFz$cUz$XMz$Cwz$Dwz$hJBz$iJBz$jJBz$CUz$kJBz$AGBz$TFz$UFz$z$mMz$eJBz$MVz$xKz$yKz$cCz$dCz$eCz$iMz$Diz$mJBz$nJBz$Jqz$JFz$z$KFz$GVz$YUz$HVz$gUz$eKBz$TFz$UFz$z$KIz$Jsz$Zz$fKBz$CHBz$vJz$tJBz$IKBz$kDz$z$XFz$z$XFz$z$KIz$LIz$Zz$fKBz$CHBz$WKBz$voz$gKBz$sxz$hKBz$z$uFz$z$jqz$iKBz$jKBz$Rqz$xFz$z$FEz$GEz$kKBz$lKBz$z$iUz$jUz$BUz$CUz$dKBz$iJBz$VGz$z$BKBz$mKBz$nKBz$pFz$oKBz$pKBz$z$KFz$qKBz$rKBz$sKBz$tKBz$uKBz$vKBz$wKBz$TFz$UFz$z$KFz$hRz$iRz$ZCz$aCz$jRz$kRz$lRz$z$RMz$SMz$VGz$z$wBz$xBz$XMz$VRz$PNz$QNz$WRz$uIz$vIz$XRz$UHz$YRz$ZRz$aRz$bRz$cRz$dRz$eRz$NDz$fRz$gRz$WNz$GNz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$MIz$NIz$OIz$PIz$z$wBz$xBz$rMz$sMz$gPz$jz$mRz$nRz$oRz$pRz$qRz$ZCz$rRz$sRz$tRz$uRz$vRz$wRz$WNz$GNz$z$WGz$xRz$yRz$ASz$BSz$z$KFz$CSz$DSz$ESz$FSz$GSz$TFz$UFz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$KSz$TRz$LSz$MSz$NSz$OSz$PSz$sQz$QSz$RSz$ZCz$aCz$SSz$z$wBz$xBz$UMz$VMz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$CGz$WMz$KCz$z$wBz$xBz$rPz$sPz$HSz$ISz$JSz$KSz$TSz$USz$VSz$WSz$XSz$YSz$ZSz$aSz$KCz$z$VFz$WFz$z$bSz$cSz$dSz$eSz$fSz$gSz$hSz$iSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$nRz$nSz$oSz$DSz$pSz$qSz$rSz$sSz$tSz$uSz$vSz$WNz$GNz$z$wSz$z$wBz$xBz$yBz$jSz$kSz$lSz$mSz$xSz$ySz$ATz$BTz$CTz$DTz$ETz$FTz$GTz$HTz$hMz$aEz$z$XFz$z$YFz$z$XFz$z$KFz$hRz$xKBz$yKBz$ALBz$Jqz$dFz$uBz$vBz$z$wBz$BLBz$OUz$CLBz$DLBz$ELBz$FLBz$GLBz$HLBz$kJBz$vBz$z$XFz$z$FEz$GEz$HEz$IEz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$hTz$z$KFz$hRz$iTz$cBz$dBz$dTz$jTz$TFz$UFz$z$kTz$lTz$CSz$VDz$mTz$nTz$aEz$z$XFz$z$YFz$z$iUz$jUz$kUz$lUz$kDz$z$Hdz$Idz$Jdz$Kdz$z$wSz$z$hcz$SNz$ILBz$vXz$wXz$Ctz$JLBz$KLBz$LLBz$MLBz$z$KFz$XKz$YKz$ZKz$aKz$bKz$cKz$uBz$vBz$z$vFz$wFz$GDz$HDz$z$XFz$z$KNz$SRz$TRz$kDz$z$STz$TTz$UTz$z$iUz$jUz$kUz$lUz$kDz$z$Hdz$Idz$Jdz$Kdz$z$XFz$z$uFz$z$iUz$jUz$kUz$lUz$NLBz$OLBz$PLBz$xFz$z$qEz$qOz$fQz$aTz$bTz$UDz$VDz$WDz$cTz$PIz$z$cBz$dBz$dTz$eTz$CDz$DDz$fTz$RCz$gTz$hTz$z$KFz$cUz$dUz$VDz$mTz$nTz$wUz$xUz$JDz$kRz$lRz$z$JUz$yUz$AVz$BVz$CVz$DVz$EVz$cBz$dBz$dTz$FVz$z$KFz$GVz$YUz$HVz$IVz$dFz$uBz$vBz$z$bVz$cVz$dVz$eVz$LUz$hBz$MUz$NUz$fVz$gVz$JFz$z$KFz$qMz$hVz$iVz$jVz$TFz$UFz$z$rVz$sVz$tVz$uVz$cVz$bKz$vVz$z$KFz$cUz$dUz$VDz$mTz$nTz$wVz$xVz$kRz$lRz$z$yVz$AWz$dVz$eVz$LUz$hBz$MUz$NUz$BWz$JFz$z$CWz$DWz$EWz$FWz$GWz$HWz$DLz$ELz$IWz$JWz$lRz$z$rVz$sVz$tVz$uVz$cVz$UWz$z$XFz$z$XFz$z$KFz$VWz$WWz$XWz$YWz$ZWz$aWz$bWz$cWz$kRz$lRz$z$dWz$eWz$hBz$MUz$fWz$gWz$hWz$iWz$z$qWz$rWz$sWz$tWz$JNz$cBz$dBz$dTz$uWz$vWz$wWz$xWz$yWz$z$AXz$AWz$RRz$z$wBz$bTz$BXz$CXz$RSz$LUz$hBz$MUz$NUz$BWz$aEz$z$XFz$z$XFz$z$XFz$z$XFz$z$YFz$z$uFz$z$jqz$iKBz$jKBz$Rqz"
+#!/bin/bash
+
+# === CORES ANSI ===
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
+CYAN='\033[0;36m'
+BLUE='\033[0;34m'
+BOLD='\033[1m'
+NC='\033[0m'  # Sem cor
+
+# === ÍCONES UNICODE ===
+CHECK_MARK='✅'
+CROSS_MARK='❌'
+WARNING='⚠️'
+INFO='ℹ️'
+ARROW='➡️'
+CIRCLE_ON='◉'  # Círculo verde para ON
+CIRCLE_OFF='○' # Círculo vazio para OFF
+
+# === CONFIGURAÇÕES PRINCIPAIS ===
+BASE_DIR="/home/container"  # Diretório base onde os ambientes serão criados.
+NUM_AMBIENTES="${NUM_AMBIENTES:-3}" # Número de ambientes que serão configurados.
+TERMS_FILE="${BASE_DIR}/termos_accepted.txt"  # Caminho do arquivo que indica a aceitação dos termos.
+NOMES_ARQUIVO="${BASE_DIR}/nome_ambientes.json"  # Arquivo que armazena os nomes dos ambientes
+BACKUP_NUM_AMBIENTES="${BASE_DIR}/num_ambientes_backup.txt"  # Arquivo para backup do número de ambientes
+
+# === CONFIGURAÇÕES ===
+WHITELIST_HOSTNAMES=("ptero.arenahosting.com.br")
+WHITELIST_IPS=("166.0.189.163")
+VALIDATED=true
+# === CONFIGURAÇÕES DE VERSÃO ===
+VERSAO_LOCAL="1.0.4"  # Versão atual do script
+URL_SCRIPT="${URL_SCRIPT:-https://raw.githubusercontent.com/d-belli/Multi_Bot-Plano01/refs/heads/main/gerenciador.sh}"  # Link para o conteúdo do script no GitHub
+
+# Obtém o nome do script atual (ex.: gerenciador.sh)
+SCRIPT_NOME=$(basename "$0")
+SCRIPT_PATH="$0"  # Caminho absoluto do script atual
+
+# === CABEÇALHO DINÂMICO ===
+cabecalho() {
+    clear
+    echo -e "${CYAN}==============================================${NC}"
+    echo -e "${BOLD}${CYAN}          GERENCIADOR DE SISTEMAS           ${NC}"
+    echo -e "${CYAN}==============================================${NC}"
+}
+
+# === ANIMAÇÃO DE TEXTO ===
+anima_texto() {
+    local texto="$1"
+    # Aplica a cor amarela ao texto inteiro antes da animação
+    echo -n "${YELLOW}"
+    for ((i = 0; i < ${#texto}; i++)); do
+        echo -n "${texto:i:1}"
+        sleep 0.02
+    done
+    # Reseta a cor após o texto
+    echo "${NC}"
+}
+
+
+
+# === EXIBIR OUTDOOR 3D ===
+exibir_outdoor_3D() {
+    cabecalho
+    echo -e "${CYAN}${INFO} Inicializando sistema...${NC}"
+    sleep 1
+
+    local width=$(tput cols)  # Largura do terminal
+    local height=$(tput lines)  # Altura do terminal
+    local start_line=$((height / 3))
+    local start_col=$(( (width - 60) / 2 ))  # Centraliza o texto
+
+    # Arte 3D do texto principal
+    local outdoor_text=(
+        " _______  ______    _______  __    _  _______ "
+        "|   _   ||    _ |  |       ||  |  | ||   _   |"
+        "|  |_|  ||   | ||  |    ___||   |_| ||  |_|  |"
+        "|       ||   |_||_ |   |___ |       ||       |"
+        "|       ||    __  ||    ___||  _    ||       |"
+        "|   _   ||   |  | ||   |___ | | |   ||   _   |"
+        "|__| |__||___|  |_||_______||_|  |__||__| |__|"                                                                                  
+    )  
+
+    # Exibe o texto 3D centralizado
+    for i in "${!outdoor_text[@]}"; do
+        tput cup $((start_line + i)) $start_col
+        echo -e "${CYAN}${outdoor_text[i]}${NC}"
+    done
+
+    # Exibe informações adicionais
+    local footer="Revenda de Bots - Arena Hosting"
+    tput cup $((start_line + ${#outdoor_text[@]} + 1)) $(( (width - ${#footer}) / 2 ))
+    echo -e "${YELLOW}${footer}${NC}"
+
+    local links="arenahosting.com.br "
+    tput cup $((start_line + ${#outdoor_text[@]} + 2)) $(( (width - ${#links}) / 2 ))
+    echo -e "${GREEN}${links}${NC}"
+
+spinner() {
+    local pid=$1  # ID do processo em segundo plano
+    local delay=0.1
+    local spin='-\|/'  # Caracteres do spinner
+    local char_width=1
+
+    while kill -0 $pid 2>/dev/null; do
+        for i in $(seq 0 3); do
+            printf "\r[${spin:$i:1}] ${CYAN}Carregando...${NC}"
+            sleep $delay
+        done
+    done
+
+    printf "\r${GREEN}[✔] Concluído!${NC}       \n"
+}
+
+# Exemplo de uso
+long_running_task() {
+    sleep 5  # Simula uma tarefa longa
+}
+
+echo -e "${CYAN}Iniciando sistema...${NC}"
+long_running_task &
+spinner $!
+}
+
+# === EXIBIR TERMOS DE SERVIÇO ===
+exibir_termos() {
+    exibir_outdoor_3D
+    sleep 1
+
+    echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Vortexus Cloud.${NC}"
+    echo -e "${CYAN}==============================================${NC}"
+
+    if [ ! -f "$TERMS_FILE" ]; then
+        while true; do
+            echo -e "${YELLOW}${WARNING} VOCÊ ACEITA OS TERMOS DE SERVIÇO? (SIM/NÃO)${NC}"
+            read -p "> " ACEITE
+            if [ "$ACEITE" = "sim" ]; then
+                echo -e "${GREEN}${CHECK_MARK} Termos aceitos em $(date).${NC}" > "$TERMS_FILE"
+                echo -e "${CYAN}==============================================${NC}"
+                echo -e "${GREEN}${CHECK_MARK} TERMOS ACEITOS. PROSSEGUINDO...${NC}"
+                break
+            elif [ "$ACEITE" = "não" ]; then
+                echo -e "${RED}${CROSS_MARK} VOCÊ DEVE ACEITAR OS TERMOS PARA CONTINUAR.${NC}"
+            else
+                echo -e "${RED}${CROSS_MARK} OPÇÃO INVÁLIDA. DIGITE 'SIM' OU 'NÃO'.${NC}"
+            fi
+        done
+    else
+        echo -e "${GREEN}${CHECK_MARK} TERMOS JÁ ACEITOS ANTERIORMENTE. PROSSEGUINDO...${NC}"
+    fi
+}
+
+# === CRIAR PASTAS DOS AMBIENTES ===
+criar_pastas() {
+    cabecalho
+    echo -e "${CYAN}${INFO} Criando pastas dos ambientes...${NC}"
+    sleep 1
+
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+        if [ ! -d "$AMBIENTE_PATH" ]; then
+            mkdir -p "$AMBIENTE_PATH"
+            echo -e "${GREEN}${CHECK_MARK} Pasta do ambiente ${i} criada.${NC}"
+        else
+            echo -e "${YELLOW}${INFO} Pasta do ambiente ${i} já existe.${NC}"
+        fi
+    done
+}
+
+# === ATUALIZAR STATUS DO AMBIENTE ===
+atualizar_status() {
+    AMBIENTE_PATH=$1
+    NOVO_STATUS=$2
+    echo "$NOVO_STATUS" > "${AMBIENTE_PATH}/status"
+    echo -e "${CYAN}${INFO} Status do ambiente atualizado para: ${GREEN}${NOVO_STATUS}${NC}"
+}
+
+# === RECUPERAR STATUS DO AMBIENTE ===
+recuperar_status() {
+    AMBIENTE_PATH=$1
+    if [ -f "${AMBIENTE_PATH}/status" ]; then
+        cat "${AMBIENTE_PATH}/status"
+    else
+        echo "OFF"
+    fi
+}
+
+# === VERIFICAR SESSÕES EM BACKGROUND ===
+verificar_sessoes() {
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       VERIFICANDO SESSÕES EM BACKGROUND"
+    echo -e "${CYAN}======================================${NC}"
+
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+
+        # Verifica se o arquivo .session existe
+        if [ -f "${AMBIENTE_PATH}/.session" ]; then
+            STATUS=$(recuperar_status "$AMBIENTE_PATH")
+
+            # Define o indicador visual de status
+    if [ "$STATUS" = "ON" ]; then
+        INDICADOR_STATUS="${GREEN}●${NC}"
+    else
+        INDICADOR_STATUS="${RED}●${NC}"
+    fi
+            
+            # Exibe o status do ambiente
+            echo -e "${YELLOW}Verificando ambiente ${i}...${NC}"
+            echo -e "${CYAN}Status atual: ${INDICADOR_STATUS} (${STATUS})${NC}"
+
+            # Verifica se o status é ON
+            if [ "$STATUS" = "ON" ]; then
+                COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+                if [ -n "$COMANDO" ]; then
+                    echo -e "${YELLOW}Restaurando sessão para o ambiente ${i}...${NC}"
+                    
+                    # Verifica se o processo já está rodando
+                    PROCESSO_JA_RODANDO=false
+                    if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+                        OLD_PID=$(cat "${AMBIENTE_PATH}/.pid")
+                        if kill -0 "$OLD_PID" >/dev/null 2>&1; then
+                            echo -e "${GREEN}[ATIVO] Sessão já está rodando (PID: $OLD_PID).${NC}"
+                            PROCESSO_JA_RODANDO=true
+                        fi
+                    fi
+                    
+                    # Somente inicia se não estiver rodando
+                    if [ "$PROCESSO_JA_RODANDO" = false ]; then
+                        cd "$AMBIENTE_PATH" || continue
+                        
+                        echo -e "${YELLOW}Iniciando sessão em background...${NC}"
+                        nohup $COMANDO > "${AMBIENTE_PATH}/nohup.out" 2>&1 &
+                        NEW_PID=$!
+                        echo "$NEW_PID" > "${AMBIENTE_PATH}/.pid"
+                        
+                        echo -e "${GREEN}[SUCESSO] Sessão restaurada para o ambiente ${i}. (PID: $NEW_PID)${NC}"
+                    fi
+                else
+                    echo -e "${YELLOW}[AVISO] Comando vazio encontrado no arquivo .session do ambiente ${i}.${NC}"
+                fi
+            else
+                echo -e "${RED}[IGNORADO] O ambiente ${i} está com status OFF.${NC}"
+            fi
+        else
+            echo -e "${RED}[IGNORADO] Nenhum arquivo .session encontrado no ambiente ${i}.${NC}"
+        fi
+
+        echo -e "${CYAN}--------------------------------------${NC}"
+    done
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       VERIFICAÇÃO CONCLUÍDA"
+    echo -e "${CYAN}======================================${NC}"
+}
+
+
+# === FUNÇÃO PARA OBTER IPS ===
+obter_ips() {
+    IP_PRIVADO=$(hostname -I | awk '{print $1}')
+    IP_PUBLICO=""
+    SERVICOS=("ifconfig.me" "api64.ipify.org" "ipecho.net/plain")
+
+    for SERVICO in "${SERVICOS[@]}"; do
+        IP_PUBLICO=$(curl -s --max-time 5 "http://${SERVICO}")
+        if [[ $IP_PUBLICO =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            break
+        fi
+    done
+
+    if [ -z "$IP_PUBLICO" ]; then
+        IP_PUBLICO="Não foi possível obter o IP público"
+    fi
+
+    echo "$IP_PRIVADO" "$IP_PUBLICO"
+}
+
+
+# ###########################################
+# Configurações principais
+# - Propósito: Define o diretório base e outras configurações essenciais do sistema.
+# - Editar:
+#   * `BASE_DIR`: Modifique para alterar o diretório base onde os ambientes serão criados.
+#   * `NUM_AMBIENTES`: Ajuste o número de ambientes que deseja criar.
+#   * `TERMS_FILE`: Altere o caminho do arquivo de termos, se necessário.
+# - Não editar: Não altere a lógica de uso das variáveis, apenas seus valores.
+# ###########################################
+
+# === GERENCIAR AMBIENTE ===
+gerenciar_ambiente() {
+    # Define o caminho do ambiente com base no índice
+    AMBIENTE_PATH="${BASE_DIR}/ambiente$1"
+
+    # Recupera o status do ambiente
+        STATUS=$(recuperar_status "$AMBIENTE_PATH")
+    
+    # Obtém o nome do ambiente, se existir
+    NOME=$(obter_nome_ambiente $1)
+
+        # Define o indicador visual de status (círculo colorido)
+        if [ "$STATUS" = "ON" ]; then
+        INDICADOR_STATUS="${GREEN}●${NC}"
+    else
+        INDICADOR_STATUS="${RED}●${NC}"
+    fi
+
+    # Verifica se os arquivos /proc estão disponíveis
+    if [ -f "/proc/stat" ] && [ -f "/proc/meminfo" ]; then
+        # Calcula o uso de CPU
+        CPU_INFO=$(grep '^cpu ' /proc/stat | awk '{usage=($2+$4)*100/($2+$4+$5)} END {printf "%.0f%%", usage}')
+
+        # Calcula o uso de RAM
+        MEM_TOTAL=$(grep 'MemTotal' /proc/meminfo | awk '{print $2}')
+        MEM_FREE=$(grep 'MemFree' /proc/meminfo | awk '{print $2}')
+        MEM_USED=$((MEM_TOTAL - MEM_FREE))
+        MEM_USAGE=$((MEM_USED * 100 / MEM_TOTAL))  # Uso de RAM em porcentagem
+        MEM_USED_MB=$((MEM_USED / 1024))           # Converte KB para MB
+        RAM_INFO="${MEM_USAGE}% (${MEM_USED_MB} MB)"
+    else
+        # Define valores padrão se /proc não estiver disponível
+        CPU_INFO="N/A"
+        RAM_INFO="N/A"
+        echo -e "${YELLOW}AVISO: Os arquivos /proc não estão disponíveis neste sistema.${NC}"
+        echo -e "${YELLOW}Uso de CPU e RAM não pode ser calculado.${NC}"
+    fi
+
+    # Cabeçalho do menu
+    echo -e "${CYAN}======================================${NC}"
+    if [ -z "$NOME" ]; then
+        echo -e "${CYAN}GERENCIANDO AMBIENTE $1${NC}"
+    else
+        echo -e "${CYAN}GERENCIANDO AMBIENTE $1 - ${YELLOW}${NOME}${NC}"
+    fi
+    echo -e "${CYAN}======================================${NC}"
+    echo -e "${RED} ATUALIZAÇÃO: OPÇÃO 2 Iniciar Bot depois 5 foi atualizada"
+    echo -e "${YELLOW}Status do Ambiente: ${INDICADOR_STATUS} (${STATUS})${NC}"
+    echo -e "${YELLOW}Uso de CPU: ${CYAN}${CPU_INFO}${NC}"
+    echo -e "${YELLOW}Uso de RAM: ${CYAN}${RAM_INFO}${NC}"
+    echo -e "${CYAN}--------------------------------------${NC}"
+
+    # Opções do menu
+    echo -e "${YELLOW}1 - ESCOLHER BOT PRONTO DA VORTEXUS${NC}"
+    echo -e "${YELLOW}2 - INICIAR O BOT ${INDICADOR_STATUS}${NC}"
+    echo -e "${YELLOW}3 - PARAR O BOT - SERÁ ATUALIZADO EM BREVE${NC}"
+    echo -e "${YELLOW}4 - REINICIAR O BOT - SERÁ ATUALIZADO EM BREVE${NC}"
+    echo -e "${YELLOW}5 - VISUALIZAR O TERMINAL - SERÁ ATUALIZADO EM BREVE${NC}"
+    echo -e "${YELLOW}6 - DELETAR SESSÃO - SERÁ ATUALIZADO EM BREVE${NC}"
+    echo -e "${YELLOW}7 - REMOVER BOT ATUAL${NC}"
+    echo -e "${YELLOW}8 - CLONAR REPOSITÓRIO${NC}"
+    echo -e "${RED}0 - VOLTAR${NC}"
+
+    # Recebe a opção do usuário
+    read -p "> " OPCAO
+
+    # Switch para redirecionar para a função correspondente
+    case $OPCAO in
+        1) 
+            # Escolher bot pronto
+            escolher_bot_pronto "$AMBIENTE_PATH"
+            ;;
+        2) 
+            # Iniciar o bot
+            iniciar_bot "$AMBIENTE_PATH"
+            ;;
+        3) 
+            # Parar o bot
+            parar_bot "$AMBIENTE_PATH"
+            ;;
+        4) 
+            # Reiniciar o bot
+            reiniciar_bot "$AMBIENTE_PATH"
+            ;;
+        5) 
+            # Visualizar o terminal
+            ver_terminal "$AMBIENTE_PATH"
+            ;;
+        6) 
+            # Deletar sessão
+            deletar_sessao "$AMBIENTE_PATH"
+            ;;
+        7) 
+            # Remover bot atual
+            remover_bot "$AMBIENTE_PATH"
+            ;;
+        8) 
+            # Clonar repositório
+            clonar_repositorio "$AMBIENTE_PATH"
+            ;;
+        0) 
+            # Voltar ao menu principal
+            menu_principal
+            ;;
+        *) 
+            # Opção inválida
+            echo -e "${RED}Opção inválida.${NC}"
+            gerenciar_ambiente "$1"
+            ;;
+    esac
+}
+
+# === ESCOLHER BOT PRONTO ===
+escolher_bot_pronto() {
+    AMBIENTE_PATH=$1
+    cabecalho
+    anima_texto "ESCOLHER BOT PRONTO"
+    echo -e "${CYAN}==============================================${NC}"
+    echo -e "${GREEN}1${NC} - BOTS EM PORTUGUÊS"
+    echo -e "${GREEN}2${NC} - BOTS EM ESPANHOL"
+    echo -e "${RED}0${NC} - VOLTAR"
+    echo -e "${CYAN}==============================================${NC}"
+
+    read -p "> " OPCAO_BOT
+
+    case $OPCAO_BOT in
+        1)
+            listar_bots "$AMBIENTE_PATH" "portugues"
+            ;;
+        2)
+            listar_bots "$AMBIENTE_PATH" "espanhol"
+            ;;
+        0)
+            menu_principal
+            ;;
+        *)
+            echo -e "${RED}${CROSS_MARK} OPÇÃO INVÁLIDA.${NC}"
+            sleep 2
+            escolher_bot_pronto "$AMBIENTE_PATH"
+            ;;
+    esac
+}
+
+# === LISTAR BOTS DISPONÍVEIS ===
+listar_bots() {
+    AMBIENTE_PATH=$1
+    LINGUA=$2
+
+    cabecalho
+    anima_texto "BOTS DISPONÍVEIS - ${LINGUA^^}"
+    echo -e "${CYAN}==============================================${NC}"
+
+    if [ "$LINGUA" = "portugues" ]; then
+        BOTS=(
+            "MORY BOT NOVO ATUALIZADO COM BOTOES - https://github.com/MauroSupera/morybot.git"
+            "BLACK BOT - https://github.com/MauroSupera/blackbot.git"
+            "YOSHINO BOT - https://github.com/MauroSupera/yoshinobot.git"
+            "MIKASA ASCENDANCY V3 - https://github.com/maurogashfix/MikasaAscendancyv3.git"
+            "INATSUKI BOT - https://github.com/MauroSupera/inatsukibot.git"
+            "ESDEATH BOT - https://github.com/Salientekill/ESDEATHBOT.git"
+            "CHRIS BOT - https://github.com/MauroSupera/chrisbot.git"
+            "TAIGA BOT - https://github.com/MauroSupera/TAIGA-BOT3.git"
+            "AGATHA BOT - https://github.com/MauroSupera/agathabotnew.git"
+        )
+    elif [ "$LINGUA" = "espanhol" ]; then
+        BOTS=(
+            "GATA BOT - https://github.com/GataNina-Li/GataBot-MD.git"
+            "GATA BOT LITE - https://github.com/GataNina-Li/GataBotLite-MD.git"
+            "KATASHI BOT - https://github.com/KatashiFukushima/KatashiBot-MD.git"
+            "CURIOSITY BOT - https://github.com/AzamiJs/CuriosityBot-MD.git"
+            "NOVA BOT - https://github.com/elrebelde21/NovaBot-MD.git"
+            "MEGUMIN BOT - https://github.com/David-Chian/Megumin-Bot-MD"
+            "YAEMORI BOT - https://github.com/OfcKing/SenkoBot-MD"
+            "THEMYSTIC BOT - https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        )
+    fi
+
+    for i in "${!BOTS[@]}"; do
+        echo -e "${GREEN}$((i+1))${NC} - ${BOTS[$i]%% -*}"
+    done
+
+    echo -e "${RED}0${NC} - VOLTAR"
+    echo -e "${CYAN}==============================================${NC}"
+
+    read -p "> " BOT_ESCOLHIDO
+
+    if [ "$BOT_ESCOLHIDO" -ge 1 ] && [ "$BOT_ESCOLHIDO" -le "${#BOTS[@]}" ]; then
+        REPOSITORIO="${BOTS[$((BOT_ESCOLHIDO-1))]#*- }"
+        verificar_instalacao_bot "$AMBIENTE_PATH" "$REPOSITORIO"
+    elif [ "$BOT_ESCOLHIDO" = "0" ]; then
+        escolher_bot_pronto "$AMBIENTE_PATH"
+    else
+        echo -e "${RED}${CROSS_MARK} OPÇÃO INVÁLIDA.${NC}"
+        sleep 2
+        listar_bots "$AMBIENTE_PATH" "$LINGUA"
+    fi
+}
+
+# ###########################################
+# Função para verificar a instalação de um bot
+# - Propósito: Checa se já existe um bot instalado no ambiente. Se sim, oferece a opção de substituí-lo.
+# ###########################################
+verificar_instalacao_bot() {
+    AMBIENTE_PATH=$1
+    REPOSITORIO=$2
+
+    if [ -f "${AMBIENTE_PATH}/package.json" ]; then
+        echo -e "${YELLOW}Já existe um bot instalado neste ambiente.${NC}"
+        echo -e "${YELLOW}Deseja remover o bot existente para instalar o novo? (sim/não)${NC}"
+        read -p "> " RESPOSTA
+        if [ "$RESPOSTA" = "sim" ]; then
+            # Ativa a flag antes de chamar remover_bot
+            CHAMADA_VERIFICAR_INSTALACAO=true
+            remover_bot "$AMBIENTE_PATH"
+            # Desativa a flag após a remoção
+            CHAMADA_VERIFICAR_INSTALACAO=false
+            # Instala o novo bot
+            instalar_novo_bot "$AMBIENTE_PATH" "$REPOSITORIO"
+        else
+            echo -e "${RED}Retornando ao menu principal...${NC}"
+            menu_principal
+        fi
+    else
+        # Se não há bot instalado, instala diretamente
+        instalar_novo_bot "$AMBIENTE_PATH" "$REPOSITORIO"
+    fi
+}
+# ###########################################
+# Função para instalar um novo bot
+# - Propósito: Clona o repositório do bot e verifica os módulos necessários para instalação.
+# - Editar: Não é necessário editar a lógica. Apenas ajuste as mensagens, se necessário.
+# ###########################################
+instalar_novo_bot() {
+    AMBIENTE_PATH=$1
+    REPOSITORIO=$2
+    NOME_BOT=$(basename "$REPOSITORIO" .git)
+
+    echo -e "${CYAN}Iniciando a instalação do bot: ${GREEN}$NOME_BOT${NC}..."
+    git clone "$REPOSITORIO" "$AMBIENTE_PATH" 2>/dev/null
+    if [ $? -eq 0 ]; then
+        echo -e "${GREEN}Bot $NOME_BOT instalado com sucesso no ambiente $AMBIENTE_PATH!${NC}"
+        verificar_node_modules "$AMBIENTE_PATH"
+    else
+        echo -e "${RED}Erro ao clonar o repositório do bot $NOME_BOT. Verifique a URL e tente novamente.${NC}"
+        gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+    fi
+}
+
+# ###########################################
+# Função para verificar e instalar módulos Node.js
+# - Propósito: Certifica-se de que todos os módulos necessários estejam instalados.
+# - Editar: Apenas ajuste as mensagens, se necessário.
+# ###########################################
+verificar_node_modules() {
+    AMBIENTE_PATH=$1
+
+    if [ ! -d "${AMBIENTE_PATH}/node_modules" ]; then
+        echo -e "${YELLOW}Módulos não instalados neste bot.${NC}"
+        echo -e "${YELLOW}Escolha uma opção para instalação:${NC}"
+        echo -e "${GREEN}1 - npm install${NC}"
+        echo -e "${GREEN}2 - yarn install${NC}"
+        echo -e "${RED}0 - Voltar${NC}"
+        read -p "> " OPCAO_MODULOS
+
+        case $OPCAO_MODULOS in
+            1)
+                echo -e "${CYAN}Instalando módulos com npm...${NC}"
+                cd "$AMBIENTE_PATH" && npm install
+                if [ $? -eq 0 ]; then
+                    echo -e "${GREEN}Módulos instalados com sucesso!${NC}"
+                else
+                    echo -e "${RED}Erro ao instalar módulos com npm.${NC}"
+                fi
+                ;;
+            2)
+                echo -e "${CYAN}Instalando módulos com yarn...${NC}"
+                cd "$AMBIENTE_PATH" && yarn
+                if [ $? -eq 0 ]; then
+                    echo -e "${GREEN}Módulos instalados com sucesso!${NC}"
+                else
+                    echo -e "${RED}Erro ao instalar módulos com yarn.${NC}"
+                fi
+                ;;
+            0)
+                gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+                ;;
+            *)
+                echo -e "${RED}Opção inválida.${NC}"
+                verificar_node_modules "$AMBIENTE_PATH"
+                ;;
+        esac
+    else
+        echo -e "${GREEN}Todos os módulos necessários já estão instalados.${NC}"
+    fi
+
+    # Redireciona para o menu do ambiente após a instalação
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+
+# ###########################################
+# Função para remover bot atual
+# - Propósito: Remove todos os arquivos do ambiente para liberar espaço para outro bot.
+# - Editar: Apenas ajuste as mensagens, se necessário.
+# ###########################################
+remover_bot() {
+    AMBIENTE_PATH=$1
+
+    if [ -f "${AMBIENTE_PATH}/package.json" ]; then
+        echo -e "${YELLOW}Bot detectado neste ambiente.${NC}"
+        echo -e "${RED}Deseja realmente remover o bot atual? (sim/não)${NC}"
+        read -p "> " CONFIRMAR
+        if [ "$CONFIRMAR" = "sim" ]; then
+            # Remove todos os arquivos do ambiente
+            find "$AMBIENTE_PATH" -mindepth 1 -exec rm -rf {} + 2>/dev/null
+            
+            # Verifica se o diretório está vazio após a remoção
+            if [ -z "$(ls -A "$AMBIENTE_PATH")" ]; then
+                echo -e "${GREEN}Bot removido com sucesso.${NC}"
+                gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+                
+                # Verifica se foi chamada por verificar_instalacao_bot
+                if [ "$CHAMADA_VERIFICAR_INSTALACAO" = false ]; then
+                    # Retorna ao menu do ambiente
+                    AMBIENTE_NUM=$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')
+                    gerenciar_ambiente "$AMBIENTE_NUM"
+                fi
+            else
+                echo -e "${RED}Erro ao remover o bot.${NC}"
+            fi
+        else
+            echo -e "${RED}Remoção cancelada.${NC}"
+        fi
+    else
+        echo -e "${RED}Nenhum bot encontrado neste ambiente.${NC}"
+    fi
+
+    # Se não for chamada por verificar_instalacao_bot, retorna ao menu principal
+    if [ "$CHAMADA_VERIFICAR_INSTALACAO" = false ]; then
+        AMBIENTE_NUM=$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')
+        gerenciar_ambiente "$AMBIENTE_NUM"
+    fi
+}
+# ###########################################
+# Função para clonar repositório
+# - Propósito: Permite clonar repositórios públicos e privados no ambiente.
+# ###########################################
+clonar_repositorio() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "CLONAR REPOSITÓRIO"
+    echo -e "${CYAN}======================================${NC}"
+
+    echo -e "${YELLOW}1 - Clonar repositório público${NC}"
+    echo -e "${YELLOW}2 - Clonar repositório privado${NC}"
+    echo -e "${RED}0 - Voltar ao menu do ambiente${NC}"
+    read -p "> " OPCAO_CLONAR
+
+    case $OPCAO_CLONAR in
+        1)
+            echo -e "${CYAN}Forneça a URL do repositório público:${NC}"
+            read -p "> " URL_REPOSITORIO
+            if [[ $URL_REPOSITORIO != https://github.com/* ]]; then
+                echo -e "${RED}URL inválida! Certifique-se de fornecer uma URL válida do GitHub.${NC}"
+                clonar_repositorio "$AMBIENTE_PATH"
+                return
+            fi
+            echo -e "${CYAN}Clonando repositório público...${NC}"
+            git clone "$URL_REPOSITORIO" "$AMBIENTE_PATH" 2>/dev/null
+            if [ $? -eq 0 ]; then
+                echo -e "${GREEN}✅ Repositório clonado com sucesso!${NC}"
+            else
+                echo -e "${RED}❌ Erro ao clonar o repositório. Verifique a URL e tente novamente.${NC}"
+            fi
+            ;;
+        2)
+            echo -e "${CYAN}Forneça a URL do repositório privado:${NC}"
+            read -p "> " URL_REPOSITORIO
+            echo -e "${CYAN}Usuário do GitHub:${NC}"
+            read -p "> " USERNAME
+            echo -e "${CYAN}Forneça o token de acesso (mantenha-o seguro):${NC}"
+            read -s -p "> " TOKEN
+            echo
+            GIT_URL="https://${USERNAME}:${TOKEN}@$(echo $URL_REPOSITORIO | cut -d/ -f3-)"
+            echo -e "${CYAN}Clonando repositório privado...${NC}"
+            git clone "$GIT_URL" "$AMBIENTE_PATH" 2>/dev/null
+            if [ $? -eq 0 ]; then
+                echo -e "${GREEN}✅ Repositório privado clonado com sucesso!${NC}"
+            else
+                echo -e "${RED}❌ Erro ao clonar o repositório privado. Verifique suas credenciais e tente novamente.${NC}"
+            fi
+            ;;
+        0)
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            ;;
+        *)
+            echo -e "${RED}❌ Opção inválida. Tente novamente.${NC}"
+            clonar_repositorio "$AMBIENTE_PATH"
+            ;;
+    esac
+
+    # Redireciona ao menu do ambiente após a operação
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+
+# ###########################################
+# Função para o menu pós-clone
+# - Propósito: Permite que o usuário escolha o que fazer após clonar um repositório.
+# ###########################################
+pos_clone_menu() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "O QUE VOCÊ DESEJA FAZER AGORA?"
+    echo -e "${CYAN}======================================${NC}"
+
+    echo -e "${YELLOW}1 - Executar o bot${NC}"
+    echo -e "${YELLOW}2 - Instalar módulos${NC}"
+    echo -e "${RED}0 - Voltar ao menu do ambiente${NC}"
+    read -p "> " OPCAO_POS_CLONE
+
+    case $OPCAO_POS_CLONE in
+        1)
+            iniciar_bot "$AMBIENTE_PATH"
+            ;;
+        2)
+            instalar_modulos "$AMBIENTE_PATH"
+            ;;
+        0)
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            ;;
+        *)
+            echo -e "${RED}❌ Opção inválida. Tente novamente.${NC}"
+            pos_clone_menu "$AMBIENTE_PATH"
+            ;;
+    esac
+}
+
+# ###########################################
+# Função para instalar módulos
+# - Propósito: Garante que as dependências necessárias para o bot sejam instaladas.
+# ###########################################
+instalar_modulos() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "INSTALAR MÓDULOS"
+    echo -e "${CYAN}======================================${NC}"
+
+    echo -e "${YELLOW}1 - Instalar com npm install${NC}"
+    echo -e "${YELLOW}2 - Instalar com yarn install${NC}"
+    echo -e "${RED}0 - Voltar ao menu do ambiente${NC}"
+    read -p "> " OPCAO_MODULOS
+
+    case $OPCAO_MODULOS in
+        1)
+            echo -e "${CYAN}Instalando módulos com npm...${NC}"
+            cd "$AMBIENTE_PATH" && npm install > /dev/null 2>&1
+            if [ $? -eq 0 ]; then
+                echo -e "${GREEN}✅ Módulos instalados com sucesso!${NC}"
+            else
+                echo -e "${RED}❌ Erro ao instalar módulos com npm. Verifique o arquivo package.json.${NC}"
+            fi
+            ;;
+        2)
+            echo -e "${CYAN}Instalando módulos com yarn...${NC}"
+            cd "$AMBIENTE_PATH" && yarn > /dev/null 2>&1
+            if [ $? -eq 0 ]; then
+                echo -e "${GREEN}✅ Módulos instalados com sucesso!${NC}"
+            else
+                echo -e "${RED}❌ Erro ao instalar módulos com yarn. Verifique o arquivo package.json.${NC}"
+            fi
+            ;;
+        0)
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            ;;
+        *)
+            echo -e "${RED}❌ Opção inválida. Tente novamente.${NC}"
+            instalar_modulos "$AMBIENTE_PATH"
+            ;;
+    esac
+
+    # Redireciona ao menu do ambiente após a operação
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+
+# ###########################################
+# Função para iniciar o bot
+# - Propósito: Inicia o bot com base nas configurações do ambiente.
+# ###########################################
+iniciar_bot() {
+    AMBIENTE_PATH=$1
+
+    # Exibe as opções de inicialização
+    echo -e "${CYAN}Escolha como deseja iniciar o bot:${NC}"
+    echo -e "${GREEN}1 - Inicialização padrão - npm start${NC}"
+    echo -e "${GREEN}2 - Especificar arquivo (ex: index.js ou start.sh)${NC}"
+    echo -e "${GREEN}3 - Instalar módulos e executar o bot${NC}"
+    echo -e "${GREEN}4 - Instalar módulos específicos e executar o bot${NC}"
+    echo -e "${YELLOW}5 - Ativar bot em segundo plano (background) [SOFREU ATUALIZAÇÃO]${NC}"
+    echo -e "${RED}0 - Voltar${NC}"
+    read -p "> " INICIAR_OPCAO
+
+    case $INICIAR_OPCAO in
+        1)
+            COMANDO="npm start"
+            ;;
+        2)
+            echo -e "${YELLOW}Digite o nome do arquivo para executar:${NC}"
+            read ARQUIVO
+            if [[ $ARQUIVO == *.sh ]]; then
+                COMANDO="sh $ARQUIVO"
+            else
+                COMANDO="node $ARQUIVO"
+            fi
+            ;;
+        3)
+            verificar_node_modules "$AMBIENTE_PATH"
+            COMANDO="npm start"
+            ;;
+        4)
+            instalar_modulos_especificos "$AMBIENTE_PATH"
+            COMANDO="npm start"
+            ;;
+        5)
+            echo -e "${YELLOW}Ativando bot em segundo plano...${NC}"
+COMANDO="npm start"
+
+# Salvar o comando no arquivo .session (essa é a parte crucial)
+echo "$COMANDO" > "${AMBIENTE_PATH}/.session"
+
+# Já que o sistema usa o arquivo .session para execução,
+# precisamos garantir que o processo anterior seja encerrado
+if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+    OLD_PID=$(cat "${AMBIENTE_PATH}/.pid")
+    kill -0 "$OLD_PID" >/dev/null 2>&1 || true
+    kill -15 "$OLD_PID" >/dev/null 2>&1 || true
+    rm "${AMBIENTE_PATH}/.pid" 2>/dev/null || true
+fi
+
+# Executar o comando diretamente para garantir compatibilidade com o painel
+cd "$AMBIENTE_PATH" || { 
+    echo -e "${RED}Não foi possível acessar o diretório.${NC}"; 
+    return 1; 
+}
+
+# Iniciar o processo em segundo plano conforme esperado pelo sistema
+nohup $COMANDO > "nohup.out" 2>&1 &
+PID=$!
+
+# Registrar o PID para controle
+echo "$PID" > "${AMBIENTE_PATH}/.pid"
+
+# Atualizar status e informar ao usuário
+atualizar_status "$AMBIENTE_PATH" "ON"
+echo -e "${GREEN}Bot ativado em segundo plano com sucesso!${NC}"
+echo -e "${YELLOW}PID: $PID - Comando: $COMANDO${NC}"
+
+# Esperar um momento para garantir que a mensagem seja visível
+sleep 2
+
+# Voltar ao menu de gerenciamento
+gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+return
+            ;;
+        0)
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            return
+            ;;
+        *)
+            echo -e "${RED}Opção inválida.${NC}"
+            iniciar_bot "$AMBIENTE_PATH"
+            return
+            ;;
+    esac
+
+    # Executa o bot em primeiro plano para permitir interação inicial
+    echo -e "${CYAN}Iniciando o bot... Aguarde o QR Code ou outras instruções.${NC}"
+    cd "$AMBIENTE_PATH" || return
+    eval "$COMANDO"  # Executa o bot em primeiro plano
+
+    # Após a execução do bot, retorna ao menu principal
+    echo -e "${YELLOW}Pressione Enter para voltar ao menu principal...${NC}"
+    read
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+# ###########################################
+# Função para instalar módulos específicos
+# - Propósito: Permite ao usuário instalar pacotes personalizados separados por vírgula.
+# ###########################################
+instalar_modulos_especificos() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "INSTALAR MÓDULOS ESPECÍFICOS"
+    echo -e "${CYAN}======================================${NC}"
+
+    echo -e "${YELLOW}Escolha o gerenciador de pacotes:${NC}"
+    echo -e "${GREEN}1 - npm${NC}"
+    echo -e "${GREEN}2 - yarn${NC}"
+    echo -e "${RED}0 - Voltar${NC}"
+    read -p "> " GERENCIADOR
+
+    case $GERENCIADOR in
+        1)
+            GERENCIADOR_CMD="npm install"
+            ;;
+        2)
+            GERENCIADOR_CMD="yarn add"
+            ;;
+        0)
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            return
+            ;;
+        *)
+            echo -e "${RED}❌ Opção inválida.${NC}"
+            instalar_modulos_especificos "$AMBIENTE_PATH"
+            return
+            ;;
+    esac
+
+    echo -e "${YELLOW}Digite os pacotes que deseja instalar (separados por vírgula):${NC}"
+    echo -e "${CYAN}Exemplo: express,lodash${NC}"
+    read PACOTES
+
+    # Converte os pacotes em um array
+    IFS=',' read -ra PACOTES_ARRAY <<< "$PACOTES"
+
+    echo -e "${CYAN}Verificando pacotes antes da instalação...${NC}"
+    PACOTES_INVALIDOS=()
+    for PACOTE in "${PACOTES_ARRAY[@]}"; do
+        PACOTE=$(echo "$PACOTE" | xargs)  # Remove espaços extras
+        if ! npm show "$PACOTE" > /dev/null 2>&1; then
+            PACOTES_INVALIDOS+=("$PACOTE")
+        fi
+    done
+
+    if [ ${#PACOTES_INVALIDOS[@]} -gt 0 ]; then
+        echo -e "${RED}⚠️ Os seguintes pacotes não foram encontrados ou são inválidos:${NC}"
+        for PACOTE in "${PACOTES_INVALIDOS[@]}"; do
+            echo -e "${RED}- $PACOTE${NC}"
+        done
+        echo -e "${YELLOW}Deseja continuar a instalação mesmo assim? (sim/não)${NC}"
+        read -p "> " CONTINUAR
+        if [ "$CONTINUAR" != "sim" ]; then
+            echo -e "${RED}Instalação cancelada.${NC}"
+            gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+            return
+        fi
+    fi
+
+    echo -e "${CYAN}Instalando pacotes...${NC}"
+    cd "$AMBIENTE_PATH" || return
+    for PACOTE in "${PACOTES_ARRAY[@]}"; do
+        PACOTE=$(echo "$PACOTE" | xargs)  # Remove espaços extras
+        echo -e "${CYAN}Instalando $PACOTE...${NC}"
+        if $GERENCIADOR_CMD "$PACOTE" > /dev/null 2>&1; then
+            echo -e "${GREEN}✅ $PACOTE instalado com sucesso!${NC}"
+        else
+            echo -e "${RED}❌ Erro ao instalar $PACOTE.${NC}"
+            echo -e "${YELLOW}Deseja forçar a instalação usando --force? (sim/não)${NC}"
+            read -p "> " FORCAR
+            if [ "$FORCAR" = "sim" ]; then
+                echo -e "${CYAN}Forçando a instalação de $PACOTE...${NC}"
+                if $GERENCIADOR_CMD "$PACOTE" --force > /dev/null 2>&1; then
+                    echo -e "${GREEN}✅ $PACOTE instalado com sucesso usando --force.${NC}"
+                else
+                    echo -e "${RED}❌ Falha ao forçar a instalação de $PACOTE.${NC}"
+                fi
+            fi
+        fi
+    done
+
+    echo -e "${YELLOW}Deseja voltar ao menu do ambiente? (sim/não)${NC}"
+    read -p "> " VOLTAR
+    if [ "$VOLTAR" = "sim" ]; then
+        gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+    else
+        instalar_modulos_especificos "$AMBIENTE_PATH"
+    fi
+}
+# ###########################################
+# Função para parar o bot
+# - Propósito: Finaliza o processo do bot em execução em segundo plano.
+# ###########################################
+# Função para forçar atualização de estado do script
+atualizar_estado() {
+    # Cria um arquivo de flag para indicar que precisamos recarregar o estado
+    echo "1" > "${BASE_DIR}/.reload_needed"
+    echo -e "${YELLOW}Estado do script marcado para atualização na próxima chamada do menu.${NC}"
+}
+
+# Função para verificar se precisa recarregar o estado
+verificar_atualizacao_estado() {
+    if [ -f "${BASE_DIR}/.reload_needed" ]; then
+        echo -e "${CYAN}======================================${NC}"
+        anima_texto "ATUALIZANDO ESTADO DO SCRIPT"
+        echo -e "${CYAN}======================================${NC}"
+        
+        echo -e "${YELLOW}Recarregando estado dos ambientes...${NC}"
+        
+        # Remove a flag de recarga
+        rm -f "${BASE_DIR}/.reload_needed"
+        
+        # Força verificação de todos os estados dos bots
+        verificar_sessoes
+        
+        echo -e "${GREEN}Estado do script atualizado com sucesso!${NC}"
+        sleep 1
+    fi
+}
+
+# Modificação da função parar_bot
+parar_bot() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "PARAR O BOT"
+    echo -e "${CYAN}======================================${NC}"
+
+    # Verifica se há uma sessão ativa
+    if [ -f "${AMBIENTE_PATH}/.session" ]; then
+        COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+        
+        # Verifica se existe um PID registrado
+        if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+            PID=$(cat "${AMBIENTE_PATH}/.pid")
+            
+            # Verifica se o processo ainda está rodando
+            if kill -0 "$PID" >/dev/null 2>&1; then
+                echo -e "${YELLOW}Finalizando o processo do bot (PID: $PID)...${NC}"
+                
+                # Envia sinal TERM e depois força com KILL se necessário
+                kill -15 "$PID" >/dev/null 2>&1
+                sleep 2
+                
+                # Verifica se o processo ainda está rodando após o TERM
+                if kill -0 "$PID" >/dev/null 2>&1; then
+                    echo -e "${YELLOW}Processo ainda em execução, forçando finalização...${NC}"
+                    kill -9 "$PID" >/dev/null 2>&1
+                fi
+                
+                echo -e "${GREEN}Processo do bot finalizado. Reinicie o servidor para dar efeito${NC}"
+            else
+                echo -e "${YELLOW}O processo (PID: $PID) não está mais em execução.${NC}"
+            fi
+            
+            # Remove o arquivo PID
+            rm -f "${AMBIENTE_PATH}/.pid"
+        else
+            echo -e "${YELLOW}Nenhum PID registrado. Tentando finalizar pelo comando...${NC}"
+            pkill -f "$COMANDO" 2>/dev/null
+        fi
+
+        # Remove os arquivos de sessão e logs
+        rm -f "${AMBIENTE_PATH}/.session"
+        echo -e "${YELLOW}Arquivo de sessão removido.${NC}"
+        
+        # Atualiza o status para OFF
+        atualizar_status "$AMBIENTE_PATH" "OFF"
+        
+        # Marca para atualização de estado
+        atualizar_estado
+
+        echo -e "${GREEN}Bot parado com sucesso.${NC}"
+    else
+        echo -e "${RED}Nenhuma sessão ativa encontrada para parar.${NC}"
+    fi
+
+    # Retorna ao menu do ambiente
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+# ###########################################
+# Função para reiniciar o bot
+# - Propósito: Reinicia o processo do bot com base nas configurações do ambiente.
+# ###########################################
+reiniciar_bot() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "REINICIAR O BOT"
+    echo -e "${CYAN}======================================${NC}"
+
+    # Verifica se há uma sessão ativa e salva o comando original
+    COMANDO=""
+    if [ -f "${AMBIENTE_PATH}/.session" ]; then
+        COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+        echo -e "${YELLOW}Encontrada sessão com comando: $COMANDO${NC}"
+        
+        # Se existe um PID registrado, usa ele para matar o processo
+        if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+            PID=$(cat "${AMBIENTE_PATH}/.pid")
+            
+            # Verifica se o processo ainda está rodando
+            if kill -0 "$PID" >/dev/null 2>&1; then
+                echo -e "${YELLOW}Parando o processo atual (PID: $PID)...${NC}"
+                
+                # Envia sinal TERM e depois força com KILL se necessário
+                kill -15 "$PID" >/dev/null 2>&1
+                sleep 2
+                
+                # Verifica se o processo ainda está rodando após o TERM
+                if kill -0 "$PID" >/dev/null 2>&1; then
+                    echo -e "${YELLOW}Processo ainda em execução, forçando finalização...${NC}"
+                    kill -9 "$PID" >/dev/null 2>&1
+                fi
+                
+                echo -e "${GREEN}Processo parado com sucesso.${NC}"
+            else
+                echo -e "${YELLOW}O processo (PID: $PID) não está mais em execução.${NC}"
+            fi
+            
+            # Remove o arquivo PID (será recriado ao iniciar)
+            rm -f "${AMBIENTE_PATH}/.pid"
+        else
+            echo -e "${YELLOW}Nenhum PID registrado. Tentando finalizar pelo comando...${NC}"
+            pkill -f "$COMANDO" 2>/dev/null
+        fi
+    else
+        echo -e "${RED}Nenhuma sessão ativa encontrada para reiniciar.${NC}"
+        echo -e "${YELLOW}Iniciando com o comando padrão (npm start)...${NC}"
+        COMANDO="npm start"
+    fi
+
+    # Se não temos um comando válido, use o padrão
+    if [ -z "$COMANDO" ]; then
+        echo -e "${YELLOW}Nenhum comando encontrado. Usando comando padrão (npm start)...${NC}"
+        COMANDO="npm start"
+    fi
+
+    # Muda para o diretório correto
+    cd "$AMBIENTE_PATH" || { 
+        echo -e "${RED}Não foi possível acessar o diretório.${NC}"; 
+        return 1; 
+    }
+    
+    # Inicia o processo em segundo plano com o comando recuperado
+    echo -e "${YELLOW}Reiniciando o bot com o comando: $COMANDO${NC}"
+    nohup $COMANDO > "${AMBIENTE_PATH}/nohup.out" 2>&1 &
+    NEW_PID=$!
+    
+    # Registra o novo PID
+    echo "$NEW_PID" > "${AMBIENTE_PATH}/.pid"
+    
+    # Garante que o comando esteja salvo no arquivo .session
+    echo "$COMANDO" > "${AMBIENTE_PATH}/.session"
+
+    # Atualiza o status para ON
+    atualizar_status "$AMBIENTE_PATH" "ON"
+
+    echo -e "${GREEN}Bot reiniciado com sucesso!${NC}"
+    echo -e "${YELLOW}PID: $NEW_PID${NC}"
+
+    # Esperar um momento para garantir que a mensagem seja visível
+    sleep 2
+
+    # Retorna ao menu do ambiente
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+# ###########################################
+# Função para visualizar o terminal
+# - Propósito: Permite visualizar os logs gerados pelo bot.
+# - Editar:
+#   * Ajustar mensagens exibidas.
+#   * Não alterar a lógica para evitar erros ao acessar os logs.
+# ###########################################
+ver_terminal() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "VISUALIZAR O TERMINAL"
+    echo -e "${CYAN}======================================${NC}"
+
+    # Verifica se há uma sessão ativa
+    if [ -f "${AMBIENTE_PATH}/.session" ]; then
+        COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+        STATUS=$(recuperar_status "$AMBIENTE_PATH")
+
+        if [ "$STATUS" = "ON" ]; then
+            echo -e "${YELLOW}Uma sessão ativa foi encontrada. Finalizando a sessão antes de visualizar os logs...${NC}"
+            pkill -f "$COMANDO" 2>/dev/null
+            atualizar_status "$AMBIENTE_PATH" "OFF"
+            sleep 2
+        fi
+    fi
+
+    # Verifica se o arquivo de logs existe
+    if [ -f "${AMBIENTE_PATH}/nohup.out" ]; then
+        clear
+        echo -e "${YELLOW}Visualizando os logs em tempo real. Pressione Ctrl+C para voltar ao menu.${NC}"
+        echo -e "${CYAN}======================================${NC}"
+        tail -f "${AMBIENTE_PATH}/nohup.out"
+
+        # Após sair da visualização, retorna ao menu do ambiente
+        echo -e "${CYAN}Saindo da visualização de logs...${NC}"
+        gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+    else
+        echo -e "${RED}Nenhuma saída encontrada para o terminal.${NC}"
+        gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+    fi
+}
+
+# ###########################################
+# Função para deletar a sessão
+# - Propósito: Remove o arquivo de sessão associado ao bot e finaliza o processo em execução.
+# ###########################################
+deletar_sessao() {
+    AMBIENTE_PATH=$1
+
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "DELETAR SESSÃO"
+    echo -e "${CYAN}======================================${NC}"
+
+    # Verifica se há uma sessão ativa
+    if [ -f "${AMBIENTE_PATH}/.session" ]; then
+        COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+
+        # Finaliza o processo do bot
+        echo -e "${YELLOW}Finalizando o processo do bot...${NC}"
+        pkill -f "$COMANDO" 2>/dev/null
+
+        # Remove os arquivos de sessão e logs
+        rm -f "${AMBIENTE_PATH}/.session"
+        rm -f "${AMBIENTE_PATH}/nohup.out"
+
+        # Atualiza o status para OFF
+        atualizar_status "$AMBIENTE_PATH" "OFF"
+
+        echo -e "${GREEN}Sessão deletada com sucesso.${NC}"
+        echo -e "${YELLOW}Por favor, reinicie seu servidor para dar efeito.${NC}"
+    else
+        echo -e "${RED}Nenhuma sessão ativa encontrada para deletar.${NC}"
+    fi
+
+    # Retorna ao menu do ambiente
+    gerenciar_ambiente "$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')"
+}
+
+# ###########################################
+# Função para obter o nome do ambiente
+# - Propósito: Recupera o nome personalizado do ambiente a partir do arquivo JSON.
+# ###########################################
+obter_nome_ambiente() {
+    AMBIENTE_NUM=$1
+    
+    # Verifica se o arquivo de nomes existe
+    if [ -f "$NOMES_ARQUIVO" ]; then
+        # Verifica se jq está instalado
+        if command -v jq >/dev/null 2>&1; then
+            # Usa jq para obter o nome do ambiente
+            NOME=$(jq -r ".ambiente$AMBIENTE_NUM" "$NOMES_ARQUIVO" 2>/dev/null)
+            # Se o nome for null ou o ambiente não existir no arquivo, retorna vazio
+            if [ "$NOME" = "null" ]; then
+                echo ""
+            else
+                echo "$NOME"
+            fi
+        else
+            # Fallback básico se jq não estiver disponível
+            NOME=$(grep -o "\"ambiente$AMBIENTE_NUM\":\"[^\"]*\"" "$NOMES_ARQUIVO" 2>/dev/null | cut -d'"' -f4)
+            echo "$NOME"
+        fi
+    else
+        # Se o arquivo não existir, retorna vazio
+        echo ""
+    fi
+}
+
+# ###########################################
+# Função para nomear ambientes
+# - Propósito: Permite ao usuário atribuir nomes personalizados aos ambientes.
+# ###########################################
+nomear_ambientes() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       NOMEAR AMBIENTES"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Escolha uma opção:${NC}"
+    echo -e "${GREEN}1${NC} - Nomear ambiente"
+    echo -e "${GREEN}2${NC} - Renomear ambiente"
+    echo -e "${GREEN}3${NC} - Remover nome do ambiente"
+    echo -e "${RED}0${NC} - Voltar ao menu principal"
+    echo -e "${CYAN}--------------------------------------${NC}"
+
+    read -p "> " OPCAO_NOMEAR
+    
+    case $OPCAO_NOMEAR in
+        1)
+            # Nomear ambiente
+            nomear_novo_ambiente
+            ;;
+        2)
+            # Renomear ambiente
+            renomear_ambiente
+            ;;
+        3)
+            # Remover nome do ambiente
+            remover_nome_ambiente
+            ;;
+        0) 
+            # Voltar ao menu principal
+            menu_principal
+            ;;
+        *) 
+            echo -e "${RED}${CROSS_MARK} Opção inválida.${NC}"
+            sleep 2
+            nomear_ambientes
+            ;;
+    esac
+}
+
+# ###########################################
+# Função para nomear um novo ambiente
+# - Propósito: Atribui um nome a um ambiente que ainda não foi nomeado.
+# ###########################################
+nomear_novo_ambiente() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       NOMEAR NOVO AMBIENTE"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Escolha o ambiente (1-${NUM_AMBIENTES}):${NC}"
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        NOME=$(obter_nome_ambiente $i)
+        if [ -z "$NOME" ]; then
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${YELLOW}(Sem nome)${NC}"
+        else
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${CYAN}(Nome atual: $NOME)${NC}"
+        fi
+    done
+    echo -e "${RED}0${NC} - Voltar"
+    
+    read -p "> " AMBIENTE_ESCOLHIDO
+    
+    if [ "$AMBIENTE_ESCOLHIDO" = "0" ]; then
+        nomear_ambientes
+        return
+    fi
+    
+    if [[ "$AMBIENTE_ESCOLHIDO" =~ ^[0-9]+$ ]] && [ "$AMBIENTE_ESCOLHIDO" -ge 1 ] && [ "$AMBIENTE_ESCOLHIDO" -le "$NUM_AMBIENTES" ]; then
+        NOME_ATUAL=$(obter_nome_ambiente $AMBIENTE_ESCOLHIDO)
+        
+        if [ ! -z "$NOME_ATUAL" ]; then
+            echo -e "${YELLOW}${WARNING} Este ambiente já possui um nome: ${CYAN}$NOME_ATUAL${NC}"
+            echo -e "${YELLOW}Deseja renomeá-lo? (sim/não)${NC}"
+            read -p "> " CONFIRMA
+            
+            if [ "$CONFIRMA" != "sim" ]; then
+                nomear_ambientes
+                return
+            fi
+        fi
+        
+        echo -e "${YELLOW}Forneça um nome para o Ambiente $AMBIENTE_ESCOLHIDO:${NC}"
+        read -p "> " NOVO_NOME
+        
+        echo -e "${YELLOW}Nome escolhido: ${CYAN}$NOVO_NOME${NC}"
+        echo -e "${YELLOW}Deseja editar ou salvar como está? (editar/salvar)${NC}"
+        read -p "> " ACAO
+        
+        if [ "$ACAO" = "editar" ]; then
+            echo -e "${YELLOW}Forneça o novo nome:${NC}"
+            read -p "> " NOVO_NOME
+        fi
+        
+        # Salva o nome no arquivo JSON
+        salvar_nome_ambiente "$AMBIENTE_ESCOLHIDO" "$NOVO_NOME"
+        
+        echo -e "${GREEN}${CHECK_MARK} Nome do ambiente salvo com sucesso!${NC}"
+        sleep 2
+        nomear_ambientes
+    else
+        echo -e "${RED}${CROSS_MARK} Ambiente inválido.${NC}"
+        sleep 2
+        nomear_novo_ambiente
+    fi
+}
+
+# ###########################################
+# Função para renomear um ambiente
+# - Propósito: Altera o nome de um ambiente já nomeado.
+# ###########################################
+renomear_ambiente() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       RENOMEAR AMBIENTE"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Escolha o ambiente (1-${NUM_AMBIENTES}):${NC}"
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        NOME=$(obter_nome_ambiente $i)
+        if [ -z "$NOME" ]; then
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${YELLOW}(Sem nome)${NC}"
+        else
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${CYAN}(Nome atual: $NOME)${NC}"
+        fi
+    done
+    echo -e "${RED}0${NC} - Voltar"
+    
+    read -p "> " AMBIENTE_ESCOLHIDO
+    
+    if [ "$AMBIENTE_ESCOLHIDO" = "0" ]; then
+        nomear_ambientes
+        return
+    fi
+    
+    if [[ "$AMBIENTE_ESCOLHIDO" =~ ^[0-9]+$ ]] && [ "$AMBIENTE_ESCOLHIDO" -ge 1 ] && [ "$AMBIENTE_ESCOLHIDO" -le "$NUM_AMBIENTES" ]; then
+        NOME_ATUAL=$(obter_nome_ambiente $AMBIENTE_ESCOLHIDO)
+        
+        if [ -z "$NOME_ATUAL" ]; then
+            echo -e "${YELLOW}${WARNING} Este ambiente não possui um nome ainda. Redirecionando para nomear...${NC}"
+            sleep 2
+            nomear_novo_ambiente
+            return
+        fi
+        
+        echo -e "${YELLOW}Nome atual: ${CYAN}$NOME_ATUAL${NC}"
+        echo -e "${YELLOW}Forneça o novo nome para o Ambiente $AMBIENTE_ESCOLHIDO:${NC}"
+        read -p "> " NOVO_NOME
+        
+        echo -e "${YELLOW}Novo nome escolhido: ${CYAN}$NOVO_NOME${NC}"
+        echo -e "${YELLOW}Deseja editar ou salvar como está? (editar/salvar)${NC}"
+        read -p "> " ACAO
+        
+        if [ "$ACAO" = "editar" ]; then
+            echo -e "${YELLOW}Forneça o novo nome:${NC}"
+            read -p "> " NOVO_NOME
+        fi
+        
+        # Salva o nome no arquivo JSON
+        salvar_nome_ambiente "$AMBIENTE_ESCOLHIDO" "$NOVO_NOME"
+        
+        echo -e "${GREEN}${CHECK_MARK} Nome do ambiente atualizado com sucesso!${NC}"
+        sleep 2
+        nomear_ambientes
+    else
+        echo -e "${RED}${CROSS_MARK} Ambiente inválido.${NC}"
+        sleep 2
+        renomear_ambiente
+    fi
+}
+
+# ###########################################
+# Função para remover o nome de um ambiente
+# - Propósito: Remove o nome personalizado de um ambiente.
+# ###########################################
+remover_nome_ambiente() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       REMOVER NOME DO AMBIENTE"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Escolha o ambiente (1-${NUM_AMBIENTES}):${NC}"
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        NOME=$(obter_nome_ambiente $i)
+        if [ -z "$NOME" ]; then
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${YELLOW}(Sem nome)${NC}"
+        else
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${CYAN}(Nome atual: $NOME)${NC}"
+        fi
+    done
+    echo -e "${RED}0${NC} - Voltar"
+    
+    read -p "> " AMBIENTE_ESCOLHIDO
+    
+    if [ "$AMBIENTE_ESCOLHIDO" = "0" ]; then
+        nomear_ambientes
+        return
+    fi
+    
+    if [[ "$AMBIENTE_ESCOLHIDO" =~ ^[0-9]+$ ]] && [ "$AMBIENTE_ESCOLHIDO" -ge 1 ] && [ "$AMBIENTE_ESCOLHIDO" -le "$NUM_AMBIENTES" ]; then
+        NOME_ATUAL=$(obter_nome_ambiente $AMBIENTE_ESCOLHIDO)
+        
+        if [ -z "$NOME_ATUAL" ]; then
+            echo -e "${YELLOW}${WARNING} Este ambiente não tem nenhum nome, sendo assim nenhuma alteração foi feita.${NC}"
+            sleep 2
+            nomear_ambientes
+            return
+        fi
+        
+        # Remove o nome do arquivo JSON
+        salvar_nome_ambiente "$AMBIENTE_ESCOLHIDO" ""
+        
+        echo -e "${GREEN}${CHECK_MARK} Nome do ambiente removido com sucesso!${NC}"
+        sleep 2
+        nomear_ambientes
+    else
+        echo -e "${RED}${CROSS_MARK} Ambiente inválido.${NC}"
+        sleep 2
+        remover_nome_ambiente
+    fi
+}
+
+# ###########################################
+# Função para salvar o nome do ambiente no arquivo JSON
+# - Propósito: Atualiza o arquivo JSON com os nomes dos ambientes.
+# ###########################################
+salvar_nome_ambiente() {
+    AMBIENTE_NUM=$1
+    NOME=$2
+    
+    # Cria o arquivo JSON caso não exista
+    if [ ! -f "$NOMES_ARQUIVO" ]; then
+        echo "{}" > "$NOMES_ARQUIVO"
+    fi
+    
+    # Verifica se jq está instalado
+    if command -v jq >/dev/null 2>&1; then
+        # Usa jq para atualizar o nome do ambiente no arquivo JSON
+        TEMP_FILE=$(mktemp)
+        jq ".ambiente$AMBIENTE_NUM = \"$NOME\"" "$NOMES_ARQUIVO" > "$TEMP_FILE"
+        mv "$TEMP_FILE" "$NOMES_ARQUIVO"
+    else
+        # Fallback básico se jq não estiver disponível
+        CONTEUDO=$(cat "$NOMES_ARQUIVO")
+        # Remove a entrada existente (se houver)
+        CONTEUDO=$(echo "$CONTEUDO" | sed "s/\"ambiente$AMBIENTE_NUM\":\"[^\"]*\",//g" | sed "s/\"ambiente$AMBIENTE_NUM\":\"[^\"]*\"//g")
+        # Remove a última chave
+        CONTEUDO=${CONTEUDO%\}}
+        # Adiciona a nova entrada
+        if [ -z "$NOME" ]; then
+            # Se o nome for vazio, não adiciona a entrada
+            echo "${CONTEUDO}}" > "$NOMES_ARQUIVO"
+        else
+            # Se houver conteúdo, adiciona vírgula se necessário
+            if [ "$CONTEUDO" != "{" ]; then
+                CONTEUDO="${CONTEUDO},"
+            fi
+            echo "${CONTEUDO}\"ambiente$AMBIENTE_NUM\":\"$NOME\"}" > "$NOMES_ARQUIVO"
+        fi
+    fi
+}
+
+# === MENU PRINCIPAL ===
+menu_principal() {
+    cabecalho
+
+    # Executa a verificação de sessões ao carregar o menu
+    verificar_sessoes
+
+    # Verifica automaticamente por atualizações
+    verificar_atualizacoes
+    verificar_atualizacao_estado
+    echo -e "${CYAN}==============================================${NC}"
+    echo -e "       GERENCIAMENTO DE SISTEMAS"
+    echo -e "${CYAN}==============================================${NC}"
+
+    # Exibe os ambientes configurados dinamicamente
+    echo -e "${RED} ATUALIZAÇÃO: OPÇÃO 2 - Iniciar Bot Iniciar Bot depois 5 foi atualizada"
+        echo -e "${GREEN} ATUALIZAÇÃO: Nova função: Nomear Ambientes foi adicionada no menu principal."
+
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+    STATUS=$(recuperar_status "$AMBIENTE_PATH")
+        NOME=$(obter_nome_ambiente $i)
+
+        # Define o indicador visual de status
+    if [ "$STATUS" = "ON" ]; then
+        INDICADOR_STATUS="${GREEN}●${NC}"
+    else
+        INDICADOR_STATUS="${RED}●${NC}"
+    fi
+
+        # Exibe o nome do ambiente, se existir
+        if [ -z "$NOME" ]; then
+            echo -e "${YELLOW}AMBIENTE ${i} | STATUS: ${INDICADOR_STATUS} (${STATUS})${NC}"
+        else
+            echo -e "${YELLOW}AMBIENTE ${i} - ${CYAN}${NOME}${NC} | STATUS: ${INDICADOR_STATUS} (${STATUS})${NC}"
+        fi
+    done
+
+    echo -e "${CYAN}==============================================${NC}"
+    echo -e "${YELLOW}ESCOLHA UMA OPÇÃO:${NC}"
+    echo -e "${GREEN}1-${NUM_AMBIENTES}${NC} - ESCOLHA ENTRE 1-${NUM_AMBIENTES} PARA GERENCIAR UM AMBIENTE"
+    echo -e "${YELLOW}N${NC} - NOMEAR AMBIENTES"
+    # echo -e "${YELLOW}C${NC} - RENOMEAR AMBIENTES"
+    echo -e "${YELLOW}A${NC} - CONFIGURAR ANIMAÇÕES"
+    echo -e "${YELLOW}AM${NC} - ATUALIZAÇÃO MANUAL"
+    echo -e "${RED}0${NC} - REINICIAR CONTAINER"
+    echo -e "${CYAN}==============================================${NC}"
+
+    read -p "> " OPCAO_PRINCIPAL
+
+    # Valida a escolha do usuário
+    if [[ "$OPCAO_PRINCIPAL" =~ ^[0-9]+$ ]] && [ "$OPCAO_PRINCIPAL" -ge 1 ] && [ "$OPCAO_PRINCIPAL" -le "$NUM_AMBIENTES" ]; then
+        # Gerenciar um ambiente específico
+        gerenciar_ambiente "$OPCAO_PRINCIPAL"
+    elif [[ "$OPCAO_PRINCIPAL" == "N" || "$OPCAO_PRINCIPAL" == "n" ]]; then
+        # Nomear ambientes
+        nomear_ambientes
+    elif [[ "$OPCAO_PRINCIPAL" == "A" || "$OPCAO_PRINCIPAL" == "a" ]]; then
+        # Configurar animações
+        gerenciar_animacoes
+    elif [[ "$OPCAO_PRINCIPAL" == "AM" || "$OPCAO_PRINCIPAL" == "am" ]]; then
+        # Atualização manual
+        aplicar_atualizacao_manual
+    elif [[ "$OPCAO_PRINCIPAL" == "0" ]]; then
+        # Reiniciar o container
+        echo -e "${GREEN}CONTAINER REINICIADO COM SUCESSO!${NC}"
+        exit 0
+    else
+        echo -e "${RED}${CROSS_MARK} ESCOLHA INVÁLIDA. TENTE NOVAMENTE.${NC}"
+        sleep 2
+        menu_principal
+    fi
+
+}
+
+# ###########################################
+# Função para verificar atualizações automáticas
+# - Propósito: Verifica se há uma nova versão do script disponível.
+# ###########################################
+verificar_atualizacoes() {
+    echo -e "${CYAN}======================================${NC}"
+    echo -e "       VERIFICANDO ATUALIZAÇÕES"
+    echo -e "${CYAN}======================================${NC}"
+
+    # Obtém o conteúdo remoto do GitHub
+    CONTEUDO_REMOTO=$(curl -s --max-time 5 "$URL_SCRIPT")
+    if [ -z "$CONTEUDO_REMOTO" ]; then
+        echo -e "${YELLOW}Não foi possível verificar atualizações. Tente novamente mais tarde.${NC}"
+        return
+    fi
+
+    # Extrai a versão remota do conteúdo
+    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep -oP 'VERSAO_LOCAL="\K[0-9]+\.[0-9]+\.[0-9]+')
+    if [ -z "$VERSAO_REMOTA" ]; then
+        echo -e "${YELLOW}Não foi possível extrair a versão do arquivo remoto.${NC}"
+        return
+    fi
+
+    echo -e "${CYAN}Versão Atual: ${GREEN}${VERSAO_LOCAL}${NC}"
+    echo -e "${CYAN}Versão Disponível: ${GREEN}${VERSAO_REMOTA}${NC}"
+
+    # Compara as versões
+    if [ "$VERSAO_REMOTA" = "$VERSAO_LOCAL" ]; then
+        echo -e "${GREEN}Você está usando a versão mais recente do nosso script.${NC}"
+    elif [[ "$VERSAO_REMOTA" > "$VERSAO_LOCAL" ]]; then
+        echo -e "${YELLOW}Nova atualização disponível! (${VERSAO_REMOTA})${NC}"
+        echo -e "${YELLOW}Instalando atualização automaticamente...${NC}"
+        aplicar_atualizacao_automatica
+    else
+        echo -e "${RED}Erro ao atualizar: A versão disponível (${VERSAO_REMOTA}) é menor que a versão atual (${VERSAO_LOCAL}).${NC}"
+    fi
+}
+
+# ###########################################
+# Função para aplicar atualizações automáticas
+# - Propósito: Baixa a nova versão do script e substitui o atual.
+# ###########################################
+aplicar_atualizacao_automatica() {
+    # Primeiro, faz backup do número de ambientes
+    backup_num_ambientes
+    
+    echo -e "${CYAN}Baixando a nova versão do script...${NC}"
+    curl -s -o "${BASE_DIR}/script_atualizado.sh" "$URL_SCRIPT"
+
+    if [ $? -ne 0 ]; then
+        echo -e "${RED}Erro ao baixar a nova versão do script.${NC}"
+        menu_principal
+        return
+    fi
+
+    echo -e "${CYAN}Substituindo o script atual...${NC}"
+    mv "${BASE_DIR}/script_atualizado.sh" "$SCRIPT_PATH"
+    chmod +x "$SCRIPT_PATH"
+
+    if [ $? -eq 0 ]; then
+        echo -e "${GREEN}Atualização aplicada com sucesso!${NC}"
+        echo -e "${YELLOW}Reiniciando o script para aplicar as alterações e restaurar configurações...${NC}"
+        sleep 2
+        # Ao reiniciar, a função restaurar_num_ambientes será chamada
+        exec "$SCRIPT_PATH"
+    else
+        echo -e "${RED}Erro ao aplicar a atualização.${NC}"
+    fi
+}
+
+# ###########################################
+# Função para aplicar atualizações manuais
+# - Propósito: Baixa a nova versão do script e substitui o atual.
+# ###########################################
+aplicar_atualizacao_manual() {
+    echo -e "${CYAN}Verificando atualizações manuais...${NC}"
+
+    # Obtém o conteúdo remoto do GitHub
+    CONTEUDO_REMOTO=$(curl -s --max-time 5 "$URL_SCRIPT")
+    if [ -z "$CONTEUDO_REMOTO" ]; then
+        echo -e "${YELLOW}Não foi possível verificar atualizações. Tente novamente mais tarde.${NC}"
+        return
+    fi
+
+    # Extrai a versão remota do conteúdo
+    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep -oP 'VERSAO_LOCAL="\K[0-9]+\.[0-9]+\.[0-9]+')
+    if [ -z "$VERSAO_REMOTA" ]; then
+        echo -e "${YELLOW}Não foi possível extrair a versão do arquivo remoto.${NC}"
+        return
+    fi
+
+    echo -e "${CYAN}Versão Atual: ${GREEN}${VERSAO_LOCAL}${NC}"
+    echo -e "${CYAN}Versão Disponível: ${GREEN}${VERSAO_REMOTA}${NC}"
+
+    # Compara as versões
+    if [ "$VERSAO_REMOTA" = "$VERSAO_LOCAL" ]; then
+        echo -e "${GREEN}Você já está usando a versão mais recente do nosso script.${NC}"
+        menu_principal
+    elif [[ "$VERSAO_REMOTA" > "$VERSAO_LOCAL" ]]; then
+        echo -e "${YELLOW}Nova atualização disponível! (${VERSAO_REMOTA})${NC}"
+        echo -e "${YELLOW}Aplicando atualização manualmente...${NC}"
+        # Primeiro, faz backup do número de ambientes
+        backup_num_ambientes
+        # Aplica a atualização
+        echo -e "${CYAN}Baixando a nova versão do script...${NC}"
+        curl -s -o "${BASE_DIR}/script_atualizado.sh" "$URL_SCRIPT"
+
+        if [ $? -ne 0 ]; then
+            echo -e "${RED}Erro ao baixar a nova versão do script.${NC}"
+            menu_principal
+            return
+        fi
+
+        echo -e "${CYAN}Substituindo o script atual...${NC}"
+        mv "${BASE_DIR}/script_atualizado.sh" "$SCRIPT_PATH"
+        chmod +x "$SCRIPT_PATH"
+
+        if [ $? -eq 0 ]; then
+            echo -e "${GREEN}Atualização aplicada com sucesso!${NC}"
+            echo -e "${YELLOW}Reiniciando o script para aplicar as alterações e restaurar configurações...${NC}"
+            sleep 2
+            # Ao reiniciar, a função restaurar_num_ambientes será chamada
+            exec "$SCRIPT_PATH"
+        else
+            echo -e "${RED}Erro ao aplicar a atualização.${NC}"
+        fi
+ else
+        echo -e "${RED}Erro ao atualizar: A versão disponível (${VERSAO_REMOTA}) é menor que a versão atual (${VERSAO_LOCAL}).${NC}"
+        menu_principal
+    fi
+}
+
+# ###########################################
+# Função para configurar ambientes
+# - Propósito: Permite adicionar ou remover ambientes do sistema.
+# ###########################################
+configurar_ambientes() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       CONFIGURAR AMBIENTES"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Escolha uma opção:${NC}"
+    echo -e "${GREEN}1${NC} - Adicionar Ambiente"
+    echo -e "${GREEN}2${NC} - Remover Ambientes"
+    echo -e "${RED}0${NC} - Voltar ao menu principal"
+    echo -e "${CYAN}--------------------------------------${NC}"
+    
+    read -p "> " OPCAO_CONFIG
+    
+    case $OPCAO_CONFIG in
+        1)
+            # Adicionar ambiente
+            adicionar_ambiente
+            ;;
+        2)
+            # Remover ambientes
+            remover_ambientes
+            ;;
+        0)
+            # Voltar ao menu principal
+            menu_principal
+            ;;
+        *)
+            echo -e "${RED}${CROSS_MARK} Opção inválida.${NC}"
+            sleep 2
+            configurar_ambientes
+            ;;
+    esac
+}
+
+# ###########################################
+# Função para adicionar um novo ambiente
+# - Propósito: Cria novos ambientes no sistema e atualiza a configuração.
+# ###########################################
+adicionar_ambiente() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       ADICIONAR AMBIENTE"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Número atual de ambientes: ${CYAN}${NUM_AMBIENTES}${NC}"
+    echo -e "${YELLOW}Digite quantos ambientes deseja adicionar:${NC}"
+    read -p "> " QTD_ADICIONAR
+    
+    # Verifica se o input é um número válido
+    if ! [[ "$QTD_ADICIONAR" =~ ^[0-9]+$ ]]; then
+        echo -e "${RED}${CROSS_MARK} Por favor, digite um número válido.${NC}"
+        sleep 2
+        adicionar_ambiente
+        return
+    fi
+    
+    if [ "$QTD_ADICIONAR" -le 0 ]; then
+        echo -e "${RED}${CROSS_MARK} O número de ambientes a adicionar deve ser maior que zero.${NC}"
+        sleep 2
+        adicionar_ambiente
+        return
+    fi
+    
+    # Calcula o novo número total de ambientes
+    NOVO_NUM_AMBIENTES=$((NUM_AMBIENTES + QTD_ADICIONAR))
+    
+    echo -e "${YELLOW}Você tem certeza que deseja adicionar ${CYAN}${QTD_ADICIONAR}${YELLOW} ambiente(s)?${NC}"
+    echo -e "${YELLOW}Total após adição: ${CYAN}${NOVO_NUM_AMBIENTES}${NC} ambiente(s)"
+    echo -e "${GREEN}sim${NC} para confirmar ou ${RED}cancelar${NC} para voltar"
+    read -p "> " CONFIRMA
+    
+    if [ "$CONFIRMA" = "sim" ]; then
+        echo -e "${YELLOW}Criando novos ambientes...${NC}"
+        
+        # Cria as novas pastas de ambiente
+        for i in $(seq $((NUM_AMBIENTES + 1)) $NOVO_NUM_AMBIENTES); do
+            AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+            if [ ! -d "$AMBIENTE_PATH" ]; then
+                mkdir -p "$AMBIENTE_PATH"
+                echo -e "${GREEN}${CHECK_MARK} Pasta do ambiente ${i} criada.${NC}"
+            else
+                echo -e "${YELLOW}${INFO} Pasta do ambiente ${i} já existe.${NC}"
+            fi
+        done
+        
+        # Atualiza a variável global
+        NUM_AMBIENTES=$NOVO_NUM_AMBIENTES
+        
+        # Atualiza o valor no arquivo principal
+        atualizar_num_ambientes_no_script
+        
+        echo -e "${GREEN}${CHECK_MARK} Ambientes adicionados com sucesso!${NC}"
+        echo -e "${YELLOW}Novo total de ambientes: ${CYAN}${NUM_AMBIENTES}${NC}"
+        sleep 2
+        configurar_ambientes
+    else
+        echo -e "${YELLOW}Operação cancelada pelo usuário.${NC}"
+        sleep 2
+        configurar_ambientes
+    fi
+}
+
+# ###########################################
+# Função para remover ambientes
+# - Propósito: Remove ambientes existentes do sistema.
+# ###########################################
+remover_ambientes() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       REMOVER AMBIENTES"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}${WARNING} AVISO IMPORTANTE ${WARNING}${NC}"
+    echo -e "${RED}Esta função permite remover ambientes do sistema.${NC}"
+    echo -e "${YELLOW}Você pode remover ambientes das seguintes formas:${NC}"
+    echo -e "${CYAN}• Digite um único número (ex: ${GREEN}3${CYAN}) para remover o ambiente 3${NC}"
+    echo -e "${CYAN}• Use hífen para remover um intervalo (ex: ${GREEN}1-5${CYAN}) para remover ambientes de 1 a 5${NC}"
+    echo -e "${CYAN}• Use vírgulas para múltiplos ambientes (ex: ${GREEN}2,5,7${CYAN}) para remover apenas esses ambientes${NC}"
+    echo -e "${RED}${WARNING} ATENÇÃO: Todos os dados dos ambientes selecionados serão PERDIDOS PERMANENTEMENTE!${NC}"
+    echo -e "${RED}${WARNING} Bots em execução nesses ambientes serão encerrados!${NC}"
+    echo -e "${CYAN}--------------------------------------${NC}"
+    echo -e "${GREEN}C${NC} - Continuar com a remoção"
+    echo -e "${RED}V${NC} - Voltar ao menu anterior"
+    read -p "> " ESCOLHA_REMOVER
+    
+    if [[ "$ESCOLHA_REMOVER" == "V" || "$ESCOLHA_REMOVER" == "v" ]]; then
+        configurar_ambientes
+        return
+    elif [[ "$ESCOLHA_REMOVER" != "C" && "$ESCOLHA_REMOVER" != "c" ]]; then
+        echo -e "${RED}${CROSS_MARK} Opção inválida.${NC}"
+        sleep 2
+        remover_ambientes
+        return
+    fi
+    
+    # Mostra os ambientes atuais
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       REMOVER AMBIENTES"
+    echo -e "${CYAN}======================================${NC}"
+    
+    echo -e "${YELLOW}Ambientes disponíveis:${NC}"
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+        STATUS="OFF"
+        if [ -f "${AMBIENTE_PATH}/status" ]; then
+            STATUS=$(cat "${AMBIENTE_PATH}/status")
+        fi
+        
+        NOME=$(obter_nome_ambiente $i)
+        if [ -z "$NOME" ]; then
+            echo -e "${GREEN}$i${NC} - Ambiente $i ${YELLOW}(Status: $STATUS)${NC}"
+        else
+            echo -e "${GREEN}$i${NC} - Ambiente $i - ${CYAN}$NOME${NC} ${YELLOW}(Status: $STATUS)${NC}"
+        fi
+    done
+    
+    echo -e "${CYAN}--------------------------------------${NC}"
+    echo -e "${YELLOW}Digite os ambientes que deseja remover:${NC}"
+    echo -e "${CYAN}(Formatos aceitos: ${GREEN}3${CYAN} ou ${GREEN}1-5${CYAN} ou ${GREEN}2,4,7${CYAN})${NC}"
+    read -p "> " AMBIENTES_REMOVER
+    
+    # Verifica se o input está vazio
+    if [ -z "$AMBIENTES_REMOVER" ]; then
+        echo -e "${RED}${CROSS_MARK} Nenhum ambiente especificado.${NC}"
+        sleep 2
+        remover_ambientes
+        return
+    fi
+    
+    # Processa a entrada do usuário
+    AMBIENTES_A_DELETAR=()
+    
+    # Caso seja um intervalo com hífen (ex: 1-5)
+    if [[ "$AMBIENTES_REMOVER" =~ ^[0-9]+-[0-9]+$ ]]; then
+        INICIO=$(echo "$AMBIENTES_REMOVER" | cut -d'-' -f1)
+        FIM=$(echo "$AMBIENTES_REMOVER" | cut -d'-' -f2)
+        
+        if [ "$FIM" -gt "$NUM_AMBIENTES" ]; then
+            echo -e "${RED}${CROSS_MARK} Você tem menos ambientes (${NUM_AMBIENTES}) que os citados (até ${FIM}).${NC}"
+            echo -e "${YELLOW}Por favor, especifique um intervalo válido.${NC}"
+            sleep 3
+            remover_ambientes
+            return
+        fi
+        
+        for i in $(seq $INICIO $FIM); do
+            AMBIENTES_A_DELETAR+=($i)
+        done
+        
+        echo -e "${YELLOW}Você selecionou ambientes de ${CYAN}$INICIO${YELLOW} a ${CYAN}$FIM${YELLOW}.${NC}"
+    
+    # Caso sejam múltiplos valores separados por vírgula (ex: 2,5,7)
+    elif [[ "$AMBIENTES_REMOVER" =~ ^[0-9]+(,[0-9]+)*$ ]]; then
+        IFS=',' read -ra VALORES <<< "$AMBIENTES_REMOVER"
+        
+        for i in "${VALORES[@]}"; do
+            if [ "$i" -gt "$NUM_AMBIENTES" ]; then
+                echo -e "${YELLOW}${WARNING} Ambiente $i não existe e será ignorado.${NC}"
+            else
+                AMBIENTES_A_DELETAR+=($i)
+            fi
+        done
+        
+        if [ ${#AMBIENTES_A_DELETAR[@]} -eq 0 ]; then
+            echo -e "${RED}${CROSS_MARK} Nenhum ambiente válido para remover.${NC}"
+            sleep 2
+            remover_ambientes
+            return
+        fi
+        
+        echo -e "${YELLOW}Você selecionou os ambientes: ${CYAN}${AMBIENTES_A_DELETAR[*]}${NC}"
+    
+    # Caso seja um único valor (ex: 3)
+    elif [[ "$AMBIENTES_REMOVER" =~ ^[0-9]+$ ]]; then
+        if [ "$AMBIENTES_REMOVER" -gt "$NUM_AMBIENTES" ]; then
+            echo -e "${RED}${CROSS_MARK} O ambiente $AMBIENTES_REMOVER não existe.${NC}"
+            sleep 2
+            remover_ambientes
+            return
+        fi
+        
+        AMBIENTES_A_DELETAR+=($AMBIENTES_REMOVER)
+        echo -e "${YELLOW}Você selecionou o ambiente: ${CYAN}$AMBIENTES_REMOVER${NC}"
+    
+    # Formato inválido
+    else
+        echo -e "${RED}${CROSS_MARK} Formato inválido. Use um número, um intervalo com hífen ou números separados por vírgula.${NC}"
+        sleep 3
+        remover_ambientes
+        return
+    fi
+    
+    # Confirmação final
+    echo -e "${RED}${WARNING} ATENÇÃO: Esta ação não pode ser desfeita!${NC}"
+    echo -e "${YELLOW}Tem certeza que deseja remover os ambientes selecionados? (sim/não)${NC}"
+    read -p "> " CONFIRMA_FINAL
+    
+    if [ "$CONFIRMA_FINAL" != "sim" ]; then
+        echo -e "${YELLOW}Operação cancelada pelo usuário.${NC}"
+        sleep 2
+        configurar_ambientes
+        return
+    fi
+    
+    # Procede com a remoção
+    REMOVIDOS=0
+    echo -e "${YELLOW}Removendo ambientes...${NC}"
+    
+    for AMBIENTE_NUM in "${AMBIENTES_A_DELETAR[@]}"; do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${AMBIENTE_NUM}"
+        
+        # Verifica se o ambiente existe
+        if [ ! -d "$AMBIENTE_PATH" ]; then
+            echo -e "${YELLOW}${WARNING} Ambiente $AMBIENTE_NUM não existe ou já foi removido.${NC}"
+            continue
+        fi
+        
+        # Para quaisquer processos ativos neste ambiente
+        if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+            PID=$(cat "${AMBIENTE_PATH}/.pid")
+            if kill -0 "$PID" 2>/dev/null; then
+                echo -e "${YELLOW}Encerrando processo ativo no ambiente $AMBIENTE_NUM...${NC}"
+                kill -15 "$PID" 2>/dev/null
+                sleep 1
+                kill -9 "$PID" 2>/dev/null
+            fi
+        fi
+        
+        # Remove o diretório e seu conteúdo
+        echo -e "${YELLOW}Removendo ambiente $AMBIENTE_NUM...${NC}"
+        rm -rf "$AMBIENTE_PATH"
+        
+        if [ ! -d "$AMBIENTE_PATH" ]; then
+            echo -e "${GREEN}${CHECK_MARK} Ambiente $AMBIENTE_NUM removido com sucesso.${NC}"
+            REMOVIDOS=$((REMOVIDOS + 1))
+        else
+            echo -e "${RED}${CROSS_MARK} Erro ao remover ambiente $AMBIENTE_NUM.${NC}"
+        fi
+    done
+    
+    echo -e "${GREEN}${CHECK_MARK} $REMOVIDOS ambiente(s) removido(s) com sucesso.${NC}"
+    
+    # Decide se precisa reorganizar os ambientes
+    echo -e "${YELLOW}Deseja reorganizar os números dos ambientes? (sim/não)${NC}"
+    echo -e "${CYAN}(Isso renumerará os ambientes para eliminar lacunas na sequência)${NC}"
+    read -p "> " REORGANIZAR
+    
+    if [ "$REORGANIZAR" = "sim" ]; then
+        reorganizar_ambientes
+    else
+        # Apenas atualiza o número total, sem reorganizar
+        NOVO_NUM_AMBIENTES=$(find "$BASE_DIR" -maxdepth 1 -type d -name "ambiente*" | wc -l)
+        NUM_AMBIENTES=$NOVO_NUM_AMBIENTES
+        
+        # Atualiza o valor no arquivo do script
+        atualizar_num_ambientes_no_script
+        
+        echo -e "${YELLOW}Número total de ambientes atualizado: ${CYAN}$NUM_AMBIENTES${NC}"
+    fi
+    
+    sleep 2
+    configurar_ambientes
+}
+
+# ###########################################
+# Função para reorganizar ambientes
+# - Propósito: Renumera os ambientes após remoções para eliminar lacunas.
+# ###########################################
+reorganizar_ambientes() {
+    echo -e "${YELLOW}Reorganizando ambientes...${NC}"
+    
+    # Lista todos os diretórios de ambiente existentes
+    AMBIENTES_EXISTENTES=($(find "$BASE_DIR" -maxdepth 1 -type d -name "ambiente*" | sort -V))
+    TOTAL_EXISTENTES=${#AMBIENTES_EXISTENTES[@]}
+    
+    if [ $TOTAL_EXISTENTES -eq 0 ]; then
+        echo -e "${YELLOW}Nenhum ambiente encontrado para reorganizar.${NC}"
+        NUM_AMBIENTES=0
+        atualizar_num_ambientes_no_script
+        return
+    fi
+    
+    # Cria diretório temporário para reorganização
+    TEMP_DIR="${BASE_DIR}/temp_reorganizacao"
+    mkdir -p "$TEMP_DIR"
+    
+    # Move os ambientes existentes para pastas temporárias numeradas sequencialmente
+    NOVO_INDICE=1
+    for AMBIENTE_PATH in "${AMBIENTES_EXISTENTES[@]}"; do
+        AMBIENTE_NUM=$(basename "$AMBIENTE_PATH" | sed 's/ambiente//')
+        
+        # Se o número já está correto, pula
+        if [ "$AMBIENTE_NUM" -eq "$NOVO_INDICE" ]; then
+            echo -e "${YELLOW}Ambiente $AMBIENTE_NUM já está na posição correta.${NC}"
+            NOVO_INDICE=$((NOVO_INDICE + 1))
+            continue
+        fi
+        
+        # Move para diretório temporário
+        echo -e "${YELLOW}Renumerando: Ambiente $AMBIENTE_NUM → Ambiente $NOVO_INDICE${NC}"
+        mv "$AMBIENTE_PATH" "${TEMP_DIR}/ambiente${NOVO_INDICE}"
+        NOVO_INDICE=$((NOVO_INDICE + 1))
+    done
+    
+    # Move os ambientes do diretório temporário de volta para o diretório base
+    find "$TEMP_DIR" -maxdepth 1 -type d -name "ambiente*" -exec mv {} "$BASE_DIR/" \;
+    
+    # Remove o diretório temporário
+    rm -rf "$TEMP_DIR"
+    
+    # Atualiza o número total de ambientes
+    NUM_AMBIENTES=$((NOVO_INDICE - 1))
+    
+    # Atualiza o valor no arquivo do script
+    atualizar_num_ambientes_no_script
+    
+    echo -e "${GREEN}${CHECK_MARK} Ambientes reorganizados com sucesso!${NC}"
+    echo -e "${YELLOW}Novo total de ambientes: ${CYAN}$NUM_AMBIENTES${NC}"
+}
+
+# ###########################################
+# Função para atualizar o número de ambientes no script
+# - Propósito: Atualiza a variável NUM_AMBIENTES no arquivo do script.
+# ###########################################
+atualizar_num_ambientes_no_script() {
+    # Certifica-se de que o caminho do script está correto
+    if [ ! -f "$SCRIPT_PATH" ]; then
+        echo -e "${RED}Erro: Não foi possível encontrar o arquivo do script em $SCRIPT_PATH${NC}"
+        # Tenta encontrar o script no diretório base
+        if [ -f "${BASE_DIR}/${SCRIPT_NOME}" ]; then
+            SCRIPT_PATH="${BASE_DIR}/${SCRIPT_NOME}"
+            echo -e "${YELLOW}Usando caminho alternativo: $SCRIPT_PATH${NC}"
+        else
+            echo -e "${RED}Não foi possível encontrar o script. A atualização do número de ambientes falhou.${NC}"
+            return 1
+        fi
+    fi
+    
+    # Faz backup do script antes de modificar
+    cp "$SCRIPT_PATH" "${SCRIPT_PATH}.bak"
+    
+    # Atualiza a variável NUM_AMBIENTES no arquivo do script
+    sed -i "s/^NUM_AMBIENTES=.*$/NUM_AMBIENTES=$NUM_AMBIENTES # Número de ambientes que serão configurados./" "$SCRIPT_PATH"
+    
+    # Verifica se a alteração foi feita com sucesso
+    if grep -q "NUM_AMBIENTES=$NUM_AMBIENTES" "$SCRIPT_PATH"; then
+        echo -e "${GREEN}O número de ambientes foi atualizado para ${CYAN}$NUM_AMBIENTES${NC} no arquivo principal.${NC}"
+        return 0
+    else
+        echo -e "${RED}Falha ao atualizar o número de ambientes no arquivo principal.${NC}"
+        # Restaura o backup se a alteração falhou
+        mv "${SCRIPT_PATH}.bak" "$SCRIPT_PATH"
+        return 1
+    fi
+}
+# ###########################################
+# Função para gerenciar as animações iniciais
+# - Propósito: Permite ao usuário pular ou ativar as animações iniciais do sistema.
+# ###########################################
+gerenciar_animacoes() {
+    cabecalho
+    echo -e "${CYAN}======================================${NC}"
+    anima_texto "       GERENCIAR ANIMAÇÕES"
+    echo -e "${CYAN}======================================${NC}"
+    
+    # Verifica o status atual da animação
+    local STATUS_ATUAL="ON"
+    if [ -f "${BASE_DIR}/animacao_status.json" ]; then
+        STATUS_ATUAL=$(cat "${BASE_DIR}/animacao_status.json")
+    fi
+    
+    echo -e "${YELLOW}Status atual das animações: ${STATUS_ATUAL}${NC}"
+    echo -e "${CYAN}--------------------------------------${NC}"
+    echo -e "${YELLOW}Escolha uma opção:${NC}"
+    echo -e "${GREEN}1${NC} - Pular animação inicial (Desativar)"
+    echo -e "${GREEN}2${NC} - Ligar animação inicial (Ativar)"
+    echo -e "${RED}0${NC} - Voltar ao menu principal"
+    
+    read -p "> " OPCAO_ANIMACAO
+    
+    case $OPCAO_ANIMACAO in
+        1)
+            echo "OFF" > "${BASE_DIR}/animacao_status.json"
+            echo -e "${GREEN}${CHECK_MARK} Animações iniciais desativadas com sucesso!${NC}"
+            echo -e "${YELLOW}Na próxima execução, o script irá diretamente para o menu principal.${NC}"
+            sleep 2
+            menu_principal
+            ;;
+        2)
+            echo "ON" > "${BASE_DIR}/animacao_status.json"
+            echo -e "${GREEN}${CHECK_MARK} Animações iniciais ativadas com sucesso!${NC}"
+            echo -e "${YELLOW}Na próxima execução, todas as animações serão exibidas.${NC}"
+            sleep 2
+            menu_principal
+            ;;
+        0)
+            menu_principal
+            ;;
+        *) 
+            echo -e "${RED}${CROSS_MARK} Opção inválida.${NC}"
+            sleep 2
+            gerenciar_animacoes
+            ;;
+    esac
+}
+
+# ###########################################
+# Função para verificar o status da animação
+# - Propósito: Verifica se o usuário optou por pular as animações iniciais.
+# ###########################################
+verificar_status_animacao() {
+    if [ -f "${BASE_DIR}/animacao_status.json" ]; then
+        local STATUS=$(cat "${BASE_DIR}/animacao_status.json")
+        if [ "$STATUS" = "OFF" ]; then
+            return 1  # Animações desativadas
+        fi
+    fi
+    return 0  # Animações ativadas (padrão)
+}
+
+# ###########################################
+# Função principal para execução inicial
+# - Propósito: Executa as etapas iniciais com ou sem animações.
+# ###########################################
+execucao_inicial() {
+    # Define VALIDATED como false para evitar erros
+    VALIDATED=false
+    
+    # Verifica se as animações estão ativadas
+    verificar_status_animacao
+    ANIMACOES_ATIVADAS=$?
+    
+    # Se as animações estiverem desativadas (OFF)
+    if [ $ANIMACOES_ATIVADAS -eq 1 ]; then
+        # Apenas verifica se os termos já foram aceitos (obrigatório)
+        if [ ! -f "$TERMS_FILE" ]; then
+            cabecalho
+            echo -e "${BLUE}${INFO} Este sistema é permitido apenas na plataforma Vortexus Cloud.${NC}"
+            echo -e "${CYAN}==============================================${NC}"
+            
+            while true; do
+                echo -e "${YELLOW}${WARNING} VOCÊ ACEITA OS TERMOS DE SERVIÇO? (SIM/NÃO)${NC}"
+                read -p "> " ACEITE
+                if [ "$ACEITE" = "sim" ]; then
+                    echo -e "${GREEN}${CHECK_MARK} Termos aceitos em $(date).${NC}" > "$TERMS_FILE"
+                    echo -e "${CYAN}==============================================${NC}"
+                    echo -e "${GREEN}${CHECK_MARK} TERMOS ACEITOS. PROSSEGUINDO...${NC}"
+                    break
+                elif [ "$ACEITE" = "não" ]; then
+                    echo -e "${RED}${CROSS_MARK} VOCÊ DEVE ACEITAR OS TERMOS PARA CONTINUAR.${NC}"
+                else
+                    echo -e "${RED}${CROSS_MARK} OPÇÃO INVÁLIDA. DIGITE 'SIM' OU 'NÃO'.${NC}"
+                fi
+            done
+        fi
+        
+        # Simula a validação para evitar erros, sem exibir animações
+        if [ ! -f "firewall.json" ]; then
+            echo '{"status": "skip"}' > firewall.json
+        fi
+        VALIDATED=true
+        
+        # Cria pastas se necessário (obrigatório, mas sem mensagens)
+        for i in $(seq 1 $NUM_AMBIENTES); do
+            AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+            if [ ! -d "$AMBIENTE_PATH" ]; then
+                mkdir -p "$AMBIENTE_PATH"
+            fi
+        done
+        
+        # APENAS verificar_sessoes e menu_principal
+        verificar_sessoes
+        menu_principal
+    else
+        # Execução normal com todas as animações
+        inicializar_gerenciador "$API_ESPERADA"
+        
+        if [ "$VALIDATED" = false ]; then
+            validar_ambiente
+        fi
+        
+exibir_termos
+criar_pastas
+        
+verificar_sessoes
+menu_principal
+    fi
+}
+
+# ###########################################
+# Função para verificação silenciosa de sessões
+# - Propósito: Verifica e restaura sessões sem animações.
+# ###########################################
+verificar_sessoes_silencioso() {
+    for i in $(seq 1 $NUM_AMBIENTES); do
+        AMBIENTE_PATH="${BASE_DIR}/ambiente${i}"
+
+        # Verifica se o arquivo .session existe
+        if [ -f "${AMBIENTE_PATH}/.session" ]; then
+            STATUS=$(recuperar_status "$AMBIENTE_PATH")
+            
+            # Verifica se o status é ON
+            if [ "$STATUS" = "ON" ]; then
+                COMANDO=$(cat "${AMBIENTE_PATH}/.session")
+                if [ -n "$COMANDO" ]; then
+                    # Verifica se o processo já está rodando
+                    PROCESSO_JA_RODANDO=false
+                    if [ -f "${AMBIENTE_PATH}/.pid" ]; then
+                        OLD_PID=$(cat "${AMBIENTE_PATH}/.pid")
+                        if kill -0 "$OLD_PID" >/dev/null 2>&1; then
+                            PROCESSO_JA_RODANDO=true
+                        fi
+                    fi
+                    
+                    # Somente inicia se não estiver rodando
+                    if [ "$PROCESSO_JA_RODANDO" = false ]; then
+                        cd "$AMBIENTE_PATH" || continue
+                        nohup $COMANDO > "${AMBIENTE_PATH}/nohup.out" 2>&1 &
+                        NEW_PID=$!
+                        echo "$NEW_PID" > "${AMBIENTE_PATH}/.pid"
+                    fi
+                fi
+            fi
+        fi
+    done
+}
+
+# ###########################################
+# Função para backup do número de ambientes
+# - Propósito: Salva o número atual de ambientes em um arquivo de backup.
+# ###########################################
+backup_num_ambientes() {
+    echo -e "${YELLOW}Criando backup do número de ambientes...${NC}"
+    echo "$NUM_AMBIENTES" > "$BACKUP_NUM_AMBIENTES"
+    echo -e "${GREEN}Backup do número de ambientes (${NUM_AMBIENTES}) criado com sucesso.${NC}"
+}
+
+# ###########################################
+# Função para restaurar o número de ambientes
+# - Propósito: Restaura o número de ambientes a partir do arquivo de backup.
+# ###########################################
+restaurar_num_ambientes() {
+    if [ -f "$BACKUP_NUM_AMBIENTES" ]; then
+        BACKUP_VALOR=$(cat "$BACKUP_NUM_AMBIENTES")
+        
+        # Verifica se o valor atual é diferente do backup
+        if [ "$NUM_AMBIENTES" != "$BACKUP_VALOR" ]; then
+            echo -e "${YELLOW}Valor de NUM_AMBIENTES diferente do backup.${NC}"
+            echo -e "${YELLOW}Atual: ${NUM_AMBIENTES}, Backup: ${BACKUP_VALOR}${NC}"
+            
+            # Atualiza o valor no arquivo do script
+            sed -i "s/^NUM_AMBIENTES=.*$/NUM_AMBIENTES=$BACKUP_VALOR # Número de ambientes que serão configurados./" "$SCRIPT_PATH"
+            
+            echo -e "${GREEN}Número de ambientes restaurado para: ${BACKUP_VALOR}${NC}"
+            echo -e "${YELLOW}Reiniciando o script para aplicar as alterações...${NC}"
+            exec "$SCRIPT_PATH"
+        else
+            echo -e "${GREEN}Número de ambientes coincide com o backup.${NC}"
+            # Remove o arquivo de backup
+            rm -f "$BACKUP_NUM_AMBIENTES"
+            echo -e "${GREEN}Arquivo de backup removido.${NC}"
+        fi
+    else
+        echo -e "${YELLOW}Nenhum arquivo de backup encontrado.${NC}"
+    fi
+}
+
+# ###########################################
+# Função para verificar consistência entre diretórios e valor NUM_AMBIENTES
+# - Propósito: Garante que o valor NUM_AMBIENTES corresponda ao número real de pastas de ambientes
+# ###########################################
+verificar_consistencia_ambientes() {
+    echo -e "${YELLOW}Verificando consistência do número de ambientes...${NC}"
+    
+    # Conta quantos diretórios de ambiente existem realmente
+    PASTAS_EXISTENTES=$(find "$BASE_DIR" -maxdepth 1 -type d -name "ambiente*" | wc -l)
+    
+    if [ "$PASTAS_EXISTENTES" -ne "$NUM_AMBIENTES" ]; then
+        echo -e "${YELLOW}Detectada inconsistência no número de ambientes!${NC}"
+        echo -e "${YELLOW}Valor atual no script: ${CYAN}$NUM_AMBIENTES${NC}"
+        echo -e "${YELLOW}Pastas realmente existentes: ${CYAN}$PASTAS_EXISTENTES${NC}"
+        
+        echo -e "${YELLOW}Atualizando o valor de NUM_AMBIENTES para corresponder à realidade...${NC}"
+        NUM_AMBIENTES=$PASTAS_EXISTENTES
+        atualizar_num_ambientes_no_script
+        
+        echo -e "${GREEN}Consistência restaurada. O script agora usará o valor correto: ${CYAN}$NUM_AMBIENTES${NC}"
+        
+        # Reinicia o script para usar o novo valor
+        echo -e "${YELLOW}Reiniciando o script para aplicar as alterações...${NC}"
+        sleep 2
+        exec "$SCRIPT_PATH"
+    else
+        echo -e "${GREEN}Número de ambientes está consistente: ${CYAN}$NUM_AMBIENTES${NC}"
+    fi
+}
+
+# Execução principal
+# Verifica se existe backup do número de ambientes e o restaura se necessário
+restaurar_num_ambientes
+# Verifica a consistência entre as pastas existentes e o valor NUM_AMBIENTES
+verificar_consistencia_ambientes
+execucao_inicial
+#verificar_whitelist
