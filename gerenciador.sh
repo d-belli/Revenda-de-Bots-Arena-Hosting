@@ -1605,15 +1605,13 @@ verificar_atualizacoes() {
     echo -e "       VERIFICANDO ATUALIZAÇÕES"
     echo -e "${CYAN}======================================${NC}"
 
-    # Obtém o conteúdo remoto do GitHub
     CONTEUDO_REMOTO=$(curl -s --max-time 5 "$URL_SCRIPT")
     if [ -z "$CONTEUDO_REMOTO" ]; then
         echo -e "${YELLOW}Não foi possível verificar atualizações. Tente novamente mais tarde.${NC}"
         return
     fi
 
-    # Extrai a versão remota do conteúdo
-    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep -oP 'VERSAO_LOCAL="\K[0-9]+\.[0-9]+\.[0-9]+')
+    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep 'VERSAO_LOCAL=' | cut -d'"' -f2)
     if [ -z "$VERSAO_REMOTA" ]; then
         echo -e "${YELLOW}Não foi possível extrair a versão do arquivo remoto.${NC}"
         return
@@ -1622,15 +1620,14 @@ verificar_atualizacoes() {
     echo -e "${CYAN}Versão Atual: ${GREEN}${VERSAO_LOCAL}${NC}"
     echo -e "${CYAN}Versão Disponível: ${GREEN}${VERSAO_REMOTA}${NC}"
 
-    # Compara as versões
     if [ "$VERSAO_REMOTA" = "$VERSAO_LOCAL" ]; then
         echo -e "${GREEN}Você está usando a versão mais recente do nosso script.${NC}"
-    elif [[ "$VERSAO_REMOTA" > "$VERSAO_LOCAL" ]]; then
+    elif [ "$(printf "%s\n" "$VERSAO_LOCAL" "$VERSAO_REMOTA" | sort -V | head -n1)" != "$VERSAO_LOCAL" ]; then
         echo -e "${YELLOW}Nova atualização disponível! (${VERSAO_REMOTA})${NC}"
         echo -e "${YELLOW}Instalando atualização automaticamente...${NC}"
         aplicar_atualizacao_automatica
     else
-        echo -e "${RED}Erro ao atualizar: A versão disponível (${VERSAO_REMOTA}) é menor que a versão atual (${VERSAO_LOCAL}).${NC}"
+        echo -e "${RED}Erro: a versão disponível (${VERSAO_REMOTA}) é menor que a atual (${VERSAO_LOCAL}).${NC}"
     fi
 }
 
