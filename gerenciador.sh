@@ -1611,7 +1611,7 @@ verificar_atualizacoes() {
         return
     fi
 
-    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep 'VERSAO_LOCAL=' | cut -d'"' -f2)
+    VERSAO_REMOTA=$(echo "$CONTEUDO_REMOTO" | grep -Eo 'VERSAO_LOCAL="[0-9]+\.[0-9]+\.[0-9]+"' | head -n1 | cut -d'"' -f2)
     if [ -z "$VERSAO_REMOTA" ]; then
         echo -e "${YELLOW}Não foi possível extrair a versão do arquivo remoto.${NC}"
         return
@@ -2085,7 +2085,7 @@ reorganizar_ambientes() {
     NUM_AMBIENTES=$((NOVO_INDICE - 1))
     
     # Atualiza o valor no arquivo do script
-    atualizar_num_ambientes_no_script
+    # atualizar_num_ambientes_no_script
     
     echo -e "${GREEN}${CHECK_MARK} Ambientes reorganizados com sucesso!${NC}"
     echo -e "${YELLOW}Novo total de ambientes: ${CYAN}$NUM_AMBIENTES${NC}"
@@ -2095,37 +2095,37 @@ reorganizar_ambientes() {
 # Função para atualizar o número de ambientes no script
 # - Propósito: Atualiza a variável NUM_AMBIENTES no arquivo do script.
 # ###########################################
-atualizar_num_ambientes_no_script() {
-    # Certifica-se de que o caminho do script está correto
-    if [ ! -f "$SCRIPT_PATH" ]; then
-        echo -e "${RED}Erro: Não foi possível encontrar o arquivo do script em $SCRIPT_PATH${NC}"
-        # Tenta encontrar o script no diretório base
-        if [ -f "${BASE_DIR}/${SCRIPT_NOME}" ]; then
-            SCRIPT_PATH="${BASE_DIR}/${SCRIPT_NOME}"
-            echo -e "${YELLOW}Usando caminho alternativo: $SCRIPT_PATH${NC}"
-        else
-            echo -e "${RED}Não foi possível encontrar o script. A atualização do número de ambientes falhou.${NC}"
-            return 1
-        fi
-    fi
+# atualizar_num_ambientes_no_script() {
+#     # Certifica-se de que o caminho do script está correto
+#     if [ ! -f "$SCRIPT_PATH" ]; then
+#         echo -e "${RED}Erro: Não foi possível encontrar o arquivo do script em $SCRIPT_PATH${NC}"
+#         # Tenta encontrar o script no diretório base
+#         if [ -f "${BASE_DIR}/${SCRIPT_NOME}" ]; then
+#             SCRIPT_PATH="${BASE_DIR}/${SCRIPT_NOME}"
+#             echo -e "${YELLOW}Usando caminho alternativo: $SCRIPT_PATH${NC}"
+#         else
+#             echo -e "${RED}Não foi possível encontrar o script. A atualização do número de ambientes falhou.${NC}"
+#             return 1
+#         fi
+#     fi
     
-    # Faz backup do script antes de modificar
-    cp "$SCRIPT_PATH" "${SCRIPT_PATH}.bak"
+#     # Faz backup do script antes de modificar
+#     cp "$SCRIPT_PATH" "${SCRIPT_PATH}.bak"
     
-    # Atualiza a variável NUM_AMBIENTES no arquivo do script
-    sed -i "s/^NUM_AMBIENTES=.*$/NUM_AMBIENTES=$NUM_AMBIENTES # Número de ambientes que serão configurados./" "$SCRIPT_PATH"
+#     # Atualiza a variável NUM_AMBIENTES no arquivo do script
+#     sed -i "s/^NUM_AMBIENTES=.*$/NUM_AMBIENTES=$NUM_AMBIENTES # Número de ambientes que serão configurados./" "$SCRIPT_PATH"
     
-    # Verifica se a alteração foi feita com sucesso
-    if grep -q "NUM_AMBIENTES=$NUM_AMBIENTES" "$SCRIPT_PATH"; then
-        echo -e "${GREEN}O número de ambientes foi atualizado para ${CYAN}$NUM_AMBIENTES${NC} no arquivo principal.${NC}"
-        return 0
-    else
-        echo -e "${RED}Falha ao atualizar o número de ambientes no arquivo principal.${NC}"
-        # Restaura o backup se a alteração falhou
-        mv "${SCRIPT_PATH}.bak" "$SCRIPT_PATH"
-        return 1
-    fi
-}
+#     # Verifica se a alteração foi feita com sucesso
+#     if grep -q "NUM_AMBIENTES=$NUM_AMBIENTES" "$SCRIPT_PATH"; then
+#         echo -e "${GREEN}O número de ambientes foi atualizado para ${CYAN}$NUM_AMBIENTES${NC} no arquivo principal.${NC}"
+#         return 0
+#     else
+#         echo -e "${RED}Falha ao atualizar o número de ambientes no arquivo principal.${NC}"
+#         # Restaura o backup se a alteração falhou
+#         mv "${SCRIPT_PATH}.bak" "$SCRIPT_PATH"
+#         return 1
+#     fi
+# }
 # ###########################################
 # Função para gerenciar as animações iniciais
 # - Propósito: Permite ao usuário pular ou ativar as animações iniciais do sistema.
