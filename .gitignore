@@ -31,3 +31,4 @@ publicar_release.bat
 # Git
 # ======================================
 .gitignore
+tags.bat
