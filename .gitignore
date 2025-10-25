@@ -1,1 +1,33 @@
-tags.bat
+# ======================================
+# Arquivos temporários do Windows
+# ======================================
+Thumbs.db
+desktop.ini
+*.log
+
+# ======================================
+# Arquivos do Ptero / container
+# ======================================
+/home/container/*.tmp
+/home/container/.reload_needed
+
+# ======================================
+# Tokens e credenciais
+# ======================================
+publicar_release.bat
+*.env
+*.secret
+.token
+
+# ======================================
+# Arquivos compilados ou desnecessários
+# ======================================
+*.exe
+*.dll
+*.pyc
+*.pyo
+
+# ======================================
+# Git
+# ======================================
+.gitignore
