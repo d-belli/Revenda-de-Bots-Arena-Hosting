@@ -32,3 +32,5 @@ publicar_release.bat
 # ======================================
 .gitignore
 tags.bat
+release.json
+.git
